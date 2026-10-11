@@ -589,6 +589,40 @@
     "stars": 74
   },
   {
+    "id": "dsh-deepcanary",
+    "name": "dsh-deepcanary",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Oscar-Williams/dsh-deepcanary",
+    "description": "Know when your DeepSeek Harness tasks need you. Local alerts, quiet notifications, and a task inbox.",
+    "description_zh": "Know when your DeepSeek Harness tasks need you. Local alerts, quiet notifications, and a task inbox.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 74,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-sieve",
+    "name": "dsh-sieve",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Sev7eEn7/dsh-sieve",
+    "description": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+    "description_zh": "dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。",
+    "capabilities": [
+      "coding",
+      "context"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 74,
+    "license": "MIT"
+  },
+  {
     "id": "forkprobe",
     "name": "forkprobe",
     "type": "skill",
@@ -658,6 +692,24 @@
     "growth": 7
   },
   {
+    "id": "dsh-agent-team-1",
+    "name": "dsh-agent-team",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Contexera/dsh-agent-team",
+    "description": "dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.",
+    "description_zh": "dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 57,
+    "license": "MIT"
+  },
+  {
     "id": "new-litigation-visualization",
     "name": "new-litigation-visualization",
     "type": "skill",
@@ -717,6 +769,22 @@
     "capabilities": [
       "coding",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 36
+  },
+  {
+    "id": "html-workbench",
+    "name": "html-workbench",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/alienzhou/html-workbench",
+    "description": "Local visual editor for existing HTML, with interactive previews and AI collaboration. Available as a DeepSeek Harness plugin and agent skill. 本地 HTML 可视化编辑、交互预览与 AI 协作，支持 DeepSeek Harness 插件和 Agent Skill。",
+    "description_zh": "Local visual editor for existing HTML, with interactive previews and AI collaboration. Available as a DeepSeek Harness plugin and agent skill. 本地 HTML 可视化编辑、交互预览与 AI 协作，支持 DeepSeek Harness 插件和 Agent Skill。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -842,6 +910,22 @@
       "coding",
       "multi-agent",
       "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 30
+  },
+  {
+    "id": "asd-ste100-skill-zh",
+    "name": "asd-ste100-skill-zh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/lemonhall/asd-ste100-skill-zh",
+    "description": "受控中文技术写作技能：ASD-STE100 的中文对应物，含 stdlib-only 确定性 linter。Controlled Chinese technical writing skill for agents.",
+    "description_zh": "受控中文技术写作技能：ASD-STE100 的中文对应物，含 stdlib-only 确定性 linter。Controlled Chinese technical writing skill for agents.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -1004,6 +1088,22 @@
     "_updated": "2026-08-18",
     "_stars_prev": 22,
     "growth": 2
+  },
+  {
+    "id": "dsh-skill",
+    "name": "dsh-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/realchendahuang/dsh-skill",
+    "description": "Official plugin & skill development kit for DeepSeek Harness (DSH). Grounded in core runtime contracts for Claude Code, Codex, Antigravity, and DSH.",
+    "description_zh": "Official plugin & skill development kit for DeepSeek Harness (DSH). Grounded in core runtime contracts for Claude Code, Codex, Antigravity, and DSH.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 24,
+    "license": "MIT"
   },
   {
     "id": "video-shotcraft-dsh",
@@ -1493,6 +1593,23 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "charcard-workshop",
+    "name": "charcard-workshop",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/yukk4159-bit/charcard-workshop",
+    "description": "角色卡工坊 — a DeepSeek Harness agent preset and skill set for authoring SillyTavern character cards",
+    "description_zh": "角色卡工坊 — a DeepSeek Harness agent preset and skill set for authoring SillyTavern character cards",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skill-manager-ytxue",
     "name": "dsh-skill-manager-ytxue",
     "type": "skill",
@@ -1675,6 +1792,24 @@
     "capabilities": [
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11,
+    "license": "MIT"
+  },
+  {
+    "id": "ghidra-skill-for-dsh",
+    "name": "ghidra-skill-for-dsh",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Cristallin2006/ghidra-skill-for-dsh",
+    "description": "Custom-built for dsh (DeepSeek Harness): persistent Ghidra headless daemon + reverse-engineering agent skills (triage/unpack/decompile/pwn/pcap/APK) with circuit breakers against agent failure loops. 为 dsh 深度定制：会熔断、能从复盘进化的逆向 skill 家族。",
+    "description_zh": "Custom-built for dsh (DeepSeek Harness): persistent Ghidra headless daemon + reverse-engineering agent skills (triage/unpack/decompile/pwn/pcap/APK) with circuit breakers against agent failure loops. 为 dsh 深度定制：会熔断、能从复盘进化的逆向 skill 家族。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -1894,6 +2029,23 @@
     "stars": 9
   },
   {
+    "id": "dsh-plugin-control-your-development",
+    "name": "dsh-plugin-control-your-development",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/HaoyanZhang123/dsh-plugin-control-your-development",
+    "description": "把 AI 开发的进展变成人人看得懂、能拍板的产品仪表盘（DSH skill + 右侧栏面板）｜A product dashboard for AI-assisted development — readable and controllable (DSH skill + sidebar panel)",
+    "description_zh": "把 AI 开发的进展变成人人看得懂、能拍板的产品仪表盘（DSH skill + 右侧栏面板）｜A product dashboard for AI-assisted development — readable and controllable (DSH skill + sidebar panel)",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-codex-port",
     "name": "dsh-codex-port",
     "type": "skill",
@@ -1960,6 +2112,22 @@
       "humanizer",
       "novel-writing"
     ]
+  },
+  {
+    "id": "dsh-notch",
+    "name": "dsh-notch",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/aa2246740/dsh-notch",
+    "description": "Native macOS Notch for DSH sessions, inline answers and animated task status",
+    "description_zh": "Native macOS Notch for DSH sessions, inline answers and animated task status",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 8,
+    "license": "MIT"
   },
   {
     "id": "dsh-skin-universe",
@@ -2343,6 +2511,25 @@
     "capabilities": [
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
+    "id": "scholar-llm-wiki",
+    "name": "scholar-llm-wiki",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/lkhfrgc/scholar-llm-wiki",
+    "description": "A knowledge base toolkit for research and literature review. AI agents compile papers, books and notes into a structured, densely interlinked Obsidian wiki. Built on Karpathy's llm-wiki.md: ingest/query/lint skills, controlled tag vocabulary, concept hierarchy + Canvas, arXiv->LaTeX formula pipeline, exit-code audits.",
+    "description_zh": "A knowledge base toolkit for research and literature review. AI agents compile papers, books and notes into a structured, densely interlinked Obsidian wiki. Built on Karpathy's llm-wiki.md: ingest/query/lint skills, controlled tag vocabulary, concept hierarchy + Canvas, arXiv->LaTeX formula pipeline, exit-code audits.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "search",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -3397,6 +3584,41 @@
     "description_zh": "Claude Code conventions skill for Chinese users",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "tool-repair-skill-for-hermes-and-opencode",
+    "name": "tool-repair-skill-for-hermes-and-opencode",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/bojansandhaus/tool-repair-skill-for-hermes-and-opencode",
+    "description": "Hermes Tool Repair Skill - deterministic tool call repair for LLM agents. Catches common JSON formatting mistakes open models make and fixes them before dispatch, with repair notes that teach the model to self-correct.",
+    "description_zh": "Hermes Tool Repair Skill - deterministic tool call repair for LLM agents. Catches common JSON formatting mistakes open models make and fixes them before dispatch, with repair notes that teach the model to self-correct.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "behavior-enhancer-generic",
+    "name": "behavior-enhancer-generic",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Zoria-Lind/behavior-enhancer-generic",
+    "description": "Behavior discipline for coding agents: read-before-write enforcement, failure convergence, write verification with auto-rollback, and a high-risk command gate. Ships FULL plugin/hook adapters for DSH, Claude Code, Codex, and Pi, plus a host-agnostic SOFT skill with ADAPTIVE adapter guidance.",
+    "description_zh": "Behavior discipline for coding agents: read-before-write enforcement, failure convergence, write verification with auto-rollback, and a high-risk command gate. Ships FULL plugin/hook adapters for DSH, Claude Code, Codex, and Pi, plus a host-agnostic SOFT skill with ADAPTIVE adapter guidance.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -4732,6 +4954,141 @@
     "status": "active",
     "verified": false,
     "stars": 3
+  },
+  {
+    "id": "dsh-codex-pet-2",
+    "name": "dsh-codex-pet",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/MichengAI/dsh-codex-pet",
+    "description": "DSH Codex Pet — 为 DeepSeek Harness 提供宠物陪伴、多任务提醒与交互，以及 Skill 自定义宠物 · A pet companion with multi-task notifications, interactions, and Skill-based custom pets for DeepSeek Harness",
+    "description_zh": "DSH Codex Pet — 为 DeepSeek Harness 提供宠物陪伴、多任务提醒与交互，以及 Skill 自定义宠物 · A pet companion with multi-task notifications, interactions, and Skill-based custom pets for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "bruce-md2word",
+    "name": "bruce-md2word",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/bruc3van/bruce-md2word",
+    "description": "面向 AI Agent 的 Markdown 转 Word 工具：中文排版、Mermaid 图表、可编辑数学公式，提供 Skill、独立 CLI 和 DSH 插件。",
+    "description_zh": "面向 AI Agent 的 Markdown 转 Word 工具：中文排版、Mermaid 图表、可编辑数学公式，提供 Skill、独立 CLI 和 DSH 插件。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "ascii-h3-director",
+    "name": "ascii-h3-director",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/YanKaFei/ascii-h3-director",
+    "description": "ASCII / kinetic-typography film direction for MiniMax H3 — DeepSeek Harness plugin + portable Agent Skill. Deterministic zero-dependency preview engine, 21-mechanism motion grammar, seam-checked continuation, and a Director Console.",
+    "description_zh": "ASCII / kinetic-typography film direction for MiniMax H3 — DeepSeek Harness plugin + portable Agent Skill. Deterministic zero-dependency preview engine, 21-mechanism motion grammar, seam-checked continuation, and a Director Console.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-kit-2",
+    "name": "dsh-plugin-kit",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/QIN-SMART/dsh-plugin-kit",
+    "description": "DeepSeek Harness plugin authoring kit: a skill, a tested repository template, a scaffolder, a cross-host skill validator, a GitHub REST publisher and a pitfall library.",
+    "description_zh": "DeepSeek Harness plugin authoring kit: a skill, a tested repository template, a scaffolder, a cross-host skill validator, a GitHub REST publisher and a pitfall library.",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-task-coordinator",
+    "name": "dsh-plugin-task-coordinator",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Kayungko/dsh-plugin-task-coordinator",
+    "description": "Codex-style cross-task coordination for DeepSeek Harness: list, inspect, spawn, message and steer top-level sessions from a supervisor agent.",
+    "description_zh": "Codex-style cross-task coordination for DeepSeek Harness: list, inspect, spawn, message and steer top-level sessions from a supervisor agent.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-sidebar",
+    "name": "dsh-skill-sidebar",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/lnyuqian/dsh-skill-sidebar",
+    "description": "dsh-skill-sidebar 技能面板：DSH 右侧边栏技能面板（Skills panel）— 扫描本机技能目录列出全部技能，4-6 字功能短语 + 目录标签 + 一键复制调用 + 置顶 + 默认自动打开 + 每周刷新",
+    "description_zh": "dsh-skill-sidebar 技能面板：DSH 右侧边栏技能面板（Skills panel）— 扫描本机技能目录列出全部技能，4-6 字功能短语 + 目录标签 + 一键复制调用 + 置顶 + 默认自动打开 + 每周刷新",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-github-harness",
+    "name": "dsh-github-harness",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/yintaocheng/dsh-github-harness",
+    "description": "Minimal single-agent GitHub task loop for DeepSeek Harness",
+    "description_zh": "Minimal single-agent GitHub task loop for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tool-manager",
+    "name": "dsh-tool-manager",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/pan17/dsh-tool-manager",
+    "description": "DSH 工具管理插件：按 Agent Preset 开关和分组工具，像 Skill 一样按需加载工具，减少模型上下文占用。",
+    "description_zh": "DSH 工具管理插件：按 Agent Preset 开关和分组工具，像 Skill 一样按需加载工具，减少模型上下文占用。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
   },
   {
     "id": "dsh-review-skills",

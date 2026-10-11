@@ -1,16 +1,16 @@
 ---
 title: "agent-body"
 description: "Gates 84.7% of tool-schema prompt tokens away for DeepSeek Harness: plugins declare themselves organs, a nerve impulse routes each command, reflex arcs fire with zero model calls, memory consolidates while idle, every failure is attributed before retry. Reproducible offline, MIT."
-keywords: "agent-body, memory, plugin, coding, deepseek harness, dsh"
+keywords: "agent-body, memory, plugin, context, observability, automation, deepseek harness, dsh"
 ---
 # agent-body
 
-> ⭐ **14** · ✅ active · plugin
+> ⭐ **16** · 🧪 experimental · plugin
 
 | | | | |
 |---|---|---|---|
 | Type | plugin | Category | Memory & context |
-| Stars | ⭐ 14 | Status | ✅ active |
+| Stars | ⭐ 16 | Status | 🧪 experimental |
 | Author | [1420079678-ctrl](https://github.com/1420079678-ctrl) | Updated | — |
 
 ## One-liner

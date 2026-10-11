@@ -418,6 +418,23 @@
     ]
   },
   {
+    "id": "better-dsh-session-deletetool",
+    "name": "better-dsh-session-deletetool",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Lzcdebear/better-dsh-session-deletetool",
+    "description": "Delete DSH conversations instead of archiving them, see the whole family a conversation spawned (its subagents and derived conversations), and delete in bulk. / 真正删除 DeepSeek Harness 里的会话，并看清它生出的子智能体与派生对话。",
+    "description_zh": "Delete DSH conversations instead of archiving them, see the whole family a conversation spawned (its subagents and derived conversations), and delete in bulk. / 真正删除 DeepSeek Harness 里的会话，并看清它生出的子智能体与派生对话。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 23,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-roleplay-preset",
     "name": "dsh-roleplay-preset",
     "type": "agent",
@@ -1096,6 +1113,22 @@
     "license": "MIT"
   },
   {
+    "id": "projectkaren",
+    "name": "ProjectKaren",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/2huy4n/ProjectKaren",
+    "description": "A DeepSeek Harness plugin that gives a roleplay character a clock: sleep/wake, greetings, idle actions, proactive small talk, and outing photos.",
+    "description_zh": "A DeepSeek Harness plugin that gives a roleplay character a clock: sleep/wake, greetings, idle actions, proactive small talk, and outing photos.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "AGPL-3.0"
+  },
+  {
     "id": "dsh-agent-messaging",
     "name": "dsh-agent-messaging",
     "type": "agent",
@@ -1282,6 +1315,23 @@
     "repository": "https://github.com/muzyLink/dsh-subagent-profile",
     "description": "DeepSeek Harness 子 Agent 派发插件：按任务为子代理选模型、推理强度与工具范围，常用组合存成命名方案随时复用；内置安全检查、成本估算与节省分析、完整派发决策台账。",
     "description_zh": "DeepSeek Harness 子 Agent 派发插件：按任务为子代理选模型、推理强度与工具范围，常用组合存成命名方案随时复用；内置安全检查、成本估算与节省分析、完整派发决策台账。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cds-mode",
+    "name": "dsh-cds-mode",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/DRQRTS/dsh-cds-mode",
+    "description": "CDS 模式（Chen's DS）— a multi-agent development mode for DeepSeek Harness. You talk to one persona; it dispatches 56 personas that hand work to each other directly.",
+    "description_zh": "CDS 模式（Chen's DS）— a multi-agent development mode for DeepSeek Harness. You talk to one persona; it dispatches 56 personas that hand work to each other directly.",
     "capabilities": [
       "coding",
       "multi-agent"
@@ -1542,6 +1592,22 @@
     "capabilities": [
       "coding",
       "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-puzzle-mode",
+    "name": "dsh-puzzle-mode",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/liancha22/dsh-puzzle-mode",
+    "description": "DSH 插件｜拼图模式：把项目拆成主文档 + 若干模块文档，AI 主动提问把不确定项变成已定项，用五维算项目健康性。一个会话可同时绑多个项目，面板有绑定切换条；项目分小 / 中 / 大三档，条目上限随档位放宽或收紧；主文档第五节 `## 工作流` 是标准化流水线（一条 = 一个 ### 名字块 + 有序步骤），命中触发词自动注入。**重复思考熔断**：同一工具连续 3 次同样参数调用即注入提示，把绕圈的模型推出去。文档格式 v7；与 dsh-infinite-gen-5 同装时按契约共存。",
+    "description_zh": "DSH 插件｜拼图模式：把项目拆成主文档 + 若干模块文档，AI 主动提问把不确定项变成已定项，用五维算项目健康性。一个会话可同时绑多个项目，面板有绑定切换条；项目分小 / 中 / 大三档，条目上限随档位放宽或收紧；主文档第五节 `## 工作流` 是标准化流水线（一条 = 一个 ### 名字块 + 有序步骤），命中触发词自动注入。**重复思考熔断**：同一工具连续 3 次同样参数调用即注入提示，把绕圈的模型推出去。文档格式 v7；与 dsh-infinite-gen-5 同装时按契约共存。",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -1997,6 +2063,93 @@
     "description_zh": "One model writes the work, a different one reviews it, and neither decides whether it passed. Cross-provider AI review with verifiable evidence, for DeepSeek Harness/Cordis hosts. 中文文档见 README.zh.md。",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-budget-watcher",
+    "name": "dsh-budget-watcher",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/NeutronStar714/dsh-budget-watcher",
+    "description": "适配 DeepSeek Harness 的预算监视器插件，让 API 花费变透明。通过图标展示账户余额、当前轮/会话的花费、以及任务花钱速率，提醒或帮助用户阻断突发性大量烧钱（例如未经过协商发放几十个 Subagent 等等）A Deepseek Harness plugin that makes cost transparent: floating window showing balance left on your API account, what the turns you ran actually cost, and how fast is your agent using your balance for tasks.",
+    "description_zh": "适配 DeepSeek Harness 的预算监视器插件，让 API 花费变透明。通过图标展示账户余额、当前轮/会话的花费、以及任务花钱速率，提醒或帮助用户阻断突发性大量烧钱（例如未经过协商发放几十个 Subagent 等等）A Deepseek Harness plugin that makes cost transparent: floating window showing balance left on your API account, what the turns you ran actually cost, and how fast is your agent using your balance for tasks.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-git-2",
+    "name": "dsh-git",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/xia-sc/dsh-git",
+    "description": "DeepSeek Harness Web GUI 的完整 Git 管理插件，形态为一个可折叠的悬浮面板， 实时跟随当前会话的工作区——在侧边栏点击不同的会话/工作区，面板会瞬间 重新绑定到对应仓库。  支持的工作流： 分支切换 · 拉取更新(fetch) · 拉取合并(pull，仅快进) · 暂存全部 · 提交(commit，可用 AI 起草提交信息) · 推送(push) · 状态(status) · 最近提交 · 未提交文件列表 · 点击变更看差异 · 基于某分支新建分支。",
+    "description_zh": "DeepSeek Harness Web GUI 的完整 Git 管理插件，形态为一个可折叠的悬浮面板， 实时跟随当前会话的工作区——在侧边栏点击不同的会话/工作区，面板会瞬间 重新绑定到对应仓库。  支持的工作流： 分支切换 · 拉取更新(fetch) · 拉取合并(pull，仅快进) · 暂存全部 · 提交(commit，可用 AI 起草提交信息) · 推送(push) · 状态(status) · 最近提交 · 未提交文件列表 · 点击变更看差异 · 基于某分支新建分支。",
+    "capabilities": [
+      "coding",
+      "git",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-kit",
+    "name": "dsh-session-kit",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ltxlong/dsh-session-kit",
+    "description": "会话管理菜单、归档管理、轮次级删除、重新生成、记忆管理、任务管理、话题导航。Conversation management menu, archive management, round-level deletion, regeneration, memory management, task management, topic navigation.",
+    "description_zh": "会话管理菜单、归档管理、轮次级删除、重新生成、记忆管理、任务管理、话题导航。Conversation management menu, archive management, round-level deletion, regeneration, memory management, task management, topic navigation.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-outsourcing-expert",
+    "name": "dsh-outsourcing-expert",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Funny1Potato/dsh-outsourcing-expert",
+    "description": "DSH agent presets whose leader does no work itself: non-management tool calls are denied at the harness boundary and every task goes to a subagent (a second preset deliberately picks weaker models for harder tasks).",
+    "description_zh": "DSH agent presets whose leader does no work itself: non-management tool calls are denied at the harness boundary and every task goes to a subagent (a second preset deliberately picks weaker models for harder tasks).",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-subagent-delete",
+    "name": "dsh-plugin-subagent-delete",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/heiheiha798/dsh-plugin-subagent-delete",
+    "description": "DSH plugin: delete_subagent tool + UI - release or permanently remove subagent sessions from the DeepSeek Harness web UI",
+    "description_zh": "DSH plugin: delete_subagent tool + UI - release or permanently remove subagent sessions from the DeepSeek Harness web UI",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,

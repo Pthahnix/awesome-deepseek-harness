@@ -157,6 +157,24 @@
     "growth": 1
   },
   {
+    "id": "conceptloom",
+    "name": "ConceptLoom",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Zproger/ConceptLoom",
+    "description": "AI-powered learning workflow for Codex, Claude Code, OpenCode and DeepSeek Harness that maps your knowledge, builds a personalized learning path, checks understanding, and saves progress across sessions.",
+    "description_zh": "AI-powered learning workflow for Codex, Claude Code, OpenCode and DeepSeek Harness that maps your knowledge, builds a personalized learning path, checks understanding, and saves progress across sessions.",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 144,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-harness-book",
     "name": "deepseek-harness-book",
     "type": "tutorial",
@@ -189,6 +207,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-web-studyhub",
+    "name": "dsh-web-studyhub",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/EricWang1358/dsh-web-studyhub",
+    "description": "StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into questions and spaced review · 把自己的资料变成题目与间隔复习的 DSH 学习插件",
+    "description_zh": "StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into questions and spaced review · 把自己的资料变成题目与间隔复习的 DSH 学习插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 85,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-agi-harness",
     "name": "dsh-agi-harness",
     "type": "tutorial",
@@ -218,6 +252,22 @@
     "status": "active",
     "verified": false,
     "stars": 66
+  },
+  {
+    "id": "stg-desk",
+    "name": "STG-Desk",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/wildcat430524/STG-Desk",
+    "description": "StepsToGreat 本地学习文档工作台，支持原生 DSH 会话协作",
+    "description_zh": "StepsToGreat 本地学习文档工作台，支持原生 DSH 会话协作",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 61,
+    "license": "MIT"
   },
   {
     "id": "dsh-harness-tutorial",
@@ -306,6 +356,21 @@
     "status": "active",
     "verified": false,
     "stars": 24
+  },
+  {
+    "id": "dsh-piggy",
+    "name": "dsh-piggy",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/CLICGGER-TYPES/dsh-piggy",
+    "description": "🐖 DeepSeek Harness 养成插件，也可作为 Windows/Linux/macOS 桌面宠物运行；支持成长、学习、打工、钓鱼、图鉴与换肤",
+    "description_zh": "🐖 DeepSeek Harness 养成插件，也可作为 Windows/Linux/macOS 桌面宠物运行；支持成长、学习、打工、钓鱼、图鉴与换肤",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 21
   },
   {
     "id": "dsh",
@@ -929,6 +994,40 @@
     "description_zh": "使用DeepSeekHarness进行学习和笔记",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "learning-skills",
+    "name": "learning-skills",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/XSY-28/learning-skills",
+    "description": "Learning skills for Codex and DeepSeek Harness: course notes, conceptual explanations, and self-contained lectures.",
+    "description_zh": "Learning skills for Codex and DeepSeek Harness: course notes, conceptual explanations, and self-contained lectures.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-okf-memory",
+    "name": "dsh-okf-memory",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/ZHI-QI/dsh-okf-memory",
+    "description": "dsh-okf-memory: 会话记忆 → OKF 知识沉淀插件(神经自我学习驱动)。Session-to-OKF memory plugin: predictive recall, uncertainty-driven capture, reinforcement feedback, consolidation & forgetting.",
+    "description_zh": "dsh-okf-memory: 会话记忆 → OKF 知识沉淀插件(神经自我学习驱动)。Session-to-OKF memory plugin: predictive recall, uncertainty-driven capture, reinforcement feedback, consolidation & forgetting.",
+    "capabilities": [
+      "coding",
+      "memory"
     ],
     "status": "active",
     "verified": false,

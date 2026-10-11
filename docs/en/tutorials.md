@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "Top 10 and full list of 61 curated tutorials & learning for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 67 curated tutorials & learning for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -28,12 +28,12 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 7 | [qq-bridge](resources/qq-bridge.md) | ⭐218 | Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more. | ✅ active |
 | 8 | [dshfind](resources/dshfind.md) | ⭐200 | Learn DSH principles, plugin marketplace and best practices — from chapter-by-chapter Cordis paper reading to an auto-aggregated plugin market. | ✅ active |
 | 9 | [deepseek-harness-tutorial](resources/deepseek-harness-tutorial.md) | ⭐182 | Detailed Chinese learning tutorial for DeepSeek Harness. | ✅ active |
-| 10 | [deepseek-harness-book](resources/deepseek-harness-book.md) | ⭐128 | 《从零开始玩转 DeepSeek Harness》——DeepSeek Harness 实战指南 | ✅ active |
+| 10 | [ConceptLoom](resources/conceptloom.md) | ⭐144 | AI-powered learning workflow for Codex, Claude Code, OpenCode and DeepSeek Harness that maps your knowledge, builds a personalized learning path, checks understanding, and saves progress across sessions. | ✅ active |
 
-## Complete list (61)
+## Complete list (67)
 
 
-**Learning (61)**
+**Learning (67)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -46,15 +46,19 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [qq-bridge](resources/qq-bridge.md) | ⭐218 | Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more. | ✅ active |
 | [dshfind](resources/dshfind.md) | ⭐200 | Learn DSH principles, plugin marketplace and best practices — from chapter-by-chapter Cordis paper reading to an auto-aggregated plugin market. | ✅ active |
 | [deepseek-harness-tutorial](resources/deepseek-harness-tutorial.md) | ⭐182 | Detailed Chinese learning tutorial for DeepSeek Harness. | ✅ active |
+| [ConceptLoom](resources/conceptloom.md) | ⭐144 | AI-powered learning workflow for Codex, Claude Code, OpenCode and DeepSeek Harness that maps your knowledge, builds a personalized learning path, checks understanding, and saves progress across sessions. | ✅ active |
 | [deepseek-harness-book](resources/deepseek-harness-book.md) | ⭐128 | 《从零开始玩转 DeepSeek Harness》——DeepSeek Harness 实战指南 | ✅ active |
 | [deepseek-harness-python-tutorial](resources/deepseek-harness-python-tutorial.md) | ⭐128 | DeepSeek Harness (DSH) Python 教程：17 章从零实现 Agent Loop、插件系统、工具调用、Session、上下文工程、Subagent 与 Headless CLI | ✅ active |
+| [dsh-web-studyhub](resources/dsh-web-studyhub.md) | ⭐85 | StudyHub: a DeepSeek Harness (DSH) plugin that turns your own material into questions and spaced review · 把自己的资料变成题目与间隔复习的 DSH 学习插件 | ✅ active |
 | [dsh-agi-harness](resources/dsh-agi-harness.md) | ⭐67 | AGI harness: 责任闭环、信誉、学习的外部化（DSH 插件组合） | ✅ active |
 | [dsh-memory](resources/dsh-memory-1-1.md) | ⭐66 | 白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。 | ✅ active |
+| [STG-Desk](resources/stg-desk.md) | ⭐61 | StepsToGreat 本地学习文档工作台，支持原生 DSH 会话协作 | ✅ active |
 | [dsh-harness-tutorial](resources/dsh-harness-tutorial.md) | ⭐54 | DeepSeek Harness Agent 的原理与实现：从零到一实现一个 AI Agent —— 一切皆插件的中文教程（VitePress 站点 + 8 个 Demo + mini-harness 教学项目） | ✅ active |
 | [learn-deepseek-harness](resources/learn-deepseek-harness-1.md) | ⭐37 | Learn DeepSeek Harness from scratch. | ✅ active |
 | [deepseek-harness-handbook](resources/deepseek-harness-handbook.md) | ⭐36 | Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks. | ✅ active |
 | [deepseek-harness-handbook](resources/deepseek-harness-handbook-1.md) | ⭐36 | DeepSeek Harness 实战手册：一切皆插件的 Agent 框架中文教程（17 章 + 实测附录 + 全套发布物料） | ✅ active |
 | [deepseek-harness-oneclick-pack](resources/deepseek-harness-oneclick-pack.md) | ⭐24 | DeepSeek Harness (dsh) 保姆级中文安装使用教程 + 开箱即用免安装版。小白从零开始：装 Node.js → 装 dsh → 浏览器打开 → 配置 API → 上手使用 → 改保存目录。国内网络免梯子，全配镜像源。Beginner-friendly Chinese tutorial for DeepSeek Harness (dsh) + one-click portable build. Zero coding, no VPN needed — all downloads use China mirrors. | ✅ active |
+| [dsh-piggy](resources/dsh-piggy.md) | ⭐21 | 🐖 DeepSeek Harness 养成插件，也可作为 Windows/Linux/macOS 桌面宠物运行；支持成长、学习、打工、钓鱼、图鉴与换肤 | ✅ active |
 | [dsh](resources/dsh.md) | ⭐17 | 源码级拆解 DeepSeek Harness · 面向 Agent 开发者的中文学习资料 | ✅ active |
 | [dsh-jailbreak-mode](resources/dsh-jailbreak-mode.md) | ⭐15 | DSH Jailbreak Mode standalone plugin — 破甲模式插件（仅学习交流与授权安全研究） | ✅ active |
 | [deepseek-harness-atlas](resources/deepseek-harness-atlas.md) | ⭐13 | 针对 [`deepseek-harness`](https://github.com/deepseek-ai/deepseek-harness) 仓库的交互式学习地图：架构分层、依赖脉络、核心流程、模块深读（含**关键源码片段**）、**双源文档库**（官方文档中文优先 + Claude 解读文档）、源码浏览。 | ✅ active |
@@ -82,10 +86,12 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [mini-deepseek-harness-python](resources/mini-deepseek-harness-python.md) | ⭐4 | Educational re-implementation of DeepSeek Harness in pure Python stdlib — event sourcing, plugin bus, agent loop. For learning only. | ✅ active |
 | [avoid-ai-writing-cn](resources/avoid-ai-writing-cn.md) | ⭐3 | 知乎"去AI味写作技巧"社区免费提供：中文写作去 AI 味插件。说"去掉AI味"即重写，说"写的不错"自动学习新 AI 词。 | ✅ active |
 | [dsh-deeptutor](resources/dsh-deeptutor.md) | ⭐3 | Learning assistant extension for DeepSeek Harness (dsh): brings DeepTutor tutoring to your agent — deep explanations, self-test questions, learning paths, personal knowledge-base search (RAG), and note archiving. | 面向 DeepSeek Harness 的学习辅助扩展:为 agent 接入 DeepTutor 辅导能力 —— 深度讲解、自测题、学习路径规划、个人知识库检索(RAG)与笔记归档。 | ✅ active |
+| [dsh-okf-memory](resources/dsh-okf-memory.md) | ⭐3 | dsh-okf-memory: 会话记忆 → OKF 知识沉淀插件(神经自我学习驱动)。Session-to-OKF memory plugin: predictive recall, uncertainty-driven capture, reinforcement feedback, consolidation & forgetting. | ✅ active |
 | [dsh-plugin-dev-tutorial](resources/dsh-plugin-dev-tutorial.md) | ⭐3 | 《从 0 到 1 开发 DSH Plugin》—— 完整教程，从概念到实战，从小白到大神，11 章 55,000 字，26 个可运行代码文件。 | ✅ active |
 | [dsh-plugin-template](resources/dsh-plugin-template-3.md) | ⭐3 | One sentence to an AI agent: create, release and list a DeepSeek Harness plugin. DSH 插件模板与 AI 操作手册 | ✅ active |
 | [dsh-plugin-tutorial](resources/dsh-plugin-tutorial.md) | ⭐3 | DeepSeek Harness 插件开发教程（中文）：环境搭建、Cordis 基础、Tool 开发、事件系统、LLM 适配器、打包发布 | ✅ active |
 | [dsh-study-buddy](resources/dsh-study-buddy.md) | ⭐3 | 使用DeepSeekHarness进行学习和笔记 | ✅ active |
+| [learning-skills](resources/learning-skills.md) | ⭐3 | Learning skills for Codex and DeepSeek Harness: course notes, conceptual explanations, and self-contained lectures. | ✅ active |
 | [Project-Memory-Agent](resources/project-memory-agent.md) | ⭐3 | Project Memory gives coding agents a single, trustworthy memory for a software repository — so they stop re-learning the same facts and stop writing conflicting "memory" files. | ✅ active |
 | [deepseek-protocol-doctor](resources/deepseek-protocol-doctor.md) | ⭐2 | Checks DeepSeek tool loops, reasoning_content, strict schemas and captured SSE; also works as a DSH plugin. | ✅ active |
 | [dsh-agent-memory](resources/dsh-agent-memory-3.md) | ⭐2 | Self-evolving memory for DeepSeek Harness: capture → dream consolidation → retrieval injection → evolve. User profile, project memory, correction learning, resume narrative — with provenance back to the replayable session log. 自进化记忆插件。 | ✅ active |

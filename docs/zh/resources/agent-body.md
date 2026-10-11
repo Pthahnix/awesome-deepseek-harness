@@ -1,25 +1,25 @@
 ---
 title: "agent-body"
-description: "Gates 84.7% of tool-schema prompt tokens away for DeepSeek Harness: plugins declare themselves organs, a nerve impulse routes each command, reflex arcs fire with zero model calls, memory consolidates while idle, every failure is attributed before retry. Reproducible offline, MIT."
-keywords: "agent-body, memory, plugin, coding, deepseek harness, dsh"
+description: "DeepSeek Harness 插件层：持久记忆、空闲整理、按任务工具定义门控、确定性反射与失败归因（拦截 84.7% 的工具 schema token）。"
+keywords: "agent-body, memory, plugin, context, observability, automation, deepseek harness, dsh"
 ---
 # agent-body
 
-> ⭐ **14** · ✅ 活跃 · 插件
+> ⭐ **16** · 🧪 实验性 · 插件
 
 | | | | |
 |---|---|---|---|
 | 类型 | 插件 | 分类 | 记忆与上下文 |
-| 星数 | ⭐ 14 | 状态 | ✅ 活跃 |
+| 星数 | ⭐ 16 | 状态 | 🧪 实验性 |
 | 作者 | [1420079678-ctrl](https://github.com/1420079678-ctrl) | 更新时间 | — |
 
 ## 一句话介绍
 
-> Gates 84.7% of tool-schema prompt tokens away for DeepSeek Harness: plugins declare themselves organs, a nerve impulse routes each command, reflex arcs fire with zero model calls, memory consolidates while idle, every failure is attributed before retry. Reproducible offline, MIT.
+> DeepSeek Harness 插件层：持久记忆、空闲整理、按任务工具定义门控、确定性反射与失败归因（拦截 84.7% 的工具 schema token）。
 
 ## 详细介绍
 
-Gates 84.7% of tool-schema prompt tokens away for DeepSeek Harness: plugins declare themselves organs, a nerve impulse routes each command, reflex arcs fire with zero model calls, memory consolidates while idle, every failure is attributed before retry. Reproducible offline, MIT.
+DeepSeek Harness 插件层：持久记忆、空闲整理、按任务工具定义门控、确定性反射与失败归因（拦截 84.7% 的工具 schema token）。
 
 ## 🔗 链接
 

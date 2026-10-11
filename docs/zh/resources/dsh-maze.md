@@ -5,12 +5,12 @@ keywords: "dsh-maze, vision, plugin, coding, multi-agent, deepseek harness, dsh"
 ---
 # dsh-maze
 
-> ⭐ **76** · ✅ 活跃 · 插件
+> ⭐ **85** · ✅ 活跃 · 插件
 
 | | | | |
 |---|---|---|---|
 | 类型 | 插件 | 分类 | 视觉与多模态 |
-| 星数 | ⭐ 76 | 状态 | ✅ 活跃 |
+| 星数 | ⭐ 85 | 状态 | ✅ 活跃 |
 | 作者 | [lamost423](https://github.com/lamost423) | 更新时间 | — |
 
 ## 一句话介绍

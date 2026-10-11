@@ -38,6 +38,22 @@
     "license": "MIT"
   },
   {
+    "id": "matrixmedia",
+    "name": "MatrixMedia",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/hanliang97/MatrixMedia",
+    "description": "视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli",
+    "description_zh": "视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 949,
+    "license": "GPL-2.0"
+  },
+  {
     "id": "tongflow",
     "name": "tongflow",
     "type": "workflow",
@@ -244,6 +260,23 @@
     "verified": false,
     "stars": 59,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-model-fusion",
+    "name": "dsh-model-fusion",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/aa2246740/dsh-model-fusion",
+    "description": "Fusion for DeepSeek Harness: a frontier Lead plans and reviews, a much cheaper Sidekick writes the code — frontier results at a discount.",
+    "description_zh": "Fusion for DeepSeek Harness: a frontier Lead plans and reviews, a much cheaper Sidekick writes the code — frontier results at a discount.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 58,
+    "license": "Apache-2.0"
   },
   {
     "id": "mstar-harness",
@@ -1406,6 +1439,24 @@
     "stars": 6
   },
   {
+    "id": "dsh-memory-layer",
+    "name": "dsh-memory-layer",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/KLRSL/dsh-memory-layer",
+    "description": "dsh-memory-layer：给 DeepSeek Harness 的「记忆层」——本地单文件 SQLite、触发式召回、五条可解释清理规则、工作流链；零服务、零 API、零遥测。A memory layer for DSH: local SQLite, trigger-driven recall, explainable cleanup, workflow chains.",
+    "description_zh": "dsh-memory-layer：给 DeepSeek Harness 的「记忆层」——本地单文件 SQLite、触发式召回、五条可解释清理规则、工作流链；零服务、零 API、零遥测。A memory layer for DSH: local SQLite, trigger-driven recall, explainable cleanup, workflow chains.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-companion-1-1",
     "name": "dsh-companion",
     "type": "workflow",
@@ -1570,6 +1621,23 @@
     "status": "active",
     "verified": false,
     "stars": 5
+  },
+  {
+    "id": "dsh-alphasolve",
+    "name": "dsh-alphasolve",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/dxww123/dsh-alphasolve",
+    "description": "Session-scoped AlphaSolve workflow for DeepSeek Harness",
+    "description_zh": "Session-scoped AlphaSolve workflow for DeepSeek Harness",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "license": "MIT"
   },
   {
     "id": "dsh-prime-agent",
@@ -2081,6 +2149,37 @@
     "verified": false,
     "stars": 4,
     "license": "MIT"
+  },
+  {
+    "id": "maa-dsh-skill",
+    "name": "maa-dsh-skill",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/trueRISCOacnt/maa-dsh-skill",
+    "description": "基于 MaaAssistantArknights (MAA) 官方命令行工具 maa-cli 构建的 DeepSeek Harness Skill：让 DeepSeek Harness 直接驱动 MaaCore，自动化完成《明日方舟》日常任务。",
+    "description_zh": "基于 MaaAssistantArknights (MAA) 官方命令行工具 maa-cli 构建的 DeepSeek Harness Skill：让 DeepSeek Harness 直接驱动 MaaCore，自动化完成《明日方舟》日常任务。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workflow-lite",
+    "name": "dsh-workflow-lite",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/xiaoso456/dsh-workflow-lite",
+    "description": "DeepSeek Harness 的软工作流插件：在画布上设计流程，编译成计划提示词，由模型按计划执行；运行状态由模型自己记，没有执行引擎",
+    "description_zh": "DeepSeek Harness 的软工作流插件：在画布上设计流程，编译成计划提示词，由模型按计划执行；运行状态由模型自己记，没有执行引擎",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
   },
   {
     "id": "dsh-agent-orchestration",
@@ -2823,6 +2922,127 @@
     "repository": "https://github.com/godv61/dsh-task-engine",
     "description": "Engineering workflow plugin for DeepSeek Harness: task stages, verification records, commit checks, and skill and rule management.",
     "description_zh": "Engineering workflow plugin for DeepSeek Harness: task stages, verification records, commit checks, and skill and rule management.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-office-for-mso",
+    "name": "dsh-office-for-mso",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Mikuzjc/dsh-office-for-mso",
+    "description": "DeepSeek Harness (DSH) plugin/skill: control open Word/Excel/PowerPoint via Office add-in (33 actions, AI-orchestrated, near-Copilot workflows) | DSH 的 Office 技能：操控打开的 Word/Excel/PPT",
+    "description_zh": "DeepSeek Harness (DSH) plugin/skill: control open Word/Excel/PowerPoint via Office add-in (33 actions, AI-orchestrated, near-Copilot workflows) | DSH 的 Office 技能：操控打开的 Word/Excel/PPT",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "job-workbench",
+    "name": "job-workbench",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/chenxiang6663635/job-workbench",
+    "description": "Local-first, auditable AI-assisted job-search workbench: JD analysis, application tracking, resume workflows with anti-fabrication safeguards, interview & offer pipeline. Plain Markdown/CSV on your own disk, BYOK, no telemetry or project-run cloud; optional online features use services you enable.",
+    "description_zh": "Local-first, auditable AI-assisted job-search workbench: JD analysis, application tracking, resume workflows with anti-fabrication safeguards, interview & offer pipeline. Plain Markdown/CSV on your own disk, BYOK, no telemetry or project-run cloud; optional online features use services you enable.",
+    "capabilities": [
+      "coding",
+      "search",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-douyin-oem-touliu-report",
+    "name": "dsh-douyin-oem-touliu-report",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/ruiyukirin/dsh-douyin-oem-touliu-report",
+    "description": "抖音本地推 OEM 投流日报/周报自动化插件 - Douyin OEM ad daily/weekly report automation plugin for DeepSeek Harness (Author: Kirin)",
+    "description_zh": "抖音本地推 OEM 投流日报/周报自动化插件 - Douyin OEM ad daily/weekly report automation plugin for DeepSeek Harness (Author: Kirin)",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-usage-suite",
+    "name": "dsh-usage-suite",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/AnnanRen/dsh-usage-suite",
+    "description": "DeepSeek Harness 用量可视化套件：ZCode 风格用量统计与套餐用量弹窗 + 会话状态栏（智谱 Coding Plan / OpenCode GO 实时额度）",
+    "description_zh": "DeepSeek Harness 用量可视化套件：ZCode 风格用量统计与套餐用量弹窗 + 会话状态栏（智谱 Coding Plan / OpenCode GO 实时额度）",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "specdev-workbench",
+    "name": "specdev-workbench",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/pioneer666-user/specdev-workbench",
+    "description": "DSH（DeepSeek Harness）流程图管理插件：浏览 Archify 业务流程图目录、按 Git 附注标签阅读历史版本、保存版本。A workflow-diagram manager plugin for DSH.",
+    "description_zh": "DSH（DeepSeek Harness）流程图管理插件：浏览 Archify 业务流程图目录、按 Git 附注标签阅读历史版本、保存版本。A workflow-diagram manager plugin for DSH.",
+    "capabilities": [
+      "coding",
+      "git",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-set-model",
+    "name": "dsh-set-model",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/john-walks-slow/dsh-set-model",
+    "description": "Model policy for DeepSeek Harness (DSH): free mode set_model/list_models, preset mode switch_preset/list_presets, configurable stage-to-model policy prompt, plan-mode staging, and a bundled Web settings page.",
+    "description_zh": "Model policy for DeepSeek Harness (DSH): free mode set_model/list_models, preset mode switch_preset/list_presets, configurable stage-to-model policy prompt, plan-mode staging, and a bundled Web settings page.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "jarvis-mission-control-deepseek",
+    "name": "JARVIS-Mission-Control-DeepSeek",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Asif2BD/JARVIS-Mission-Control-DeepSeek",
+    "description": "Mission Control dashboard and human-review workflow for DeepSeek Harness sessions, turns, and tool activity.",
+    "description_zh": "Mission Control dashboard and human-review workflow for DeepSeek Harness sessions, turns, and tool activity.",
     "capabilities": [
       "coding",
       "workflow"

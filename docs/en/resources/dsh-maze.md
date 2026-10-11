@@ -5,12 +5,12 @@ keywords: "dsh-maze, vision, plugin, coding, multi-agent, deepseek harness, dsh"
 ---
 # dsh-maze
 
-> ⭐ **76** · ✅ active · plugin
+> ⭐ **85** · ✅ active · plugin
 
 | | | | |
 |---|---|---|---|
 | Type | plugin | Category | Vision & multimodal |
-| Stars | ⭐ 76 | Status | ✅ active |
+| Stars | ⭐ 85 | Status | ✅ active |
 | Author | [lamost423](https://github.com/lamost423) | Updated | — |
 
 ## One-liner
