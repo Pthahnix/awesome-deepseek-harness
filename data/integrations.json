@@ -16328,5 +16328,23 @@
     "verified": false,
     "stars": 0,
     "license": "Apache-2.0"
+  },
+  {
+    "id": "harness-mix",
+    "name": "Harness Mix",
+    "type": "integration",
+    "category": "desktop",
+    "repository": "https://github.com/emo-xiaoyu/harness-mix",
+    "description": "Local kernel that brings native coding harnesses — including DeepSeek Harness, Codex, Claude Code, OpenCode, Antigravity and more — into the official Codex Desktop UI, with cross-harness task handoff and a skin market.",
+    "description_zh": "把多家原生 Coding Harness（含 DeepSeek Harness、Codex、Claude Code、OpenCode、Antigravity 等）接入官方 Codex Desktop 界面的本地内核，支持跨 Harness 任务接力与皮肤市场。",
+    "capabilities": [
+      "desktop",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 299,
+    "license": "Apache-2.0"
   }
 ]

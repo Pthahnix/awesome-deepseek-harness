@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "Top 10 and full list of 780 curated mcp & integrations for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 781 curated mcp & integrations for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [ReMe](resources/reme.md) | ⭐3,448 | Memory management kit for agents: remember, refine and reuse memory across sessions. | ✅ active |
 | 10 | [treg](resources/treg.md) | ⭐1,400 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn | ✅ active |
 
-## Complete list (780)
+## Complete list (781)
 
 
 **MCP (242)**
@@ -884,3 +884,9 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | Project | Stars | Description | Status |
 |---|---|---|---|
 | [deepseek-harness-acp](resources/deepseek-harness-acp.md) | ⭐12 | ACP server implementation for DeepSeek Harness: exposes the full DSH agent to ACP clients while reusing credentials and sessions. | ✅ active |
+
+**Desktop (1)**
+
+| Project | Stars | Description | Status |
+|---|---|---|---|
+| [Harness Mix](resources/harness-mix.md) | ⭐299 | Local kernel that brings native coding harnesses — including DeepSeek Harness, Codex, Claude Code, OpenCode, Antigravity and more — into the official Codex Desktop UI, with cross-harness task handoff and a skin market. | ✅ active |

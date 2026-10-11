@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（4137 条）。"
+description: "DeepSeek Harness (dsh) 精选 plugins：🔥 Top 10 与完整列表（4138 条）。"
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-anchored-standard](resources/dsh-anchored-standard.md) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 | 10 | [modlens](resources/modlens.md) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 
-## 完整列表（4137）
+## 完整列表（4138）
 
 
 **视觉与多模态（1485）**
@@ -3145,9 +3145,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | DeepSeek Harness 一键重启：网页按钮（外加 dsh_restart Agent 工具）把重启交给独立 helper，等端口释放后以完全相同的命令拉起新宿主，页面自动重连；新宿主启动失败时由恢复控制台显示启动错误。 | ✅ 活跃 |
 
-**界面与体验（539）**
+**界面与体验（540）**
 
-*其他（249）*
+*其他（250）*
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -3177,6 +3177,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [DSHM](resources/dshm.md) | ⭐35 | 轻简随行，插件随心。GenUI 2.0 实践。 | ✅ 活跃 |
 | [dsh-omi-voice](resources/dsh-omi-voice.md) | ⭐34 | 沉浸式听朗读插件：对话内点读/暂停/继续，豆包 TTS 自然音色（BYOK），只读最终回答并过滤代码/表格/图形。 | ✅ 活跃 |
 | [EAC-Pack](resources/eac-pack.md) | ⭐33 | Embracing All Creation (Plugin Suite) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（插件整合包） —— 致力于让数百个DSH插件和谐共存 | ✅ 活跃 |
+| [dsh-pack-plugin](resources/dsh-pack-plugin.md) | ⭐32 | DSH 整合包（.dspack）插件 bundle：导出 profile 为单文件整合包、安装整合包、多 profile 切换、市场浏览、工作区配置与任务中心，仅做 UI + 后端，不改官方源码。 | ✅ 活跃 |
 | [dsh-plugin-whale-pet](resources/dsh-plugin-whale-pet.md) | ⭐32 | Your little whale buddy for work, wins, and well-earned naps. | ✅ 活跃 |
 | [oh-my-dsh](resources/oh-my-dsh-1.md) | ⭐31 | A focused, keyboard-first DeepSeek coding agent built on the plugin architecture of DeepSeek Harness and inspired by the interaction quality of oh-my-pi. | ✅ 活跃 |
 | [dsh-better-input](resources/dsh-better-input.md) | ⭐29 | BetterInput是一套输入增强套件：语音识别、提示词优化、输入更多文件类型，各类文件转Md，交互体验优化等——把每一种喂给智能体的输入都变得更好。BetterInput is an input-enhancement suite — voice recognition, prompt optimization, more file types, everything-to-Markdown conversion, and UX refinements — making every input you feed an agent better. | ✅ 活跃 |

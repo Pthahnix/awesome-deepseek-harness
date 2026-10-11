@@ -1,6 +1,6 @@
 ---
 title: "Plugins"
-description: "Top 10 and full list of 4137 curated plugins for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 4138 curated plugins for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 ---
 # Plugins
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | 9 | [dsh-anchored-standard](resources/dsh-anchored-standard.md) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ active |
 | 10 | [modlens](resources/modlens.md) | ⭐3,495 | The first vision plugin for DeepSeek Harness and the vision bridge for every text-only coding agent: paste an image and it works. | ✅ active |
 
-## Complete list (4137)
+## Complete list (4138)
 
 
 **Vision & multimodal (1485)**
@@ -3145,9 +3145,9 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 |---|---|---|---|
 | [dsh-restart](resources/dsh-restart-2.md) | – | One-click restart for DeepSeek Harness: a web button (plus a dsh_restart agent tool) hands the relaunch to a detached helper that waits for the port to free, relaunches the same command, auto-reconnects the page, and shows boot errors in a recovery console when the new host fails. | ✅ active |
 
-**UI & experience (539)**
+**UI & experience (540)**
 
-*Other (249)*
+*Other (250)*
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -3177,6 +3177,7 @@ keywords: "deepseek harness, dsh, plugins, plugin, awesome"
 | [DSHM](resources/dshm.md) | ⭐35 | 轻简随行，插件随心。GenUI 2.0 实践。 | ✅ active |
 | [dsh-omi-voice](resources/dsh-omi-voice.md) | ⭐34 | Immersive voice reading plugin: in-chat read/pause/resume with Doubao TTS natural voices (BYOK), reads only the final answer, filters code/tables/graphics. | ✅ active |
 | [EAC-Pack](resources/eac-pack.md) | ⭐33 | Embracing All Creation (Plugin Suite) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（插件整合包） —— 致力于让数百个DSH插件和谐共存 | ✅ active |
+| [dsh-pack-plugin](resources/dsh-pack-plugin.md) | ⭐32 | Bundle plugin for DSH integration packs (.dspack): export a profile as a single-file pack, install packs, switch multiple profiles, browse the pack market, configure workspaces and a task center — UI + backend only, no DSH source changes. | ✅ active |
 | [dsh-plugin-whale-pet](resources/dsh-plugin-whale-pet.md) | ⭐32 | Your little whale buddy for work, wins, and well-earned naps. | ✅ active |
 | [oh-my-dsh](resources/oh-my-dsh-1.md) | ⭐31 | A focused, keyboard-first DeepSeek coding agent built on the plugin architecture of DeepSeek Harness and inspired by the interaction quality of oh-my-pi. | ✅ active |
 | [dsh-better-input](resources/dsh-better-input.md) | ⭐29 | BetterInput是一套输入增强套件：语音识别、提示词优化、输入更多文件类型，各类文件转Md，交互体验优化等——把每一种喂给智能体的输入都变得更好。BetterInput is an input-enhancement suite — voice recognition, prompt optimization, more file types, everything-to-Markdown conversion, and UX refinements — making every input you feed an agent better. | ✅ active |

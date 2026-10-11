@@ -1,6 +1,6 @@
 ---
 title: "MCP & Integrations"
-description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（780 条）。"
+description: "DeepSeek Harness (dsh) 精选 mcp & integrations：🔥 Top 10 与完整列表（781 条）。"
 keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 ---
 # MCP & Integrations
@@ -30,7 +30,7 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 9 | [ReMe](resources/reme.md) | ⭐3,448 | 面向 Agent 的记忆管理套件：跨会话记住、提炼并复用记忆。 | ✅ 活跃 |
 | 10 | [treg](resources/treg.md) | ⭐1,400 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn | ✅ 活跃 |
 
-## 完整列表（780）
+## 完整列表（781）
 
 
 **MCP（242）**
@@ -884,3 +884,9 @@ keywords: "deepseek harness, dsh, mcp integrations, plugin, awesome"
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
 | [deepseek-harness-acp](resources/deepseek-harness-acp.md) | ⭐12 | DeepSeek Harness 的 ACP 服务器实现：复用凭据与会话，将完整 DSH Agent 暴露给 ACP 客户端。 | ✅ 活跃 |
+
+**桌面端（1）**
+
+| 项目 | 星数 | 说明 | 状态 |
+|---|---|---|---|
+| [Harness Mix](resources/harness-mix.md) | ⭐299 | 把多家原生 Coding Harness（含 DeepSeek Harness、Codex、Claude Code、OpenCode、Antigravity 等）接入官方 Codex Desktop 界面的本地内核，支持跨 Harness 任务接力与皮肤市场。 | ✅ 活跃 |

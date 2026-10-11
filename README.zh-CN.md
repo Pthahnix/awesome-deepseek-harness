@@ -171,7 +171,7 @@ dsh web
 | 9 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 | 10 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 
-#### 完整列表（4137）
+#### 完整列表（4138）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -471,6 +471,7 @@ dsh web
 - [learn-dsh](https://github.com/onychen/learn-dsh) ⭐33 — DeepSeek Harness 拆解教学课程（附上简单教学版实现项目）（✅ 活跃）
 - [dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) ⭐32 — Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into the system prompt. File-only, no external services.（✅ 活跃）
 - [dsh-claude-provider](https://github.com/MoFeng2223/dsh-claude-provider) ⭐32 — Custom Claude provider support for DeepSeek Harness（✅ 活跃）
+- [dsh-pack-plugin](https://github.com/DSH-PackForge/dsh-pack-plugin) ⭐32 — DSH 整合包（.dspack）插件 bundle：导出 profile 为单文件整合包、安装整合包、多 profile 切换、市场浏览、工作区配置与任务中心，仅做 UI + 后端，不改官方源码。（✅ 活跃）
 - [dsh-plugin-whale-pet](https://github.com/Yifffan/dsh-plugin-whale-pet) ⭐32 — Your little whale buddy for work, wins, and well-earned naps.（✅ 活跃）
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) ⭐31 — 记忆主权归用户的本地跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，autoDream 后台巩固。（✅ 活跃）
 - [dsh-remote](https://github.com/flymysql/dsh-remote) ⭐31 — 远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。（✅ 活跃）
@@ -5824,7 +5825,7 @@ dsh web
 | 9 | [ReMe](https://github.com/agentscope-ai/ReMe) | ⭐3,448 | 面向 Agent 的记忆管理套件：跨会话记住、提炼并复用记忆。 | ✅ 活跃 |
 | 10 | [treg](https://github.com/superdesigndev/treg) | ⭐1,400 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn | ✅ 活跃 |
 
-#### 完整列表（780）
+#### 完整列表（781）
 
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) ⭐42,520 — 开源、注重隐私的简历构建器，提供 MCP 服务器与 Agent Skills，可从 DeepSeek Harness 调用。（✅ 活跃）
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐36,784 — 面向 AI Agent 的自进化上下文数据库，统一 Agent 记忆、知识 RAG 与技能。（✅ 活跃）
@@ -5851,6 +5852,7 @@ dsh web
 - [watch-skill](https://github.com/oxbshw/watch-skill) ⭐374 — Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.（✅ 活跃）
 - [DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) ⭐355 — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.（✅ 活跃）
 - [harmony-next.skills](https://github.com/linhay/harmony-next.skills) ⭐347 — 🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.（✅ 活跃）
+- [Harness Mix](https://github.com/emo-xiaoyu/harness-mix) ⭐299 — 把多家原生 Coding Harness（含 DeepSeek Harness、Codex、Claude Code、OpenCode、Antigravity 等）接入官方 Codex Desktop 界面的本地内核，支持跨 Harness 任务接力与皮肤市场。（✅ 活跃）
 - [dsh-ios](https://github.com/ZSeven-W/dsh-ios) ⭐273 — DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.（✅ 活跃）
 - [mcp-for-stata](https://github.com/SepineTam/mcp-for-stata) ⭐259 — A MCP server for integrating Stata into your agent loop with a safety-first design.（✅ 活跃）
 - [nature-academic-search](https://github.com/wp-a/nature-academic-search) ⭐237 — Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。（✅ 活跃）
@@ -7161,7 +7163,7 @@ awesome-deepseek-harness/
 | 9 | [dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | ⭐3,697 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99) | ✅ 活跃 |
 | 10 | [modlens](https://github.com/liustack/modlens) | ⭐3,495 | DSH 首个视觉插件，也是所有纯文本编码 Agent 的视觉桥梁：粘贴图片即可用。 | ✅ 活跃 |
 
-#### 完整列表（4137）
+#### 完整列表（4138）
 
 - [deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) ⭐210,647 — DeepSeek Harness: Everything is a Plugin.（✅ 活跃）
 - [voyager](https://github.com/voyager-crew/voyager) ⭐20,250 — Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。（✅ 活跃）
@@ -7461,6 +7463,7 @@ awesome-deepseek-harness/
 - [learn-dsh](https://github.com/onychen/learn-dsh) ⭐33 — DeepSeek Harness 拆解教学课程（附上简单教学版实现项目）（✅ 活跃）
 - [dsh-auto-memory](https://github.com/AskTheWay/dsh-auto-memory) ⭐32 — Claude Code-style auto-memory plugin for DeepSeek Harness (dsh): typed memory files + MEMORY.md index auto-injected into the system prompt. File-only, no external services.（✅ 活跃）
 - [dsh-claude-provider](https://github.com/MoFeng2223/dsh-claude-provider) ⭐32 — Custom Claude provider support for DeepSeek Harness（✅ 活跃）
+- [dsh-pack-plugin](https://github.com/DSH-PackForge/dsh-pack-plugin) ⭐32 — DSH 整合包（.dspack）插件 bundle：导出 profile 为单文件整合包、安装整合包、多 profile 切换、市场浏览、工作区配置与任务中心，仅做 UI + 后端，不改官方源码。（✅ 活跃）
 - [dsh-plugin-whale-pet](https://github.com/Yifffan/dsh-plugin-whale-pet) ⭐32 — Your little whale buddy for work, wins, and well-earned naps.（✅ 活跃）
 - [dsh-mneme](https://github.com/modusensus/dsh-mneme) ⭐31 — 记忆主权归用户的本地跨会话记忆：SQLite + 可人工编辑的 Markdown 镜像，autoDream 后台巩固。（✅ 活跃）
 - [dsh-remote](https://github.com/flymysql/dsh-remote) ⭐31 — 远程工作区：SSH 连接远程主机，用 rw_pick_workspace/rw_read_file/rw_exec 等工具远程操作。（✅ 活跃）
@@ -12814,7 +12817,7 @@ awesome-deepseek-harness/
 | 9 | [ReMe](https://github.com/agentscope-ai/ReMe) | ⭐3,448 | 面向 Agent 的记忆管理套件：跨会话记住、提炼并复用记忆。 | ✅ 活跃 |
 | 10 | [treg](https://github.com/superdesigndev/treg) | ⭐1,400 | OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn | ✅ 活跃 |
 
-#### 完整列表（780）
+#### 完整列表（781）
 
 - [Reactive Resume](https://github.com/reactive-resume/reactive-resume) ⭐42,520 — 开源、注重隐私的简历构建器，提供 MCP 服务器与 Agent Skills，可从 DeepSeek Harness 调用。（✅ 活跃）
 - [OpenViking](https://github.com/volcengine/OpenViking) ⭐36,784 — 面向 AI Agent 的自进化上下文数据库，统一 Agent 记忆、知识 RAG 与技能。（✅ 活跃）
@@ -12841,6 +12844,7 @@ awesome-deepseek-harness/
 - [watch-skill](https://github.com/oxbshw/watch-skill) ⭐374 — Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.（✅ 活跃）
 - [DeepSeek-Bot](https://github.com/FeiZhuLulu/DeepSeek-Bot) ⭐355 — A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.（✅ 活跃）
 - [harmony-next.skills](https://github.com/linhay/harmony-next.skills) ⭐347 — 🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.（✅ 活跃）
+- [Harness Mix](https://github.com/emo-xiaoyu/harness-mix) ⭐299 — 把多家原生 Coding Harness（含 DeepSeek Harness、Codex、Claude Code、OpenCode、Antigravity 等）接入官方 Codex Desktop 界面的本地内核，支持跨 Harness 任务接力与皮肤市场。（✅ 活跃）
 - [dsh-ios](https://github.com/ZSeven-W/dsh-ios) ⭐273 — DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.（✅ 活跃）
 - [mcp-for-stata](https://github.com/SepineTam/mcp-for-stata) ⭐259 — A MCP server for integrating Stata into your agent loop with a safety-first design.（✅ 活跃）
 - [nature-academic-search](https://github.com/wp-a/nature-academic-search) ⭐237 — Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。（✅ 活跃）

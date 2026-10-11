@@ -86037,5 +86037,22 @@
     "verified": false,
     "stars": 0,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-pack-plugin",
+    "name": "dsh-pack-plugin",
+    "type": "plugin",
+    "category": "ui",
+    "repository": "https://github.com/DSH-PackForge/dsh-pack-plugin",
+    "description": "Bundle plugin for DSH integration packs (.dspack): export a profile as a single-file pack, install packs, switch multiple profiles, browse the pack market, configure workspaces and a task center — UI + backend only, no DSH source changes.",
+    "description_zh": "DSH 整合包（.dspack）插件 bundle：导出 profile 为单文件整合包、安装整合包、多 profile 切换、市场浏览、工作区配置与任务中心，仅做 UI + 后端，不改官方源码。",
+    "capabilities": [
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 32,
+    "license": "MIT"
   }
 ]
