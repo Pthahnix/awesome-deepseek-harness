@@ -86,6 +86,23 @@
     "stars": 6940
   },
   {
+    "id": "answer-me-with-html",
+    "name": "answer-me-with-html",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/QingYunA/answer-me-with-html",
+    "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "description_zh": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3343,
+    "license": "MIT"
+  },
+  {
     "id": "vibe-skills",
     "name": "Vibe-Skills",
     "type": "skill",
@@ -1293,6 +1310,21 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-academic-research-skills",
+    "name": "dsh-academic-research-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/nullptr-DZF/dsh-academic-research-skills",
+    "description": "DeepSeek Harness（DSH）插件：把 Claude Code 的",
+    "description_zh": "DeepSeek Harness（DSH）插件：把 Claude Code 的",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 17
+  },
+  {
     "id": "dsh-directorx",
     "name": "dsh-directorx",
     "type": "skill",
@@ -1408,6 +1440,38 @@
     "verified": false,
     "stars": 15,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-skills",
+    "name": "dsh-skills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/CocoSgt/dsh-skills",
+    "description": "npm package: dsh-skills · GitHub repository:",
+    "description_zh": "npm package: dsh-skills · GitHub repository:",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 15
+  },
+  {
+    "id": "dsh-comfyui-web",
+    "name": "dsh-comfyui-web",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/mangfufu/dsh-comfyui-web",
+    "description": "在 dsh 网页中编辑 ComfyUI、实时预览并让 AI 操作工作流。",
+    "description_zh": "在 dsh 网页中编辑 ComfyUI、实时预览并让 AI 操作工作流。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 15
   },
   {
     "id": "dsh-plugin-swift-cycle",
@@ -2384,6 +2448,39 @@
     "license": "Apache-2.0"
   },
   {
+    "id": "rainskills",
+    "name": "rainskills",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/goodrain/rainskills",
+    "description": "Rainskills 是一组开源 Agent Skills，让 Codex、Claude Code、Pi Agent、 DeepSeek Harness、WorkBuddy 和 Hermes Agent 能够完成应用识别、部署、 排错、交付验证、版本管理和回滚。",
+    "description_zh": "Rainskills 是一组开源 Agent Skills，让 Codex、Claude Code、Pi Agent、 DeepSeek Harness、WorkBuddy 和 Hermes Agent 能够完成应用识别、部署、 排错、交付验证、版本管理和回滚。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dph-taskboard",
+    "name": "dph-taskboard",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/1070296335-create/dph-taskboard",
+    "description": "在 Harness 侧边栏「工作区」**搜索图标左侧**提供任务看板入口（与搜索按钮同款样式）。",
+    "description_zh": "在 Harness 侧边栏「工作区」**搜索图标左侧**提供任务看板入口（与搜索按钮同款样式）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-superpowers",
     "name": "dsh-superpowers",
     "type": "skill",
@@ -2530,6 +2627,23 @@
       "multi-agent",
       "search",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6,
+    "license": "MIT"
+  },
+  {
+    "id": "task-board-plugin",
+    "name": "task-board-plugin",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/PPawnsir/task-board-plugin",
+    "description": "智能看板插件 — agent 团队的持久台账与治理层：把「派发 → 执行 → 验收 → 度量 → 复盘」跑成全链路闭环，每一张卡都是可审计、可度量的长期资产。",
+    "description_zh": "智能看板插件 — agent 团队的持久台账与治理层：把「派发 → 执行 → 验收 → 度量 → 复盘」跑成全链路闭环，每一张卡都是可审计、可度量的长期资产。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -3619,6 +3733,85 @@
       "coding",
       "multi-agent",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "coderdd",
+    "name": "codeRDD",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/YaphetHayate/codeRDD",
+    "description": "SDD（规范驱动开发）理念的多角色 AI 开发工作流系统：8 个角色技能卡 + rdd-engine 能力总线，把 Vibe Coding 升级为「有角色、有阶段、有门禁、可回溯」的工程化流水线。平台无关——同一套角色卡挂载到 OpenCode / Claude Code / ZCode / Codex / Warp，DSH 宿主另获插件级增强。",
+    "description_zh": "SDD（规范驱动开发）理念的多角色 AI 开发工作流系统：8 个角色技能卡 + rdd-engine 能力总线，把 Vibe Coding 升级为「有角色、有阶段、有门禁、可回溯」的工程化流水线。平台无关——同一套角色卡挂载到 OpenCode / Claude Code / ZCode / Codex / Warp，DSH 宿主另获插件级增强。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "oh-my-deepseek-harness-2",
+    "name": "oh-my-deepseek-harness",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/hatsuyuki0103/oh-my-deepseek-harness",
+    "description": "OMX 风格的工作流技能集，为 DeepSeek Harness 重写。",
+    "description_zh": "OMX 风格的工作流技能集，为 DeepSeek Harness 重写。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-cf-sas",
+    "name": "dsh-cf-sas",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/MarchLiu/dsh-cf-sas",
+    "description": "将 cloudflare/security-audit-skill 从",
+    "description_zh": "将 cloudflare/security-audit-skill 从",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4
+  },
+  {
+    "id": "dsh-canvas-flow",
+    "name": "dsh-canvas-flow",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/ljcoder2015/dsh-canvas-flow",
+    "description": "dsh-canvas-flow，deepseek harness 无限画布插件，在画布上，搭出你的工作流。",
+    "description_zh": "dsh-canvas-flow，deepseek harness 无限画布插件，在画布上，搭出你的工作流。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "wps-dsh-plugin",
+    "name": "wps-dsh-plugin",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/CatNebulaaaa/wps-dsh-plugin",
+    "description": "Unofficial DeepSeek Harness integration for lc2panda/wps-skills.",
+    "description_zh": "Unofficial DeepSeek Harness integration for lc2panda/wps-skills.",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,
@@ -5084,6 +5277,137 @@
     "capabilities": [
       "coding",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hiboard-push",
+    "name": "dsh-hiboard-push",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/QinpanWan/dsh-hiboard-push",
+    "description": "Push task-completion messages to the Huawei HarmonyOS assistant-today (负一屏) card feed from DeepSeek Harness — wire-compatible with the OpenClaw today-task skill.",
+    "description_zh": "Push task-completion messages to the Huawei HarmonyOS assistant-today (负一屏) card feed from DeepSeek Harness — wire-compatible with the OpenClaw today-task skill.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-goal",
+    "name": "dsh-goal",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/GooDAnDReaDY/dsh-goal",
+    "description": "Autonomous Goal Execution & Multi-Turn Task Tracking Engine with Sticky Header for DeepSeek Harness",
+    "description_zh": "Autonomous Goal Execution & Multi-Turn Task Tracking Engine with Sticky Header for DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-bigfish",
+    "name": "dsh-bigfish",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/gosomea/dsh-bigfish",
+    "description": "🐋 DeepSeek Harness Web 宠物插件：动画陪伴、自适应输出节奏、可替换角色包与角色制作 Skill。",
+    "description_zh": "🐋 DeepSeek Harness Web 宠物插件：动画陪伴、自适应输出节奏、可替换角色包与角色制作 Skill。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-tree-task-flow",
+    "name": "dsh-tree-task-flow",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/viyiviyi/dsh-tree-task-flow",
+    "description": "树形任务流 · DeepSeek Harness 插件：把多步任务组织成目标→任务→子任务三级树，节点完成时由 AI 提交结果，插件随即把该节点的执行过程从上下文里折叠掉。",
+    "description_zh": "树形任务流 · DeepSeek Harness 插件：把多步任务组织成目标→任务→子任务三级树，节点完成时由 AI 提交结果，插件随即把该节点的执行过程从上下文里折叠掉。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-preset-qa-mode",
+    "name": "dsh-preset-qa-mode",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/light051001/dsh-preset-qa-mode",
+    "description": "「问答模式」以 DSH 内置的 standard（标准模式）预设为底版，**完整保留其全部能力**（文件编辑、Shell、文件与网页检索、网页抓取、Skills、计划模式、目标与 /goal 命令、子代理、工作流、交付物声明等），只改写了人设与行为规则（qa-mode.patch.yml 中 plugins 的 persona 行）。",
+    "description_zh": "「问答模式」以 DSH 内置的 standard（标准模式）预设为底版，**完整保留其全部能力**（文件编辑、Shell、文件与网页检索、网页抓取、Skills、计划模式、目标与 /goal 命令、子代理、工作流、交付物声明等），只改写了人设与行为规则（qa-mode.patch.yml 中 plugins 的 persona 行）。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "lightroom-py",
+    "name": "lightroom-py",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/drshy-org/lightroom-py",
+    "description": "Unofficial Python library, CLI, and Claude/Codex agent skill for automating Adobe Lightroom Classic",
+    "description_zh": "Unofficial Python library, CLI, and Claude/Codex agent skill for automating Adobe Lightroom Classic",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-ui-sound",
+    "name": "dsh-ui-sound",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/SOH4C4759/dsh-ui-sound",
+    "description": "DSH Web UI sound effects for DeepSeek Harness 0.2.0 - community port of dsh-plugin-uisfx: interface-interaction + task-status cues, 78 cues x 12 packs, per-scenario settings page.",
+    "description_zh": "DSH Web UI sound effects for DeepSeek Harness 0.2.0 - community port of dsh-plugin-uisfx: interface-interaction + task-status cues, 78 cues x 12 packs, per-scenario settings page.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skill-evolution",
+    "name": "dsh-skill-evolution",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/VanadisGithub/dsh-skill-evolution",
+    "description": "Hermes-style skill self-evolution plugin for DeepSeek Harness (DSH): crystallizes reusable agent skills from successful turns via signal-triggered LLM review, progressively improves them, and manages everything in a Settings panel.",
+    "description_zh": "Hermes-style skill self-evolution plugin for DeepSeek Harness (DSH): crystallizes reusable agent skills from successful turns via signal-triggered LLM review, progressively improves them, and manages everything in a Settings panel.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,

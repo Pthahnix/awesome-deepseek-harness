@@ -341,6 +341,22 @@
     "growth": 10
   },
   {
+    "id": "dsh-subagent-monitor",
+    "name": "dsh-subagent-monitor",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Mombrane/dsh-subagent-monitor",
+    "description": "DeepSeek Harness (DSH) Web 扩展插件 · 子代理实时运行监视面板",
+    "description_zh": "DeepSeek Harness (DSH) Web 扩展插件 · 子代理实时运行监视面板",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 27,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-agent-team",
     "name": "dsh-agent-team",
     "type": "agent",
@@ -1342,6 +1358,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-subagent-codex",
+    "name": "dsh-subagent-codex",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/mjylfz/dsh-subagent-codex",
+    "description": "这是一个 DSH 插件。装上它，你的 DSH 会话里会多一个 subagent_codex 工具——你（或你的主 agent）把任务扔给它，它就在你本机的 **Codex CLI** 里独立跑一遍，再把结果拿回来。任务在 Codex 自己的环境里执行，用的是 Codex 的模型和工具链，跟 DSH 主对话完全隔离。",
+    "description_zh": "这是一个 DSH 插件。装上它，你的 DSH 会话里会多一个 subagent_codex 工具——你（或你的主 agent）把任务扔给它，它就在你本机的 **Codex CLI** 里独立跑一遍，再把结果拿回来。任务在 Codex 自己的环境里执行，用的是 Codex 的模型和工具链，跟 DSH 主对话完全隔离。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-agent-relay",
     "name": "dsh-agent-relay",
     "type": "agent",
@@ -1608,6 +1641,40 @@
     "description_zh": "DSH 插件｜拼图模式：把项目拆成主文档 + 若干模块文档，AI 主动提问把不确定项变成已定项，用五维算项目健康性。一个会话可同时绑多个项目，面板有绑定切换条；项目分小 / 中 / 大三档，条目上限随档位放宽或收紧；主文档第五节 `## 工作流` 是标准化流水线（一条 = 一个 ### 名字块 + 有序步骤），命中触发词自动注入。**重复思考熔断**：同一工具连续 3 次同样参数调用即注入提示，把绕圈的模型推出去。文档格式 v7；与 dsh-infinite-gen-5 同装时按契约共存。",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-image-subagent",
+    "name": "dsh-image-subagent",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/yuqingsh/dsh-image-subagent",
+    "description": "让纯文本主模型（如 deepseek-v4-pro）也能接收图片附件：图片进入会话后投影为携带完整 attachmentId 的显式文本占位符，由主模型委托视觉子代理读取。",
+    "description_zh": "让纯文本主模型（如 deepseek-v4-pro）也能接收图片附件：图片进入会话后投影为携带完整 attachmentId 的显式文本占位符，由主模型委托视觉子代理读取。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-multi-model-orchestrator-1",
+    "name": "dsh-multi-model-orchestrator",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Bazley13/dsh-multi-model-orchestrator",
+    "description": "A DeepSeek Harness (dsh) plugin that turns your primary AI into a **multi-model \"main brain\"**. When a task is complex, it decomposes the task into subtasks and dispatches each to the sub-agent model best suited for it (GLM / Kimi / Qwen / any OpenAI-compatibl",
+    "description_zh": "A DeepSeek Harness (dsh) plugin that turns your primary AI into a **multi-model \"main brain\"**. When a task is complex, it decomposes the task into subtasks and dispatches each to the sub-agent model best suited for it (GLM / Kimi / Qwen / any OpenAI-compatibl",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
     ],
     "status": "active",
     "verified": false,
@@ -2150,6 +2217,40 @@
       "coding",
       "multi-agent",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "rolebox",
+    "name": "rolebox",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/EricMoin/rolebox",
+    "description": "Agent plugin for major harnesses — DeepSeek Harness (DSH), OpenCode, Pi and Codex: define custom AI agent roles with per-role prompts, models, skills, permissions, memory and multi-agent orchestration.",
+    "description_zh": "Agent plugin for major harnesses — DeepSeek Harness (DSH), OpenCode, Pi and Codex: define custom AI agent roles with per-role prompts, models, skills, permissions, memory and multi-agent orchestration.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-agy",
+    "name": "dsh-subagent-agy",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/ZEM17/dsh-subagent-agy",
+    "description": "Delegate tasks to **Google Antigravity CLI (agy)** — a separate",
+    "description_zh": "Delegate tasks to **Google Antigravity CLI (agy)** — a separate",
+    "capabilities": [
+      "coding"
     ],
     "status": "active",
     "verified": false,

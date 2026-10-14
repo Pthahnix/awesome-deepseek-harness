@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "Top 10 and full list of 360 curated skills for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 380 curated skills for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -24,16 +24,16 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 3 | [Distilly](resources/distilly.md) | ⭐24,650 | Distills how people think into reusable skills for any agent or bot. | ✅ active |
 | 4 | [memos](resources/memos.md) | ⭐10,873 | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. | ✅ active |
 | 5 | [dsh-routing-suite](resources/dsh-routing-suite.md) | ⭐6,940 | dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23). | ✅ active |
-| 6 | [Vibe-Skills](resources/vibe-skills.md) | ⭐3,260 | Intelligent skill routing and workflow orchestration for AI agents, benchmarked on SkillsBench. | ✅ active |
-| 7 | [J-Space Cognition Suite](resources/j-space-cognition-suite.md) | ⭐3,011 | Cognitive-enhancement skills based on Anthropic's J-space global workspace research, for inference-time control. | ✅ active |
-| 8 | [BrowserSkill](resources/browser-skill.md) | ⭐1,955 | Let AI agents use your real, logged-in browser without interrupting your work: CLI plus extension. | ✅ active |
-| 9 | [vox-director](resources/vox-director.md) | ⭐1,862 | Turn one topic into a finished Vox-style paper-collage explainer/ad video, automated end to end. | ✅ active |
-| 10 | [last30days-skill-cn](resources/last30days-skill-cn.md) | ⭐1,778 | Agent skill that searches 8 major Chinese platforms for the last 30 days of content and produces a sourced research report. | ✅ active |
+| 6 | [answer-me-with-html](resources/answer-me-with-html.md) | ⭐3,343 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 | ✅ active |
+| 7 | [Vibe-Skills](resources/vibe-skills.md) | ⭐3,260 | Intelligent skill routing and workflow orchestration for AI agents, benchmarked on SkillsBench. | ✅ active |
+| 8 | [J-Space Cognition Suite](resources/j-space-cognition-suite.md) | ⭐3,011 | Cognitive-enhancement skills based on Anthropic's J-space global workspace research, for inference-time control. | ✅ active |
+| 9 | [BrowserSkill](resources/browser-skill.md) | ⭐1,955 | Let AI agents use your real, logged-in browser without interrupting your work: CLI plus extension. | ✅ active |
+| 10 | [vox-director](resources/vox-director.md) | ⭐1,862 | Turn one topic into a finished Vox-style paper-collage explainer/ad video, automated end to end. | ✅ active |
 
-## Complete list (360)
+## Complete list (380)
 
 
-**Learning (343)**
+**Learning (363)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -41,6 +41,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [Distilly](resources/distilly.md) | ⭐24,650 | Distills how people think into reusable skills for any agent or bot. | ✅ active |
 | [memos](resources/memos.md) | ⭐10,873 | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. | ✅ active |
 | [dsh-routing-suite](resources/dsh-routing-suite.md) | ⭐6,940 | dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23). | ✅ active |
+| [answer-me-with-html](resources/answer-me-with-html.md) | ⭐3,343 | Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。 | ✅ active |
 | [Vibe-Skills](resources/vibe-skills.md) | ⭐3,260 | Intelligent skill routing and workflow orchestration for AI agents, benchmarked on SkillsBench. | ✅ active |
 | [J-Space Cognition Suite](resources/j-space-cognition-suite.md) | ⭐3,011 | Cognitive-enhancement skills based on Anthropic's J-space global workspace research, for inference-time control. | ✅ active |
 | [vox-director](resources/vox-director.md) | ⭐1,862 | Turn one topic into a finished Vox-style paper-collage explainer/ad video, automated end to end. | ✅ active |
@@ -105,12 +106,15 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-opencode-palette](resources/dsh-opencode-palette.md) | ⭐18 | 🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck | ✅ active |
 | [dsh-personal-workbench](resources/dsh-personal-workbench.md) | ⭐18 | DSH 个人工作台：日历 + 任务列表 + AI 澄清/拆解/执行/复盘 | Personal workbench for DeepSeek Harness Web: calendar + task list + AI assistant | ✅ active |
 | [dsh-routing-suite](resources/dsh-routing-suite-1.md) | ⭐18 | Lightweight, localized task routing for DeepSeek Harness | ✅ active |
+| [dsh-academic-research-skills](resources/dsh-academic-research-skills.md) | ⭐17 | DeepSeek Harness（DSH）插件：把 Claude Code 的 | ✅ active |
 | [dsh-agent-studio](resources/dsh-agent-studio.md) | ⭐17 | 可视化地自定义配置 Agent 的提示词（prompt）、工具（tools）、可见技能（skills）、子代理、备用模型，轻松创建团队。 | ✅ active |
 | [deepseek-harness-hello-kitty-suite](resources/deepseek-harness-hello-kitty-suite.md) | ⭐16 | 💗 一套给 DeepSeek Harness 的粉色 Hello Kitty 主题皮肤 + 任务完成/提问提醒插件（Sweetheart Workspace Expressive skin & Hello Kitty Task-Done Notifier） | ✅ active |
 | [dsh-directorx](resources/dsh-directorx.md) | ⭐16 | DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools. | ✅ active |
 | [math-modelCN](resources/math-modelcn.md) | ⭐16 | 数学建模资源，包含辅助建模、数据预处理、编程、论文写作、降aigc、查重、科研绘图等关键skill。创建者使用skill的大模型为deepseek harness v4.1 pro，但并非仅有dsh适配，skill内涵skill.md文件、README.md文件，reference文件夹及所需依赖，可以利用各种大模型agent进行安装，此外，库内还上传了数学建模workbench的自定义agent，涵盖着数学建模建模手，编程手，论文手三者分工流程及其他要点，使用该agent便于减少数学建模相关提示词的输入，配合各类skill能完成较为高质量的数学建模论文 | ✅ active |
 | [minecraft-dev](resources/minecraft-dev.md) | ⭐16 | Minecraft development plugin for DeepSeek Harness: skills & tools for Paper/Spigot plugins and Fabric/Forge/NeoForge mods, MC 1.7.10-26.x | ✅ active |
 | [zerotoken-skill](resources/zerotoken-skill.md) | ⭐16 | 让 Agent 高效又守纪律 — 不止省 token：ZeroToken 压缩无效上下文/推理/输出；尉缭子十原则约束权限边界、单一指令、先谋后动、验证先于结束；附 Unicode 编码规范、搜索规范、六种任务模式。More than token savings: ZeroToken efficiency + AI coding discipline for Reasonix / Codex / OpenCode / Hermes | ✅ active |
+| [dsh-comfyui-web](resources/dsh-comfyui-web.md) | ⭐15 | 在 dsh 网页中编辑 ComfyUI、实时预览并让 AI 操作工作流。 | ✅ active |
+| [dsh-skills](resources/dsh-skills.md) | ⭐15 | npm package: dsh-skills · GitHub repository: | ✅ active |
 | [pptwise](resources/pptwise.md) | ⭐15 | A real PowerPoint, not a picture or HTML. Tell your AI what to cover and pptwise builds an editable deck on your own machine. Agent skill + DSH plugin, no account and no API key to render. | 真正的 PPT，不是图片也不是 HTML。跟 AI 说要讲什么，pptwise 在你自己电脑上做出一份能改的 PPT。Agent skill + DSH 插件，不用注册，渲染不用 API key。 | ✅ active |
 | [tizhuang-agent-skills](resources/tizhuang-agent-skills.md) | ⭐15 | 2000万+中小学K12真题题库 Skill：免费注册、免费抽题、教材/章节/知识点检索、练习测验与AI智能组卷。 | ✅ active |
 | [cleverer-dsh](resources/cleverer-dsh.md) | ⭐14 | DSH execution-discipline plugin suite: 11 plugins + 6 skills, zero dependencies, 426 tests. 让 DeepSeek Harness 变聪明的插件套件。 | ✅ active |
@@ -153,6 +157,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-notch](resources/dsh-notch.md) | ⭐8 | Native macOS Notch for DSH sessions, inline answers and animated task status | ✅ active |
 | [agent-useful-skills](resources/agent-useful-skills.md) | ⭐7 | 模块化 AI 科研/工程技能 monorepo（DeepSeek Harness / Claude Code 通用）— plugins/ + skills/ + bin 脚本 + LaTeX 模板，验证环驱动 | ✅ active |
 | [cue-skills](resources/cue-skills.md) | ⭐7 | Cue Skills for Agents | ✅ active |
+| [dph-taskboard](resources/dph-taskboard.md) | ⭐7 | 在 Harness 侧边栏「工作区」**搜索图标左侧**提供任务看板入口（与搜索按钮同款样式）。 | ✅ active |
 | [dsh-agent-conductor](resources/dsh-agent-conductor.md) | ⭐7 | ⚡ DSH 指挥家 / Conductor for DeepSeek Harness — in-session dispatch to 11 external agent CLIs (Codex, Claude Code, TraeCode, OpenCode, Gemini, Cursor, Kimi, Qwen, Copilot, WorkBuddy, Grok). Zero-dep skill + host-only bundle. | ✅ active |
 | [dsh-eli-mode](resources/dsh-eli-mode.md) | ⭐7 | Eli Mode is an agent preset for DeepSeek Harness built around wiki-driven long-term memory and skills, on an extremely minimal Harness setup. | ✅ active |
 | [dsh-git-worktree](resources/dsh-git-worktree-1.md) | ⭐7 | Git worktree Session Targets for DeepSeek Harness with isolated task sessions, reversible Local Preview, human-confirmed delivery, recovery, and same-session iteration. | ✅ active |
@@ -161,6 +166,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-skin-universe](resources/dsh-skin-universe.md) | ⭐7 | Themes and web GUI plugins for DeepSeek Harness: task board, Git graph, file panel, SSH, mobile remote, companion, live stats, and five installable themes. | ✅ active |
 | [dsh-task-notify](resources/dsh-task-notify.md) | ⭐7 | Lifecycle notification layer for AI coding agents — DeepSeek Harness plugin for turn, job, review & failure notifications | ✅ active |
 | [my-dsh-plugins](resources/my-dsh-plugins.md) | ⭐7 | DSH（DeepSeek Harness）插件集合仓库：文件活动、思考增强、Mermaid 渲染、通知提醒、插件守护、Skill 管理、任务可靠性、插件开发模式等 8 个插件，独立版本、GitHub Release 发布 | ✅ active |
+| [rainskills](resources/rainskills.md) | ⭐7 | Rainskills 是一组开源 Agent Skills，让 Codex、Claude Code、Pi Agent、 DeepSeek Harness、WorkBuddy 和 Hermes Agent 能够完成应用识别、部署、 排错、交付验证、版本管理和回滚。 | ✅ active |
 | [skills-management](resources/skills-management.md) | ⭐7 | DeepSeek Harness 插件：技能市场——安装/删除/详情 API + 管理界面 | ✅ active |
 | [taskfold](resources/taskfold.md) | ⭐7 | Context folding for DeepSeek Harness (DSH): wrap work in named tasks, fold finished spans into short summaries, recall originals on demand. | ✅ active |
 | [xiaoliuren-skill](resources/xiaoliuren-skill.md) | ⭐7 | 道传小六壬 skill (xiaoliuren-skill)——一个为 AI 代理（Cursor / Claude Code / OpenClaw / VS Code Copilot 等）提供专业级小六壬起卦排盘与解卦能力的技能包。 | ✅ active |
@@ -172,6 +178,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [perch](resources/perch.md) | ⭐6 | A native macOS workspace for local and remote coding agents. Conversations, tools, approvals and tasks — with Kimi, Codex and more. | ✅ active |
 | [scholar-llm-wiki](resources/scholar-llm-wiki.md) | ⭐6 | A knowledge base toolkit for research and literature review. AI agents compile papers, books and notes into a structured, densely interlinked Obsidian wiki. Built on Karpathy's llm-wiki.md: ingest/query/lint skills, controlled tag vocabulary, concept hierarchy + Canvas, arXiv->LaTeX formula pipeline, exit-code audits. | ✅ active |
 | [skillhub](resources/skillhub-1.md) | ⭐6 | skillhub of deepseek-harness | ✅ active |
+| [task-board-plugin](resources/task-board-plugin.md) | ⭐6 | 智能看板插件 — agent 团队的持久台账与治理层：把「派发 → 执行 → 验收 → 度量 → 复盘」跑成全链路闭环，每一张卡都是可审计、可度量的长期资产。 | ✅ active |
 | [academic-research-graph](resources/academic-research-graph.md) | ⭐5 | A SKILL that turns one paper into a living research map. | ✅ active |
 | [deep-structural-analysis-skill](resources/deep-structural-analysis-skill.md) | ⭐5 | Deep Structural Analysis — a multi-perspective structural analysis skill for complex social, economic, philosophical, and systemic questions. 16 lenses, 10 structural tools, an attack-loop protocol against analytical priors. Behavior-verified from real usage. MIT licensed.深度结构分析——面向复杂社会、哲学与系统性问题的多学科结构分析技能。16 透镜、10 结构工具、攻击循环协议对抗分析先验。基于实战行为验证。MIT许可。 | ✅ active |
 | [DeepSeek_Prism](resources/deepseek-prism.md) | ⭐5 | 为纯文本模型按需识图：DSH 零补丁 Cordis 插件（prism_see 工具 + 图片 VEP 降级 + 技能运行时注册）+ Codex Skill；多 Provider 视觉 API，VEP/1 低 Token 视觉证据包 | ✅ active |
@@ -193,8 +200,11 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [agent-skills](resources/agent-skills.md) | ⭐4 | Collection of Octoparse agent skills | ✅ active |
 | [behavior-enhancer-generic](resources/behavior-enhancer-generic.md) | ⭐4 | Behavior discipline for coding agents: read-before-write enforcement, failure convergence, write verification with auto-rollback, and a high-risk command gate. Ships FULL plugin/hook adapters for DSH, Claude Code, Codex, and Pi, plus a host-agnostic SOFT skill with ADAPTIVE adapter guidance. | ✅ active |
 | [claude-conventions-skill](resources/claude-conventions-skill.md) | ⭐4 | Claude Code conventions skill for Chinese users | ✅ active |
+| [codeRDD](resources/coderdd.md) | ⭐4 | SDD（规范驱动开发）理念的多角色 AI 开发工作流系统：8 个角色技能卡 + rdd-engine 能力总线，把 Vibe Coding 升级为「有角色、有阶段、有门禁、可回溯」的工程化流水线。平台无关——同一套角色卡挂载到 OpenCode / Claude Code / ZCode / Codex / Warp，DSH 宿主另获插件级增强。 | ✅ active |
+| [dsh-canvas-flow](resources/dsh-canvas-flow.md) | ⭐4 | dsh-canvas-flow，deepseek harness 无限画布插件，在画布上，搭出你的工作流。 | ✅ active |
 | [dsh-capability-index](resources/dsh-capability-index.md) | ⭐4 | 给 DSH agent 的插件库"起飞前检查单"——任务型请求时自动预检插件库并注入 Top-K 适用插件提示，让插件库利用率可预期、不靠运气。Pre-flight plugin-library check for DSH agents — task-type requests trigger a Top-K hint of suitable plugins injected into the runtime context, making plugin usage predictable instead of opportunistic. | ✅ active |
 | [dsh-capability-receipt](resources/dsh-capability-receipt.md) | ⭐4 | Content-addressed receipts for skills actually loaded by DeepSeek Harness | ✅ active |
+| [dsh-cf-sas](resources/dsh-cf-sas.md) | ⭐4 | 将 cloudflare/security-audit-skill 从 | ✅ active |
 | [dsh-cron](resources/dsh-cron-2.md) | ⭐4 | Scheduled tasks (cron) for DeepSeek Harness: model- and human-callable scheduling that fires followup/inject into agent sessions | ✅ active |
 | [dsh-factory](resources/dsh-factory.md) | ⭐4 | Durable dependency-graph task factory for DeepSeek Harness: recurring Agent work, safe checkout lanes, first-class queues, Triage, and artifacts. | ✅ active |
 | [dsh-loom](resources/dsh-loom.md) | ⭐4 | Loom (织机) — external coach / second verifier for DeepSeek Harness: silently evolves your agent's tools, skills, config and model, with deterministic verification and cold-apply. | ✅ active |
@@ -221,10 +231,12 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [free-vision-skill](resources/free-vision-skill.md) | ⭐4 | Local‑only vision skill for macOS 本地化识图技能dsh-plugin | ✅ active |
 | [kimi-ppt-skill](resources/kimi-ppt-skill.md) | ⭐4 | DSH (DeepSeek Harness) presentation skill: PPT/演示文稿生成与导出，含 DSH 内纯本地导出 (python-pptx) 与本地预览渲染 (Pillow)。 | ✅ active |
 | [maestro-skills](resources/maestro-skills.md) | ⭐4 | Universal AI Agent Development Skills Hub & Cordis Plugin for Govard, Magento 2, Laravel. Works with Claude Code, Codex CLI, OpenCode, GitHub Copilot, DeepSeek Harness. | ✅ active |
+| [oh-my-deepseek-harness](resources/oh-my-deepseek-harness-2.md) | ⭐4 | OMX 风格的工作流技能集，为 DeepSeek Harness 重写。 | ✅ active |
 | [reSanity](resources/resanity.md) | ⭐4 | reSanity 散修 — 面向散户投研的证据搜索与逻辑梳理 Skill：核查一手资料，拆解题材到收入、利润和现金的传导链，标注证据与推断边界。 | ✅ active |
 | [soya](resources/soya.md) | ⭐4 | 🐳 SOYA Personal Board — your private board of directors: 12 great minds from history for decisions, morning meetings & card vault. DeepSeek Harness preset + portable skills. 个人董事会：让古今智者组成你的私人智慧大脑。 | ✅ active |
 | [tool-repair-skill-for-hermes-and-opencode](resources/tool-repair-skill-for-hermes-and-opencode.md) | ⭐4 | Hermes Tool Repair Skill - deterministic tool call repair for LLM agents. Catches common JSON formatting mistakes open models make and fixes them before dispatch, with repair notes that teach the model to self-correct. | ✅ active |
 | [TsienHsueShen](resources/tsienhsueshen.md) | ⭐4 | 钱学森《工程控制论》全书蒸馏的 DeepSeek Harness 方法论技能插件 | A DeepSeek Harness skill plugin distilled from Qian Xuesen's Engineering Cybernetics | ✅ active |
+| [wps-dsh-plugin](resources/wps-dsh-plugin.md) | ⭐4 | Unofficial DeepSeek Harness integration for lc2panda/wps-skills. | ✅ active |
 | [agent-plaza](resources/agent-plaza.md) | ⭐3 | Zero-signup public commons for AI agents — HTTP API + Agent Skill (Codex, Cursor, Hermes) | ✅ active |
 | [AgentForge](resources/agentforge.md) | ⭐3 | 通用 agent 工作流与工程技能集，同时作为 Claude Code 插件与 DeepSeek Harness 插件分发。实施编排 + 三轴 diff 评审 + 复杂度审计 + 突变测试，零外部依赖。 | ✅ active |
 | [agents-skills](resources/agents-skills.md) | ⭐3 | 个人 Agent 技能库（SKILL.md）：140+ 技能，供 DeepSeek Harness / Claude Code 等 agent 使用 | ✅ active |
@@ -239,6 +251,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [CHENGXIAO](resources/chengxiao.md) | ⭐3 | Remote control between DeepSeek Harness machines: pair with a one-time code, run tasks and transfer files on the other machine - LAN direct or cross-network via an end-to-end-encrypted relay (official zero-config default). Files stay on each machine. | ✅ active |
 | [commercial-ui-ux-codex-skill](resources/commercial-ui-ux-codex-skill.md) | ⭐3 | Installable Codex skill for commercial UI/UX/GUI design, review, repair, and implementation. | ✅ active |
 | [dsh-astock-research](resources/dsh-astock-research.md) | ⭐3 | A股个股研究助手 - DeepSeek Harness (dsh) 插件：股票搜索/历史公告/财报/画像/信号科普，附合规 skill | ✅ active |
+| [dsh-bigfish](resources/dsh-bigfish.md) | ⭐3 | 🐋 DeepSeek Harness Web 宠物插件：动画陪伴、自适应输出节奏、可替换角色包与角色制作 Skill。 | ✅ active |
 | [dsh-bio-genie](resources/dsh-bio-genie.md) | ⭐3 | 生物信息学「许愿式分析」dsh 插件：48 个语义化工具 + bio_python 执行器（Biopython 全功能 · 出版级绘图 · 代谢建模/FBA · 合成生物学设计）+ 46 个 skill；零安装自举私有 Python 环境，中国网络自动镜像适配。 | ✅ active |
 | [dsh-codex-pet](resources/dsh-codex-pet-2.md) | ⭐3 | DSH Codex Pet — 为 DeepSeek Harness 提供宠物陪伴、多任务提醒与交互，以及 Skill 自定义宠物 · A pet companion with multi-task notifications, interactions, and Skill-based custom pets for DeepSeek Harness | ✅ active |
 | [dsh-comfyui](resources/dsh-comfyui.md) | ⭐3 | ComfyUI 驱动器（AI-first 合同制）：模型只见合同槽、不见工作流 JSON。文生图/图生图/文生视频/图生视频模板，双重预检防幻觉，官方/自定义节点活体判定。 | ✅ active |
@@ -249,7 +262,9 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-find-skill](resources/dsh-find-skill.md) | ⭐3 | Bridges the vercel-labs/skills ecosystem: LLM-driven skill search, install and management. | ✅ active |
 | [dsh-generation](resources/dsh-generation.md) | ⭐3 | Fork agent presets and run tasks on the next generation. Make, not a compiler. | ✅ active |
 | [dsh-github-harness](resources/dsh-github-harness.md) | ⭐3 | Minimal single-agent GitHub task loop for DeepSeek Harness | ✅ active |
+| [dsh-goal](resources/dsh-goal.md) | ⭐3 | Autonomous Goal Execution & Multi-Turn Task Tracking Engine with Sticky Header for DeepSeek Harness | ✅ active |
 | [dsh-grok-geo](resources/dsh-grok-geo.md) | ⭐3 | DSH (DeepSeek Harness) plugin bundle: grok-geo GEO brand audit agent skill - AI-search visibility, recommendations, citations, competitor presence and content-gap diagnosis across 17+ AI engines, shipped as a bundled skill provider. | ✅ active |
+| [dsh-hiboard-push](resources/dsh-hiboard-push.md) | ⭐3 | Push task-completion messages to the Huawei HarmonyOS assistant-today (负一屏) card feed from DeepSeek Harness — wire-compatible with the OpenClaw today-task skill. | ✅ active |
 | [dsh-java-plugin-skills](resources/dsh-java-plugin-skills.md) | ⭐3 | DSH Java 技能包：一句话生成业务应用与 Java Native 插件，完成 AI 智能体对接与全链路验证。 | ✅ active |
 | [dsh-kanban](resources/dsh-kanban-2.md) | ⭐3 | Task board plugin for the DeepSeek Harness Web UI | ✅ active |
 | [dsh-lit-search](resources/dsh-lit-search.md) | ⭐3 | Academic literature search, citation and BibTeX tools for DeepSeek Harness and any agent (Crossref + OpenAlex). dsh plugin + CLI + SKILL.md. | ✅ active |
@@ -268,10 +283,12 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-plugin-task-coordinator](resources/dsh-plugin-task-coordinator.md) | ⭐3 | Codex-style cross-task coordination for DeepSeek Harness: list, inspect, spawn, message and steer top-level sessions from a supervisor agent. | ✅ active |
 | [dsh-plugin-wiki-skills](resources/dsh-plugin-wiki-skills.md) | ⭐3 | The claude-obsidian-derived knowledge-suite skills (wiki, wiki-ingest, wiki-query, wiki-lint, save) as a DeepSeek Harness plugin, with attribution | ✅ active |
 | [dsh-ppt](resources/dsh-ppt.md) | ⭐3 | DSH 演示文稿技能 + 工具插件：一句话 / 一篇 Markdown → HTML 网页放映 + 可编辑 PPTX；5 套视觉主题、页间转场 + 要点入场动画（motion 可关）、金句/表格/演讲者备注，薄 SKILL.md + references 按需装载，零运行时依赖跨 harness。· Presentation skill & tools for DeepSeek Harness agents. 已验证兼容 DeepSeek Harness v0.1.2-alpha.5。 | ✅ active |
+| [dsh-preset-qa-mode](resources/dsh-preset-qa-mode.md) | ⭐3 | 「问答模式」以 DSH 内置的 standard（标准模式）预设为底版，**完整保留其全部能力**（文件编辑、Shell、文件与网页检索、网页抓取、Skills、计划模式、目标与 /goal 命令、子代理、工作流、交付物声明等），只改写了人设与行为规则（qa-mode.patch.yml 中 plugins 的 persona 行）。 | ✅ active |
 | [dsh-qwen-voice](resources/dsh-qwen-voice.md) | ⭐3 | Voice control and multi-session task dispatch for DeepSeek Harness, powered by Qwen Audio Agent | ✅ active |
 | [dsh-s1](resources/dsh-s1.md) | ⭐3 | Native s1 tools for the DeepSeek Harness (DSH): s1_search, s1_news, s1_crawl, s1_sitemap, s1_trending + bundled s1 skill | ✅ active |
 | [dsh-seismicx](resources/dsh-seismicx.md) | ⭐3 | DeepSeek Harness plugin for the SeismicX earthquake-catalog skill | ✅ active |
 | [dsh-shutdown-after-task](resources/dsh-shutdown-after-task.md) | ⭐3 | Shut down Windows after DeepSeek Harness tasks complete — button-armed, cancellable countdown. 任务完成后自动关机（按钮开启，倒计时可取消）。Zero-dependency DSH plugin. | ✅ active |
+| [dsh-skill-evolution](resources/dsh-skill-evolution.md) | ⭐3 | Hermes-style skill self-evolution plugin for DeepSeek Harness (DSH): crystallizes reusable agent skills from successful turns via signal-triggered LLM review, progressively improves them, and manages everything in a Settings panel. | ✅ active |
 | [dsh-skill-importer](resources/dsh-skill-importer.md) | ⭐3 | Import, validate, manage, and migrate Agent Skills for DeepSeek Harness (DSH), Claude Code, Codex, and other AI coding agents. | ✅ active |
 | [dsh-skill-loader](resources/dsh-skill-loader.md) | ⭐3 | Per-conversation skill catalog picker for DeepSeek Harness (dsh) — choose which skills are loaded into each conversation. Unselected skills are unavailable in that conversation. | ✅ active |
 | [dsh-skill-manager](resources/dsh-skill-manager-2.md) | ⭐3 | DSH web plugin: a Skill Manager page in the settings panel browsing system / user / workspace / preset skills, with file-tree editing, zip import/export, and delete (system skills read-only). | ✅ active |
@@ -287,10 +304,13 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-task-notify](resources/dsh-task-notify-3.md) | ⭐3 | DeepSeekHarness任务完成时进行消息推送提醒（微信+Windows通知） | ✅ active |
 | [dsh-token-saver](resources/dsh-token-saver.md) | ⭐3 | DeepSeek Harness plugin: aggressive token savings, no task-quality loss | ✅ active |
 | [dsh-tool-manager](resources/dsh-tool-manager.md) | ⭐3 | DSH 工具管理插件：按 Agent Preset 开关和分组工具，像 Skill 一样按需加载工具，减少模型上下文占用。 | ✅ active |
+| [dsh-tree-task-flow](resources/dsh-tree-task-flow.md) | ⭐3 | 树形任务流 · DeepSeek Harness 插件：把多步任务组织成目标→任务→子任务三级树，节点完成时由 AI 提交结果，插件随即把该节点的执行过程从上下文里折叠掉。 | ✅ active |
+| [dsh-ui-sound](resources/dsh-ui-sound.md) | ⭐3 | DSH Web UI sound effects for DeepSeek Harness 0.2.0 - community port of dsh-plugin-uisfx: interface-interaction + task-status cues, 78 cues x 12 packs, per-scenario settings page. | ✅ active |
 | [dsh-vision](resources/dsh-vision-8.md) | ⭐3 | DeepSeek Harness 识图插件：为不具备原生识图能力的模型提供识图能力（阿里云百炼 qwen3.5-omni-plus，失败自动切换智谱 glm-4.6v-flash）。由 claude-vision-skill 移植适配。 | Vision tool for DeepSeek Harness | ✅ active |
 | [gzhflow](resources/gzhflow.md) | ⭐3 | 跨 Agent 公众号内容发布工作流框架 — 素材先行/写作/去AI味/配图/排版/推草稿箱 六阶段流水线，适配 Claude Code/Cursor/Codex/Gemini/Qwen/DeepSeek 等主流 Agent | ✅ active |
 | [huahua-dsh-record-replay](resources/huahua-dsh-record-replay.md) | ⭐3 | DSH Record & Replay plugin: session timeline replay, replay-pack export/import, re-run recorded conversations, screen recording -> skill generation | ✅ active |
 | [infographic](resources/infographic.md) | ⭐3 | A Claude Code skill that turns a document or a topic into a designed visual explainer. 52 block forms, an enforced word budget, and guards that fail the build. | ✅ active |
+| [lightroom-py](resources/lightroom-py.md) | ⭐3 | Unofficial Python library, CLI, and Claude/Codex agent skill for automating Adobe Lightroom Classic | ✅ active |
 | [ListForm](resources/listform.md) | ⭐3 | openclaw - skills :　List · 智能表单（万能信息记录·智能记事本·智能账单）- Smart Form & Notes | ✅ active |
 | [litestartup-skills](resources/litestartup-skills.md) | ⭐3 | Publish blog, docs, website, changelog, send campaign email directly from your AI agent. Write content, run one prompt, go live in seconds. | ✅ active |
 | [mddocx](resources/mddocx.md) | ⭐3 | 将 Markdown 转换为符合学术规范的 Word 文档 skill，支持三线表、图题/表题自动编号、页码、页眉等学术论文排版规范。 | ✅ active |

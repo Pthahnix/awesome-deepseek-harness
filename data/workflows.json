@@ -1023,6 +1023,24 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-math-modeling-skills-gatecraft",
+    "name": "dsh-math-modeling-skills-Gatecraft-",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Crayonnan/dsh-math-modeling-skills-Gatecraft-",
+    "description": "**9 skills**：competition-workflow（五阶段流水线总控：阶段报告 / EDA 五问 / 验证三件套）· guozhan-paper（国奖写作范式）· vision-ocr（题面与范文阅读）· sensitivity-analysis · statistical-diagnosis · math-modeling-paper（论文内容）· math-paper-template（LaTeX 排版）· tex-pdf-image-to-word（转换 Word）· paper-gate（交",
+    "description_zh": "**9 skills**：competition-workflow（五阶段流水线总控：阶段报告 / EDA 五问 / 验证三件套）· guozhan-paper（国奖写作范式）· vision-ocr（题面与范文阅读）· sensitivity-analysis · statistical-diagnosis · math-modeling-paper（论文内容）· math-paper-template（LaTeX 排版）· tex-pdf-image-to-word（转换 Word）· paper-gate（交",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 8,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-finance",
     "name": "dsh-finance",
     "type": "workflow",
@@ -1074,6 +1092,24 @@
       "oauth",
       "openai-codex"
     ]
+  },
+  {
+    "id": "dsh-lazygit-plugin",
+    "name": "dsh-lazygit-plugin",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/IT-coder-Yy/dsh-lazygit-plugin",
+    "description": "A visual Git workbench for DeepSeek Harness Web—inspect repositories, run common Git actions, and safely execute AI-generated workflows.",
+    "description_zh": "A visual Git workbench for DeepSeek Harness Web—inspect repositories, run common Git actions, and safely execute AI-generated workflows.",
+    "capabilities": [
+      "coding",
+      "git",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "MIT"
   },
   {
     "id": "engineer-software",
@@ -1455,6 +1491,24 @@
     "verified": false,
     "stars": 6,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-tokenslash",
+    "name": "dsh-tokenslash",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/JessenReinhart/dsh-tokenslash",
+    "description": "Every time you hit Enter in DeepSeek Harness (DSH), the system prompt includes **every single registered tool schema** and plugin guideline — even ones you never touch (image generators, web crawlers, workflow planners).",
+    "description_zh": "Every time you hit Enter in DeepSeek Harness (DSH), the system prompt includes **every single registered tool schema** and plugin guideline — even ones you never touch (image generators, web crawlers, workflow planners).",
+    "capabilities": [
+      "coding",
+      "multimodal",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 6
   },
   {
     "id": "dsh-companion-1-1",
@@ -3051,6 +3105,56 @@
     "verified": false,
     "stars": 3,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-heartbeat",
+    "name": "dsh-plugin-heartbeat",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/LittleBlackTong/dsh-plugin-heartbeat",
+    "description": "DeepSeek Harness 的「心跳」插件：给 agent 装一个定时唤醒的闹钟，让它**主动**开口 —— 汇报进展、风险、卡点，或者没事贫两句。类似 OpenClaw 的心跳模式。",
+    "description_zh": "DeepSeek Harness 的「心跳」插件：给 agent 装一个定时唤醒的闹钟，让它**主动**开口 —— 汇报进展、风险、卡点，或者没事贫两句。类似 OpenClaw 的心跳模式。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "tavern-content",
+    "name": "tavern-content",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/ai4rpg/tavern-content",
+    "description": "The tavern content repo for the tavern-cards workflow on the DeepSeek Harness (dsh): everything that is content or configuration rather than plugin code, in one clone. Neither package here ships on npm; the plugins they compose (@ai4rpg/dsh-tavern-stages, @ai4",
+    "description_zh": "The tavern content repo for the tavern-cards workflow on the DeepSeek Harness (dsh): everything that is content or configuration rather than plugin code, in one clone. Neither package here ships on npm; the plugins they compose (@ai4rpg/dsh-tavern-stages, @ai4",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-superpowers-1",
+    "name": "dsh-superpowers",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/JasonFreeLab/dsh-superpowers",
+    "description": "DSH (DeepSeek Harness) port of obra/superpowers — 14 native skills for multi-agent software development: brainstorming, planning, TDD, systematic debugging, and code review.",
+    "description_zh": "DSH (DeepSeek Harness) port of obra/superpowers — 14 native skills for multi-agent software development: brainstorming, planning, TDD, systematic debugging, and code review.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
   },
   {
     "id": "dsh-plugin-verified-search",

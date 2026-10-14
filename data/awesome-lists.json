@@ -238,6 +238,24 @@
     "license": "MIT"
   },
   {
+    "id": "scope-recall-hermes",
+    "name": "scope-recall-hermes",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/410979729/scope-recall-hermes",
+    "description": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, and tools to inspect, correct or delete what is remembered.",
+    "description_zh": "Local long-term memory for Hermes, Codex, Claude Code, WorkBuddy and dsh agents: one SQLite store, source-backed recall, and tools to inspect, correct or delete what is remembered.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 322,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-dsh-plugin-bruc3van-1",
     "name": "awesome-dsh-plugin (bruc3van)",
     "type": "awesome-list",
@@ -330,6 +348,25 @@
     "verified": false,
     "stars": 171,
     "license": "MIT"
+  },
+  {
+    "id": "awesome-gaussian-skills",
+    "name": "Awesome-Gaussian-Skills",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/jaccen/Awesome-Gaussian-Skills",
+    "description": "900 arXiv-verified 3DGS methods · 15 AI agent skills · MCP server (34 tools) · open ebook — the AI-native entry to 3D Gaussian Splatting research",
+    "description_zh": "900 arXiv-verified 3DGS methods · 15 AI agent skills · MCP server (34 tools) · open ebook — the AI-native entry to 3D Gaussian Splatting research",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent",
+      "search"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 161,
+    "license": "Apache-2.0"
   },
   {
     "id": "notes",
@@ -900,6 +937,24 @@
     "growth": 1
   },
   {
+    "id": "dsh-toolbox-ui",
+    "name": "dsh-toolbox-ui",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Imzl-zl/dsh-toolbox-ui",
+    "description": "Toolbox panel for DeepSeek Harness Web: MCP manager (tools & JSON Schema, market, import, workspace copy) and skills manager (scopes & shadowing, enable/disable, model auto-invocation, skillhub.cn market).",
+    "description_zh": "Toolbox panel for DeepSeek Harness Web: MCP manager (tools & JSON Schema, market, import, workspace copy) and skills manager (scopes & shadowing, enable/disable, model auto-invocation, skillhub.cn market).",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 24,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-directory-1",
     "name": "dsh-plugin-directory",
     "type": "awesome-list",
@@ -1022,31 +1077,20 @@
     "license": "CC0-1.0"
   },
   {
-    "id": "dsh-archived-chats",
-    "name": "dsh-archived-chats",
+    "id": "dsh-delete-chat",
+    "name": "dsh-delete-chat",
     "type": "awesome-list",
     "category": "registry",
-    "repository": "https://github.com/Ultronen/dsh-archived-chats",
-    "description": "Archive Management / 归档管理 for DeepSeek Harness: browse and search archived chats, preview and restore them, bulk archive by workspace, export/import ZIP backups, and manage a Recycle Bin. All data stays local.",
-    "description_zh": "DeepSeek Harness 的归档管理：浏览和搜索已归档会话，预览与恢复，按工作区批量归档，导入导出 ZIP 备份并管理回收站。所有数据留在本机。",
+    "repository": "https://github.com/youqu68/dsh-delete-chat",
+    "description": "A DeepSeek Harness session manager: a settings page that lists every session and lets you archive (hide), unarchive (restore), and permanently delete sessions.",
+    "description_zh": "A DeepSeek Harness session manager: a settings page that lists every session and lets you archive (hide), unarchive (restore), and permanently delete sessions.",
     "capabilities": [
-      "coding",
-      "search"
+      "coding"
     ],
     "status": "active",
     "verified": false,
     "stars": 18,
-    "_license": "MIT",
-    "_topics": [
-      "archive",
-      "backup",
-      "chat-history",
-      "conversation-search",
-      "data-recovery",
-      "deepseek-harness",
-      "dsh-plugin",
-      "local-first"
-    ]
+    "license": "MIT"
   },
   {
     "id": "dsh-plugin-hub-list",
@@ -1863,6 +1907,25 @@
       "git",
       "memory",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-memory-3",
+    "name": "dsh-plugin-memory",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/LittleBlackTong/dsh-plugin-memory",
+    "description": "**English TL;DR** — A Cordis plugin for DeepSeek Harness that gives agents a persistent, cross-session, migratable long-term memory: a markdown + git store (inspired by Karpathy's *LLM Wiki* pattern) with a SOUL.md persona file, **auto-injected at every sessio",
+    "description_zh": "**English TL;DR** — A Cordis plugin for DeepSeek Harness that gives agents a persistent, cross-session, migratable long-term memory: a markdown + git store (inspired by Karpathy's *LLM Wiki* pattern) with a SOUL.md persona file, **auto-injected at every sessio",
+    "capabilities": [
+      "coding",
+      "git",
+      "memory",
+      "multi-agent"
     ],
     "status": "active",
     "verified": false,
@@ -2832,6 +2895,23 @@
     "stars": 4
   },
   {
+    "id": "dsh-store",
+    "name": "dsh-store",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/huguangyu666/dsh-store",
+    "description": "DeepSeek Harness 插件商店：**上游基础设施**。聚合 npm registry + awesome 精选 + GitHub 星标的 dsh 插件目录，质量验证 + 分类 + 星标排序，在 dsh 内一键安装 / 卸载（走官方 dsh plugin add/remove），装完重启即生效。",
+    "description_zh": "DeepSeek Harness 插件商店：**上游基础设施**。聚合 npm registry + awesome 精选 + GitHub 星标的 dsh 插件目录，质量验证 + 分类 + 星标排序，在 dsh 内一键安装 / 卸载（走官方 dsh plugin add/remove），装完重启即生效。",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugins-lwmxiaobei-1",
     "name": "dsh-plugins",
     "type": "awesome-list",
@@ -3796,6 +3876,124 @@
     "capabilities": [
       "coding",
       "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-browser-2",
+    "name": "dsh-plugin-browser",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/qichuang321/dsh-plugin-browser",
+    "description": "DSH 插件**市场入口 + 运维面板**：浏览 awesome-dsh-plugin 目录（252+ 插件），",
+    "description_zh": "DSH 插件**市场入口 + 运维面板**：浏览 awesome-dsh-plugin 目录（252+ 插件），",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "awesome-dsh-plugin-2",
+    "name": "awesome-dsh-plugin",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Wenston-dev/awesome-dsh-plugin",
+    "description": "Awesome dsh plugin list — automated DeepSeek Harness plugin directory. Daily GitHub Actions crawl of topic:dsh-plugin / topic:deepseek-harness, bilingual README + machine-readable JSON/CSV",
+    "description_zh": "Awesome dsh plugin list — automated DeepSeek Harness plugin directory. Daily GitHub Actions crawl of topic:dsh-plugin / topic:deepseek-harness, bilingual README + machine-readable JSON/CSV",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-behuman",
+    "name": "dsh-behuman",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/goodddGrades/dsh-behuman",
+    "description": "Long-term memory and self-evolving skills for the DeepSeek Harness · DeepSeek Harness 的长期记忆与自我演进能力 —— Plain Markdown on disk, no vector store",
+    "description_zh": "Long-term memory and self-evolving skills for the DeepSeek Harness · DeepSeek Harness 的长期记忆与自我演进能力 —— Plain Markdown on disk, no vector store",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hub-2",
+    "name": "dsh-hub",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/omdsh-dev/dsh-hub",
+    "description": "OMDSH Hub is a community extension catalog and Profile generation manager for DeepSeek Harness. It reuses the Harness Profile, Bundle, Repository Plugin, Agent Preset, layered Skill registry, Cordis lifecycle, and configuration contracts while adding transacti",
+    "description_zh": "OMDSH Hub is a community extension catalog and Profile generation manager for DeepSeek Harness. It reuses the Harness Profile, Bundle, Repository Plugin, Agent Preset, layered Skill registry, Cordis lifecycle, and configuration contracts while adding transacti",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-taskboard-2",
+    "name": "dsh-taskboard",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/ttmouse/dsh-taskboard",
+    "description": "description: \"The right Sidebar of the dsh web client: one docking surface per session, two presentations, the navigation controller ctx.sidebarRight, the tab-type registry ctx.sidebarRightTabs, and the Tab domain.\"",
+    "description_zh": "description: \"The right Sidebar of the dsh web client: one docking surface per session, two presentations, the navigation controller ctx.sidebarRight, the tab-type registry ctx.sidebarRightTabs, and the Tab domain.\"",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-compat-market",
+    "name": "dsh-compat-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/lpf0404/dsh-compat-market",
+    "description": "为 DeepSeek Harness（DSH）桌面端打造的**插件市场**：在侧栏浏览官方与社区插件，**装之前就看到兼容性结论**，一键交给官方安装管线安装。",
+    "description_zh": "为 DeepSeek Harness（DSH）桌面端打造的**插件市场**：在侧栏浏览官方与社区插件，**装之前就看到兼容性结论**，一键交给官方安装管线安装。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-market-12",
+    "name": "dsh-plugin-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Zhen-WushuiLingchun/dsh-plugin-market",
+    "description": "面向 DeepSeek Harness Web GUI 的持久化 Cordis 插件市场。它在“工作区”标题右侧、搜索/筛选/添加工作区之后放置一个 VS Code 风格的扩展图标，点击后从 GitHub 搜索 DSH 插件。",
+    "description_zh": "面向 DeepSeek Harness Web GUI 的持久化 Cordis 插件市场。它在“工作区”标题右侧、搜索/筛选/添加工作区之后放置一个 VS Code 风格的扩展图标，点击后从 GitHub 搜索 DSH 插件。",
+    "capabilities": [
+      "coding",
+      "git",
       "ui"
     ],
     "status": "active",

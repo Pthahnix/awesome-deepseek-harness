@@ -3398,6 +3398,22 @@
     "license": "MIT"
   },
   {
+    "id": "fnos-cli-skill",
+    "name": "fnos-cli-skill",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/fnnas-labs/fnos-cli-skill",
+    "description": "The fnOS Skill for the latest available fnOS CLI. This repository contains generated",
+    "description_zh": "The fnOS Skill for the latest available fnOS CLI. This repository contains generated",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 18,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-desktop-windowos",
     "name": "dsh-desktop-windowos",
     "type": "client",
@@ -3483,6 +3499,24 @@
     "description_zh": "550C 开机动画 for DeepSeek Harness — 首帧由宿主半边注入，DSH 的 Loading 卡片不露脸；桌面原生标题栏按钮收编成终端配色 | 550C boot splash plugin for DSH",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 17,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-whale-pet-4",
+    "name": "dsh-whale-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/rongzi5/dsh-whale-pet",
+    "description": "Persistent browser plugin for the DeepSeek Harness 3D whale desktop pet.",
+    "description_zh": "Persistent browser plugin for the DeepSeek Harness 3D whale desktop pet.",
+    "capabilities": [
+      "browser",
+      "coding",
+      "desktop"
     ],
     "status": "active",
     "verified": false,
@@ -3987,6 +4021,21 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-android-2",
+    "name": "dsh-android",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/sunflower2333/dsh-android",
+    "description": "dsh (DeepSeek Harness) 自包含离线安装包：完整依赖树 + 预编译原生模块，专为 Termux/Android arm64打包",
+    "description_zh": "dsh (DeepSeek Harness) 自包含离线安装包：完整依赖树 + 预编译原生模块，专为 Termux/Android arm64打包",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 14
+  },
+  {
     "id": "dsh-blue-sea-launcher",
     "name": "dsh-blue-sea-launcher",
     "type": "client",
@@ -4117,6 +4166,21 @@
     "verified": false,
     "stars": 13,
     "license": "MIT"
+  },
+  {
+    "id": "dshan",
+    "name": "DSHAN",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/Chiyang001/DSHAN",
+    "description": "Deepseek Harness for Android Native",
+    "description_zh": "Deepseek Harness for Android Native",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13
   },
   {
     "id": "dsh-mobile-for-android",
@@ -4454,6 +4518,22 @@
     "status": "active",
     "verified": false,
     "stars": 11
+  },
+  {
+    "id": "cute-fat-fish-pet",
+    "name": "cute-fat-fish-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/12we21/cute-fat-fish-pet",
+    "description": "蓝毛小女仆 (Blue-Haired Little Maid) · 住在 Windows 桌面上的 Q 版蓝发小女仆桌面宠物：106 个手绘透明动画、本地 Ollama 或在线模型陪聊、可选看屏幕吐槽、离线语音识别（安装器与便携版）。免费开源 MIT。同时是 DeepSeek Harness 桌面宠物插件（dsh-plugin）。By Mikolu.",
+    "description_zh": "蓝毛小女仆 (Blue-Haired Little Maid) · 住在 Windows 桌面上的 Q 版蓝发小女仆桌面宠物：106 个手绘透明动画、本地 Ollama 或在线模型陪聊、可选看屏幕吐槽、离线语音识别（安装器与便携版）。免费开源 MIT。同时是 DeepSeek Harness 桌面宠物插件（dsh-plugin）。By Mikolu.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 11,
+    "license": "MIT"
   },
   {
     "id": "chyra-moon-desktop",
@@ -5041,6 +5121,39 @@
     "verified": false,
     "stars": 9,
     "license": "MIT"
+  },
+  {
+    "id": "local-dsh",
+    "name": "local-dsh",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/liangchen-harold/local-dsh",
+    "description": "基于 DeepSeek Harness 与 llama.cpp 构建，下载即用的本地 AI Agent 桌面客户端。",
+    "description_zh": "基于 DeepSeek Harness 与 llama.cpp 构建，下载即用的本地 AI Agent 桌面客户端。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-plugin-manager-16",
+    "name": "DSH-Plugin-Manager",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Liaoyuanxinghuo/DSH-Plugin-Manager",
+    "description": "面向 **DSH** 的桌面管理工具（Tauri 2 + React 19 + TypeScript）。在图形界面中完成 DSH 多版本下载管理、Profile 管理(整合包管理)、插件安装与管理、**整合包（.dspack）导出 / 导入 / 市场**、多实例独立启动，无需手敲命令行。",
+    "description_zh": "面向 **DSH** 的桌面管理工具（Tauri 2 + React 19 + TypeScript）。在图形界面中完成 DSH 多版本下载管理、Profile 管理(整合包管理)、插件安装与管理、**整合包（.dspack）导出 / 导入 / 市场**、多实例独立启动，无需手敲命令行。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 9
   },
   {
     "id": "deepseek-harness-desktop-omdsh",
@@ -5644,6 +5757,25 @@
     "status": "active",
     "verified": false,
     "stars": 7
+  },
+  {
+    "id": "dsh-plugin-rea",
+    "name": "dsh-plugin-rea",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/czcdr/dsh-plugin-rea",
+    "description": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
+    "description_zh": "第三方适配插件：把上游 REA（逆向一切，github.com/morluto/rea）的 MCP 服务注册进 DeepSeek Harness，得到 mcp__rea__* 工具；原生二进制(Hopper/Ghidra/IDA)、JS/Electron、.NET、网站、APK/adb、固件等分析能力均由上游提供。Third-party adapter — analysis is upstream REA own. Verified: REA 6.4.0 + DSH 0.2.0-rc.2 + Ghidra 12.1.4.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "git",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 7,
+    "license": "MIT"
   },
   {
     "id": "deepseek-harness-cli-2",
@@ -6963,6 +7095,23 @@
     "capabilities": [
       "coding",
       "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 5,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-git-graph-3",
+    "name": "dsh-git-graph",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/enoughpower/dsh-git-graph",
+    "description": "dsh-git-graph 把 Git 操作（状态 / 分支 / 差异 / 提交 / 推送拉取 / 提交图 / 溯源）打包成一个可直接安装的",
+    "description_zh": "dsh-git-graph 把 Git 操作（状态 / 分支 / 差异 / 提交 / 推送拉取 / 提交图 / 溯源）打包成一个可直接安装的",
+    "capabilities": [
+      "coding",
+      "git"
     ],
     "status": "active",
     "verified": false,
@@ -9881,6 +10030,193 @@
     "verified": false,
     "stars": 3,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-agent-toolchain",
+    "name": "dsh-agent-toolchain",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/lemonmmice/dsh-agent-toolchain",
+    "description": "Evidence over claims for coding agents: 55 DSH/MCP tools (23 read-only) that build, drive, capture and profile a live Windows desktop app, then adjudicate what the agent claims against real evidence. Failure corpus included.",
+    "description_zh": "Evidence over claims for coding agents: 55 DSH/MCP tools (23 read-only) that build, drive, capture and profile a live Windows desktop app, then adjudicate what the agent claims against real evidence. Failure corpus included.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "mcp",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-cos",
+    "name": "dsh-cos",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/annexwu/dsh-cos",
+    "description": "腾讯云 COS 云存储的 DeepSeek Harness 插件。0.3.2 修复了桌面客户端云存储页上传时代理不提供 Content-Length 导致的错误；0.3.1 修复了 0.3.0 在 DSH 0.2.0-rc.2 中从 npm 安装后无法激活的问题。DSH 0.1.2 用户请继续使用插件 0.2.1。",
+    "description_zh": "腾讯云 COS 云存储的 DeepSeek Harness 插件。0.3.2 修复了桌面客户端云存储页上传时代理不提供 Content-Length 导致的错误；0.3.1 修复了 0.3.0 在 DSH 0.2.0-rc.2 中从 npm 安装后无法激活的问题。DSH 0.1.2 用户请继续使用插件 0.2.1。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "vision-use",
+    "name": "vision-use",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/zzy6-a/vision-use",
+    "description": "DSH Computer Use：让 Agent 看见并操作 Windows 桌面（Windows 原生 / WSL 自动识别）；视觉通道 + 鼠标键盘 + Codex 风格蓝色覆盖层，Esc 随时中止。",
+    "description_zh": "DSH Computer Use：让 Agent 看见并操作 Windows 桌面（Windows 原生 / WSL 自动识别）；视觉通道 + 鼠标键盘 + Codex 风格蓝色覆盖层，Esc 随时中止。",
+    "capabilities": [
+      "browser",
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "fatfish-pet-smart-companion",
+    "name": "fatfish-pet-smart-companion",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/botaochen840-lgtm/fatfish-pet-smart-companion",
+    "description": "FatFish Pet Smart Companion - 自包含智能桌面桌宠（改编自 whale-girl），下载即用，可选真连 DeepSeek Harness",
+    "description_zh": "FatFish Pet Smart Companion - 自包含智能桌面桌宠（改编自 whale-girl），下载即用，可选真连 DeepSeek Harness",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pharos",
+    "name": "dsh-pharos",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/Leo-Cjw/dsh-pharos",
+    "description": "DSH 桌面端守望提醒插件：**「需要你操作」+「回复完成」+「运行出错 / 被中断 / 达到上限 / 后台任务」多路提醒** — 系统通知 + 分音型提示音 + 标题标记 + 可选的 Webhook 出站推送，专为\"问完就切走、后台等结果\"设计。**点击通知可直接跳转到对应会话**（同类四个社区插件在当前运行时都做不到，见复盘）；macOS / Windows / 浏览器三条通知通道，Windows 走原生 Toast。浏览器半**零依赖、零 peer 声明**，无兼容性门槛。",
+    "description_zh": "DSH 桌面端守望提醒插件：**「需要你操作」+「回复完成」+「运行出错 / 被中断 / 达到上限 / 后台任务」多路提醒** — 系统通知 + 分音型提示音 + 标题标记 + 可选的 Webhook 出站推送，专为\"问完就切走、后台等结果\"设计。**点击通知可直接跳转到对应会话**（同类四个社区插件在当前运行时都做不到，见复盘）；macOS / Windows / 浏览器三条通知通道，Windows 走原生 Toast。浏览器半**零依赖、零 peer 声明**，无兼容性门槛。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "deepseek-girl-harness",
+    "name": "deepseek-girl-harness",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/nailiang002-wq/deepseek-girl-harness",
+    "description": "DeepSeek 娘互动挂件：任务表情、铁盆白饭、盆帽与时间问候。 Interactive companion for DeepSeek Harness Desktop.",
+    "description_zh": "DeepSeek 娘互动挂件：任务表情、铁盆白饭、盆帽与时间问候。 Interactive companion for DeepSeek Harness Desktop.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-desktop-65",
+    "name": "dsh-desktop",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/kyorakuyk/dsh-desktop",
+    "description": "**DeepSeek Harness 桌面客户端** — 基于 deepseek-harness 的 Tauri 原生窗口封装",
+    "description_zh": "**DeepSeek Harness 桌面客户端** — 基于 deepseek-harness 的 Tauri 原生窗口封装",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-tui-4",
+    "name": "dsh-tui",
+    "type": "client",
+    "category": "terminal",
+    "repository": "https://github.com/nexlineai/dsh-tui",
+    "description": "A full-screen interactive terminal UI for the DeepSeek Harness agent runtime — the web UI, reimagined for the terminal.",
+    "description_zh": "A full-screen interactive terminal UI for the DeepSeek Harness agent runtime — the web UI, reimagined for the terminal.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "terminal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-whale-pet-6",
+    "name": "dsh-whale-pet",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/dleaf6211-hash/dsh-whale-pet",
+    "description": "为 **DeepSeek Harness (DSH)** 而生的陪伴型桌宠:浏览器右下角的悬浮鲸鱼娘 + Windows 置顶桌面宠,**双形态共享同一份数据**,把余额、任务、消耗和陪伴都放在手边。",
+    "description_zh": "为 **DeepSeek Harness (DSH)** 而生的陪伴型桌宠:浏览器右下角的悬浮鲸鱼娘 + Windows 置顶桌面宠,**双形态共享同一份数据**,把余额、任务、消耗和陪伴都放在手边。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-icon-console",
+    "name": "dsh-icon-console",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/H1Kariiiiiii/dsh-icon-console",
+    "description": "pwsh -File ~\\.dsh\\tools\\dsh-desktop-cli.ps1 plugin --profile desktop add github:H1Kariiiiiii/dsh-icon-console",
+    "description_zh": "pwsh -File ~\\.dsh\\tools\\dsh-desktop-cli.ps1 plugin --profile desktop add github:H1Kariiiiiii/dsh-icon-console",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "deepseek-harness-desktop-50",
+    "name": "DeepSeek-Harness-Desktop",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/pig1et7/DeepSeek-Harness-Desktop",
+    "description": "把 DeepSeek Harness 的 Web GUI 变成 **Windows 桌面应用**：双击图标即用，无需在终端输入任何命令。",
+    "description_zh": "把 DeepSeek Harness 的 Web GUI 变成 **Windows 桌面应用**：双击图标即用，无需在终端输入任何命令。",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
   },
   {
     "id": "dsh-portable-launcher",
