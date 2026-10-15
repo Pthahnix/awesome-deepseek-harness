@@ -3157,6 +3157,38 @@
     "stars": 3
   },
   {
+    "id": "dsh-later",
+    "name": "dsh-later",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/dsh-plugin-collection/dsh-later",
+    "description": "给 DSH 加上定时发送：输入一句话，到点自动以你的身份送出，关掉网页也准时触发。定时发送 / 定时提醒 / 延迟发送。｜ Scheduled send for DSH: type now, delivered as you at the time you pick — even with the page closed.",
+    "description_zh": "给 DSH 加上定时发送：输入一句话，到点自动以你的身份送出，关掉网页也准时触发。定时发送 / 定时提醒 / 延迟发送。｜ Scheduled send for DSH: type now, delivered as you at the time you pick — even with the page closed.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-educoder",
+    "name": "dsh-educoder",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/isheng-eqi/dsh-educoder",
+    "description": "头歌（EduCoder）作业自动化 DSH 插件：全量扫描未完成作业并一次做完。选择题零 token（平台在提交响应里回吐答案键），只有代码题调用模型。",
+    "description_zh": "头歌（EduCoder）作业自动化 DSH 插件：全量扫描未完成作业并一次做完。选择题零 token（平台在提交响应里回吐答案键），只有代码题调用模型。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-verified-search",
     "name": "dsh-plugin-verified-search",
     "type": "workflow",

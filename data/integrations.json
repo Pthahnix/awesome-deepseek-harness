@@ -2196,6 +2196,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-rea",
+    "name": "dsh-rea",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Fanqi89/dsh-rea",
+    "description": "REA (Reverse Engineer Anything) MCP bridge for DeepSeek Harness — 接入 REA 逆向工具的 DSH 插件",
+    "description_zh": "REA (Reverse Engineer Anything) MCP bridge for DeepSeek Harness — 接入 REA 逆向工具的 DSH 插件",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 17,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-hdc-bridge",
     "name": "dsh-hdc-bridge",
     "type": "integration",
@@ -11645,6 +11662,110 @@
       "coding",
       "mcp",
       "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-roblox-studio",
+    "name": "dsh-roblox-studio",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/bxsexc/dsh-roblox-studio",
+    "description": "DeepSeek Harness native plugin: Settings UI for the Roblox Studio MCP bridge - list connected Studio instances, pick the active one, and expose the selection to agents as runtime context.",
+    "description_zh": "DeepSeek Harness native plugin: Settings UI for the Roblox Studio MCP bridge - list connected Studio instances, pick the active one, and expose the selection to agents as runtime context.",
+    "capabilities": [
+      "coding",
+      "context",
+      "mcp",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-paperforge",
+    "name": "dsh-paperforge",
+    "type": "integration",
+    "category": "ide",
+    "repository": "https://github.com/PhysicalAI-0/dsh-paperforge",
+    "description": "PaperForge — forge your understanding of papers inside DSH: selection-to-highlight, selection-to-ask (one dedicated session per paper), marquee-to-note screenshots with backlinks.",
+    "description_zh": "PaperForge — forge your understanding of papers inside DSH: selection-to-highlight, selection-to-ask (one dedicated session per paper), marquee-to-note screenshots with backlinks.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-runner-rlm-tools-bsl",
+    "name": "DSH-runner-rlm-tools-bsl",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/Mempemp/DSH-runner-rlm-tools-bsl",
+    "description": "Плагин DeepSeek Harness: MCP-сервер rlm-tools-bsl (анализ кода 1С) запускается и останавливается вместе с DSH",
+    "description_zh": "Плагин DeepSeek Harness: MCP-сервер rlm-tools-bsl (анализ кода 1С) запускается и останавливается вместе с DSH",
+    "capabilities": [
+      "coding",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-remote-picker",
+    "name": "dsh-remote-picker",
+    "type": "integration",
+    "category": "browser",
+    "repository": "https://github.com/Yuuichu/dsh-remote-picker",
+    "description": "Remote-access directory-picker fix for DeepSeek Harness: force the in-browser browse interaction when serving remote browsers (tailscale serve / cloudflared / --trusted-host)",
+    "description_zh": "Remote-access directory-picker fix for DeepSeek Harness: force the in-browser browse interaction when serving remote browsers (tailscale serve / cloudflared / --trusted-host)",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-codex-bridge-1",
+    "name": "dsh-plugin-codex-bridge",
+    "type": "integration",
+    "category": "developer",
+    "repository": "https://github.com/heswy/dsh-plugin-codex-bridge",
+    "description": "让 Codex 与 DSH 开发会话协作：工作区实时同步 + 双向投递/交回，不抢会话写锁、不接管 Git、不需要重启",
+    "description_zh": "让 Codex 与 DSH 开发会话协作：工作区实时同步 + 双向投递/交回，不抢会话写锁、不接管 Git、不需要重启",
+    "capabilities": [
+      "coding",
+      "git"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skills-mcp-group-manager",
+    "name": "dsh-skills-mcp-group-manager",
+    "type": "integration",
+    "category": "mcp",
+    "repository": "https://github.com/SeverusZh/dsh-skills-mcp-group-manager",
+    "description": "DeepSeek Harness Skills & MCPs 分组管理器 — 分组管理 Skills、过滤模型技能目录、独立开关 MCP 服务器、左侧面板一键管理 / Group skills, filter the model skill catalog, toggle MCP servers, left panel UI",
+    "description_zh": "DeepSeek Harness Skills & MCPs 分组管理器 — 分组管理 Skills、过滤模型技能目录、独立开关 MCP 服务器、左侧面板一键管理 / Group skills, filter the model skill catalog, toggle MCP servers, left panel UI",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "ui"
     ],
     "status": "active",
     "verified": false,

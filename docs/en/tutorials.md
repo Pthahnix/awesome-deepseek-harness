@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "Top 10 and full list of 67 curated tutorials & learning for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 68 curated tutorials & learning for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [deepseek-harness-tutorial](resources/deepseek-harness-tutorial.md) | ⭐182 | Detailed Chinese learning tutorial for DeepSeek Harness. | ✅ active |
 | 10 | [ConceptLoom](resources/conceptloom.md) | ⭐144 | AI-powered learning workflow for Codex, Claude Code, OpenCode and DeepSeek Harness that maps your knowledge, builds a personalized learning path, checks understanding, and saves progress across sessions. | ✅ active |
 
-## Complete list (67)
+## Complete list (68)
 
 
-**Learning (67)**
+**Learning (68)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -91,6 +91,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-plugin-template](resources/dsh-plugin-template-3.md) | ⭐3 | One sentence to an AI agent: create, release and list a DeepSeek Harness plugin. DSH 插件模板与 AI 操作手册 | ✅ active |
 | [dsh-plugin-tutorial](resources/dsh-plugin-tutorial.md) | ⭐3 | DeepSeek Harness 插件开发教程（中文）：环境搭建、Cordis 基础、Tool 开发、事件系统、LLM 适配器、打包发布 | ✅ active |
 | [dsh-study-buddy](resources/dsh-study-buddy.md) | ⭐3 | 使用DeepSeekHarness进行学习和笔记 | ✅ active |
+| [dsh-study-coach](resources/dsh-study-coach.md) | ⭐3 | DSH 的学习教练插件：把一门课拆成知识地图，逐单元记掌握度、排每日任务，并给学生一个看得见进度的网页面板。 | ✅ active |
 | [learning-skills](resources/learning-skills.md) | ⭐3 | Learning skills for Codex and DeepSeek Harness: course notes, conceptual explanations, and self-contained lectures. | ✅ active |
 | [Project-Memory-Agent](resources/project-memory-agent.md) | ⭐3 | Project Memory gives coding agents a single, trustworthy memory for a software repository — so they stop re-learning the same facts and stop writing conflicting "memory" files. | ✅ active |
 | [deepseek-protocol-doctor](resources/deepseek-protocol-doctor.md) | ⭐2 | Checks DeepSeek tool loops, reasoning_content, strict schemas and captured SSE; also works as a DSH plugin. | ✅ active |

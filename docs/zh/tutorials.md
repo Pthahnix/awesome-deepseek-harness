@@ -1,6 +1,6 @@
 ---
 title: "Tutorials & Learning"
-description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（67 条）。"
+description: "DeepSeek Harness (dsh) 精选 tutorials & learning：🔥 Top 10 与完整列表（68 条）。"
 keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 ---
 # Tutorials & Learning
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | 9 | [deepseek-harness-tutorial](resources/deepseek-harness-tutorial.md) | ⭐182 | DeepSeek Harness 中文详细学习教程。 | ✅ 活跃 |
 | 10 | [ConceptLoom](resources/conceptloom.md) | ⭐144 | AI-powered learning workflow for Codex, Claude Code, OpenCode and DeepSeek Harness that maps your knowledge, builds a personalized learning path, checks understanding, and saves progress across sessions. | ✅ 活跃 |
 
-## 完整列表（67）
+## 完整列表（68）
 
 
-**学习（67）**
+**学习（68）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -91,6 +91,7 @@ keywords: "deepseek harness, dsh, tutorials learning, plugin, awesome"
 | [dsh-plugin-template](resources/dsh-plugin-template-3.md) | ⭐3 | One sentence to an AI agent: create, release and list a DeepSeek Harness plugin. DSH 插件模板与 AI 操作手册 | ✅ 活跃 |
 | [dsh-plugin-tutorial](resources/dsh-plugin-tutorial.md) | ⭐3 | DeepSeek Harness 插件开发教程（中文）：环境搭建、Cordis 基础、Tool 开发、事件系统、LLM 适配器、打包发布 | ✅ 活跃 |
 | [dsh-study-buddy](resources/dsh-study-buddy.md) | ⭐3 | 使用DeepSeekHarness进行学习和笔记 | ✅ 活跃 |
+| [dsh-study-coach](resources/dsh-study-coach.md) | ⭐3 | DSH 的学习教练插件：把一门课拆成知识地图，逐单元记掌握度、排每日任务，并给学生一个看得见进度的网页面板。 | ✅ 活跃 |
 | [learning-skills](resources/learning-skills.md) | ⭐3 | Learning skills for Codex and DeepSeek Harness: course notes, conceptual explanations, and self-contained lectures. | ✅ 活跃 |
 | [Project-Memory-Agent](resources/project-memory-agent.md) | ⭐3 | Project Memory gives coding agents a single, trustworthy memory for a software repository — so they stop re-learning the same facts and stop writing conflicting "memory" files. | ✅ 活跃 |
 | [deepseek-protocol-doctor](resources/deepseek-protocol-doctor.md) | ⭐2 | 检查 DeepSeek 工具循环、reasoning_content、严格 schema 与捕获的 SSE，也可作为 DSH 插件。 | ✅ 活跃 |

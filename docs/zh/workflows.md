@@ -1,6 +1,6 @@
 ---
 title: "Workflows & Automation"
-description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（217 条）。"
+description: "DeepSeek Harness (dsh) 精选 workflows & automation：🔥 Top 10 与完整列表（219 条）。"
 keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 ---
 # Workflows & Automation
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | 9 | [dsh_workflow](resources/dsh-workflow.md) | ⭐92 | 把 Claude Code 的 UltraCode 模式带给 DSH：将一次性多 Agent 调度升级为可生成、可保存、可治理、可观察、可恢复的 Workflow 层。 | ✅ 活跃 |
 | 10 | [superpowers-dsh](resources/superpowers-dsh.md) | ⭐89 | Superpowers skills for DeepSeek Harness: TDD, debugging, planning, and collaboration skills adapted from obra/superpowers | ✅ 活跃 |
 
-## 完整列表（217）
+## 完整列表（219）
 
 
-**工作流（174）**
+**工作流（175）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -130,6 +130,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-agent-orchestration](resources/dsh-agent-orchestration.md) | ⭐3 | Evidence-first multi-agent workflow planning, handoff validation, and Loop Guard skills for DeepSeek Harness. | 💤 停更 |
 | [dsh-balance](resources/dsh-balance-11.md) | ⭐3 | DeepSeek Harness web 插件：输入框下方状态栏展示当前供应商的余额/用量 —— DeepSeek 官方余额 + 本会话花费，Kimi Coding、OpenCode Go、GLM Coding Plan 等订阅用量（支持的供应商见 README）。按 provider 判断、2 秒轮询实时切换、5 分钟缓存。 | ✅ 活跃 |
 | [dsh-captain](resources/dsh-captain.md) | ⭐3 | Captain plugin for DeepSeek Harness: GPT planning, DeepSeek workers, independent review, adaptive multi-agent orchestration | ✅ 活跃 |
+| [dsh-educoder](resources/dsh-educoder.md) | ⭐3 | 头歌（EduCoder）作业自动化 DSH 插件：全量扫描未完成作业并一次做完。选择题零 token（平台在提交响应里回吐答案键），只有代码题调用模型。 | ✅ 活跃 |
 | [dsh-gsd-bundle](resources/dsh-gsd-bundle.md) | ⭐3 | A DeepSeek Harness bundle reimplementing opengsd-core (Git Ship Done) as host-plane Cordis plugins, replacing the default agent-loop behaviour with the GSD phase loop. | ✅ 活跃 |
 | [dsh-kanban-flow](resources/dsh-kanban-flow.md) | ⭐3 | Agent-driven kanban board for DeepSeek Harness: one board per workspace, per-task agent sessions, guarded human/agent workflow | ✅ 活跃 |
 | [dsh-knj-workflow](resources/dsh-knj-workflow.md) | ⭐3 | Config-driven development-task orchestration plugin for DeepSeek Harness: workflows + task management + stage progress UI. | ✅ 活跃 |
@@ -212,7 +213,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-trellis](resources/dsh-trellis-1.md) | – | Trellis workflow integration for DeepSeek Harness | ✅ 活跃 |
 | [dsh-workflow-worktree](resources/dsh-workflow-worktree.md) | – | Git worktree isolation backend for DeepSeek Harness workflows: implements the registerIsolationAdapter() seam so isolation: 'worktree' works. | ✅ 活跃 |
 
-**自动化（40）**
+**自动化（41）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -239,6 +240,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-tool-time](resources/dsh-tool-time.md) | ⭐4 | DSH 时间工具插件：严格 ISO 8601 解析、IANA 时区转换、UTC 日历运算、固定时长差，零依赖 | ✅ 活跃 |
 | [dsh-aura-scheduler](resources/dsh-aura-scheduler.md) | ⭐3 | Proactive scheduling for DeepSeek Harness: Aura heartbeat + value network (official is model-driven only) | ✅ 活跃 |
 | [dsh-douyin-oem-touliu-report](resources/dsh-douyin-oem-touliu-report.md) | ⭐3 | 抖音本地推 OEM 投流日报/周报自动化插件 - Douyin OEM ad daily/weekly report automation plugin for DeepSeek Harness (Author: Kirin) | ✅ 活跃 |
+| [dsh-later](resources/dsh-later.md) | ⭐3 | 给 DSH 加上定时发送：输入一句话，到点自动以你的身份送出，关掉网页也准时触发。定时发送 / 定时提醒 / 延迟发送。｜ Scheduled send for DSH: type now, delivered as you at the time you pick — even with the page closed. | ✅ 活跃 |
 | [dsh-office-com](resources/dsh-office-com.md) | ⭐3 | Windows-native real-Office automation plugin (DSH). Contract, task-level, fault-injection and process-leak regressions covered; real-Office tests must be run on the target machine. | ✅ 活跃 |
 | [dsh-plugin-automations](resources/dsh-plugin-automations.md) | ⭐3 | Scheduled tasks plugin for DeepSeek Harness Web Profile | ✅ 活跃 |
 | [dsh-plugin-heartbeat](resources/dsh-plugin-heartbeat.md) | ⭐3 | DeepSeek Harness 的「心跳」插件：给 agent 装一个定时唤醒的闹钟，让它**主动**开口 —— 汇报进展、风险、卡点，或者没事贫两句。类似 OpenClaw 的心跳模式。 | ✅ 活跃 |

@@ -4183,6 +4183,23 @@
     "stars": 13
   },
   {
+    "id": "dsh-tripo-studio",
+    "name": "dsh-tripo-studio",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/azwosile/dsh-tripo-studio",
+    "description": "在 DSH Desktop 中，把参考图、拆件任务和 Tripo 3D 生成放进同一个工作台。",
+    "description_zh": "在 DSH Desktop 中，把参考图、拆件任务和 Tripo 3D 生成放进同一个工作台。",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 13,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-mobile-for-android",
     "name": "dsh-mobile-for-android",
     "type": "client",
@@ -4287,6 +4304,23 @@
     "description_zh": "把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配环境。它还能在手机上自己编译、打包、签名、发布。",
     "capabilities": [
       "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 12,
+    "license": "MIT"
+  },
+  {
+    "id": "starhub",
+    "name": "starhub",
+    "type": "client",
+    "category": "mobile",
+    "repository": "https://github.com/dabaicai001/starhub",
+    "description": "StarHub — All-in-One DevOps Desktop Command Center。把开发运维每天要用到的工具收进同一个窗口:数据库客户端 · SSH 终端 · SFTP · Docker · Android 真机 · AI 助手。",
+    "description_zh": "StarHub — All-in-One DevOps Desktop Command Center。把开发运维每天要用到的工具收进同一个窗口:数据库客户端 · SSH 终端 · SFTP · Docker · Android 真机 · AI 助手。",
+    "capabilities": [
+      "coding",
+      "desktop"
     ],
     "status": "active",
     "verified": false,
@@ -10217,6 +10251,54 @@
     "status": "active",
     "verified": false,
     "stars": 3
+  },
+  {
+    "id": "dsh-qwen-connect",
+    "name": "dsh-qwen-connect",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/gaoqiaoliangjie666/dsh-qwen-connect",
+    "description": "将 QwenWork 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the QwenWork desktop app into DeepSeek Harness with zero configuration.",
+    "description_zh": "将 QwenWork 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the QwenWork desktop app into DeepSeek Harness with zero configuration.",
+    "capabilities": [
+      "coding",
+      "desktop"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-workbuddy-oauth",
+    "name": "dsh-workbuddy-oauth",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/molly-ovo/dsh-workbuddy-oauth",
+    "description": "把 WorkBuddy 的模型接入 DeepSeek Harness：自带 OAuth 设备码登录，不依赖桌面 App，支持多账号轮转与失败冷却。",
+    "description_zh": "把 WorkBuddy 的模型接入 DeepSeek Harness：自带 OAuth 设备码登录，不依赖桌面 App，支持多账号轮转与失败冷却。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
+  },
+  {
+    "id": "dsh-remote-explorer",
+    "name": "dsh-remote-explorer",
+    "type": "client",
+    "category": "desktop",
+    "repository": "https://github.com/btsd321/dsh-remote-explorer",
+    "description": "Remote development launcher: install dsh on a remote host and use it from your local browser. LLM credentials never leave your machine.",
+    "description_zh": "Remote development launcher: install dsh on a remote host and use it from your local browser. LLM credentials never leave your machine.",
+    "capabilities": [
+      "browser",
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "Apache-2.0"
   },
   {
     "id": "dsh-portable-launcher",

@@ -1,6 +1,6 @@
 ---
 title: "Workflows & Automation"
-description: "Top 10 and full list of 217 curated workflows & automation for DeepSeek Harness (dsh)."
+description: "Top 10 and full list of 219 curated workflows & automation for DeepSeek Harness (dsh)."
 keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 ---
 # Workflows & Automation
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | 9 | [dsh_workflow](resources/dsh-workflow.md) | ⭐92 | Brings Claude Code's UltraCode mode to DSH: upgrade one-shot multi-agent dispatch into a generatable, saveable, governable, observable, recoverable workflow layer. | ✅ active |
 | 10 | [superpowers-dsh](resources/superpowers-dsh.md) | ⭐89 | Superpowers skills for DeepSeek Harness: TDD, debugging, planning, and collaboration skills adapted from obra/superpowers | ✅ active |
 
-## Complete list (217)
+## Complete list (219)
 
 
-**Workflows (174)**
+**Workflows (175)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -130,6 +130,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-agent-orchestration](resources/dsh-agent-orchestration.md) | ⭐3 | Evidence-first multi-agent workflow planning, handoff validation, and Loop Guard skills for DeepSeek Harness. | 💤 inactive |
 | [dsh-balance](resources/dsh-balance-11.md) | ⭐3 | DeepSeek Harness web 插件：输入框下方状态栏展示当前供应商的余额/用量 —— DeepSeek 官方余额 + 本会话花费，Kimi Coding、OpenCode Go、GLM Coding Plan 等订阅用量（支持的供应商见 README）。按 provider 判断、2 秒轮询实时切换、5 分钟缓存。 | ✅ active |
 | [dsh-captain](resources/dsh-captain.md) | ⭐3 | Captain plugin for DeepSeek Harness: GPT planning, DeepSeek workers, independent review, adaptive multi-agent orchestration | ✅ active |
+| [dsh-educoder](resources/dsh-educoder.md) | ⭐3 | 头歌（EduCoder）作业自动化 DSH 插件：全量扫描未完成作业并一次做完。选择题零 token（平台在提交响应里回吐答案键），只有代码题调用模型。 | ✅ active |
 | [dsh-gsd-bundle](resources/dsh-gsd-bundle.md) | ⭐3 | A DeepSeek Harness bundle reimplementing opengsd-core (Git Ship Done) as host-plane Cordis plugins, replacing the default agent-loop behaviour with the GSD phase loop. | ✅ active |
 | [dsh-kanban-flow](resources/dsh-kanban-flow.md) | ⭐3 | Agent-driven kanban board for DeepSeek Harness: one board per workspace, per-task agent sessions, guarded human/agent workflow | ✅ active |
 | [dsh-knj-workflow](resources/dsh-knj-workflow.md) | ⭐3 | Config-driven development-task orchestration plugin for DeepSeek Harness: workflows + task management + stage progress UI. | ✅ active |
@@ -212,7 +213,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-trellis](resources/dsh-trellis-1.md) | – | Trellis workflow integration for DeepSeek Harness | ✅ active |
 | [dsh-workflow-worktree](resources/dsh-workflow-worktree.md) | – | Git worktree isolation backend for DeepSeek Harness workflows: implements the registerIsolationAdapter() seam so isolation: 'worktree' works. | ✅ active |
 
-**Automation (40)**
+**Automation (41)**
 
 | Project | Stars | Description | Status |
 |---|---|---|---|
@@ -239,6 +240,7 @@ keywords: "deepseek harness, dsh, workflows automation, plugin, awesome"
 | [dsh-tool-time](resources/dsh-tool-time.md) | ⭐4 | DSH 时间工具插件：严格 ISO 8601 解析、IANA 时区转换、UTC 日历运算、固定时长差，零依赖 | ✅ active |
 | [dsh-aura-scheduler](resources/dsh-aura-scheduler.md) | ⭐3 | Proactive scheduling for DeepSeek Harness: Aura heartbeat + value network (official is model-driven only) | ✅ active |
 | [dsh-douyin-oem-touliu-report](resources/dsh-douyin-oem-touliu-report.md) | ⭐3 | 抖音本地推 OEM 投流日报/周报自动化插件 - Douyin OEM ad daily/weekly report automation plugin for DeepSeek Harness (Author: Kirin) | ✅ active |
+| [dsh-later](resources/dsh-later.md) | ⭐3 | 给 DSH 加上定时发送：输入一句话，到点自动以你的身份送出，关掉网页也准时触发。定时发送 / 定时提醒 / 延迟发送。｜ Scheduled send for DSH: type now, delivered as you at the time you pick — even with the page closed. | ✅ active |
 | [dsh-office-com](resources/dsh-office-com.md) | ⭐3 | Windows-native real-Office automation plugin (DSH). Contract, task-level, fault-injection and process-leak regressions covered; real-Office tests must be run on the target machine. | ✅ active |
 | [dsh-plugin-automations](resources/dsh-plugin-automations.md) | ⭐3 | Scheduled tasks plugin for DeepSeek Harness Web Profile | ✅ active |
 | [dsh-plugin-heartbeat](resources/dsh-plugin-heartbeat.md) | ⭐3 | DeepSeek Harness 的「心跳」插件：给 agent 装一个定时唤醒的闹钟，让它**主动**开口 —— 汇报进展、风险、卡点，或者没事贫两句。类似 OpenClaw 的心跳模式。 | ✅ active |

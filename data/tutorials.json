@@ -1035,6 +1035,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-study-coach",
+    "name": "dsh-study-coach",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Ame-Choo/dsh-study-coach",
+    "description": "DSH 的学习教练插件：把一门课拆成知识地图，逐单元记掌握度、排每日任务，并给学生一个看得见进度的网页面板。",
+    "description_zh": "DSH 的学习教练插件：把一门课拆成知识地图，逐单元记掌握度、排每日任务，并给学生一个看得见进度的网页面板。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "deepseek-protocol-doctor",
     "name": "deepseek-protocol-doctor",
     "type": "tutorial",

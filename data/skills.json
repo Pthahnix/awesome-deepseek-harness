@@ -3819,6 +3819,23 @@
     "license": "MIT"
   },
   {
+    "id": "reverse-workbench-skill",
+    "name": "reverse-workbench-skill",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/Asaiuta/reverse-workbench-skill",
+    "description": "This repository is an independently maintained, cross-agent reverse-engineering and security-analysis skill router — archive triage, reproducible Ghidra-headless exports, HTTP/service fingerprinting, and a domain skill matrix. It no longer tracks any upstream ",
+    "description_zh": "This repository is an independently maintained, cross-agent reverse-engineering and security-analysis skill router — archive triage, reproducible Ghidra-headless exports, HTTP/service fingerprinting, and a domain skill matrix. It no longer tracks any upstream ",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 4,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-skillradar",
     "name": "dsh-skillradar",
     "type": "plugin",
@@ -5413,6 +5430,38 @@
     "verified": false,
     "stars": 3,
     "license": "MIT"
+  },
+  {
+    "id": "dsh-engineering-skill-pack",
+    "name": "dsh-engineering-skill-pack",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/lcx9451/dsh-engineering-skill-pack",
+    "description": "DeepSeek Harness 技能包：28 个工程 / 技术栈 / 界面设计 / 写作技能，dsh plugin add 一条命令装完（含上游署名与许可证）",
+    "description_zh": "DeepSeek Harness 技能包：28 个工程 / 技术栈 / 界面设计 / 写作技能，dsh plugin add 一条命令装完（含上游署名与许可证）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-rsi",
+    "name": "dsh-rsi",
+    "type": "skill",
+    "category": "learning",
+    "repository": "https://github.com/lsmax-72/dsh-rsi",
+    "description": "面向个人用户、安装在 dsh 中的 Chat Memory＋Skill 自动演化插件",
+    "description_zh": "面向个人用户、安装在 dsh 中的 Chat Memory＋Skill 自动演化插件",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3
   },
   {
     "id": "dsh-review-skills",

@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（380 条）。"
+description: "DeepSeek Harness (dsh) 精选 skills：🔥 Top 10 与完整列表（383 条）。"
 keywords: "deepseek harness, dsh, skills, plugin, awesome"
 ---
 # Skills
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | 9 | [BrowserSkill](resources/browser-skill.md) | ⭐1,955 | 让 AI Agent 直接使用你已登录的真实浏览器而不打断工作：CLI + 浏览器扩展。 | ✅ 活跃 |
 | 10 | [vox-director](resources/vox-director.md) | ⭐1,862 | 把一个主题变成完整的 Vox 风格纸拼贴讲解/广告视频，端到端自动化。 | ✅ 活跃 |
 
-## 完整列表（380）
+## 完整列表（383）
 
 
-**学习（363）**
+**学习（366）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -233,6 +233,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [maestro-skills](resources/maestro-skills.md) | ⭐4 | Universal AI Agent Development Skills Hub & Cordis Plugin for Govard, Magento 2, Laravel. Works with Claude Code, Codex CLI, OpenCode, GitHub Copilot, DeepSeek Harness. | ✅ 活跃 |
 | [oh-my-deepseek-harness](resources/oh-my-deepseek-harness-2.md) | ⭐4 | OMX 风格的工作流技能集，为 DeepSeek Harness 重写。 | ✅ 活跃 |
 | [reSanity](resources/resanity.md) | ⭐4 | reSanity 散修 — 面向散户投研的证据搜索与逻辑梳理 Skill：核查一手资料，拆解题材到收入、利润和现金的传导链，标注证据与推断边界。 | ✅ 活跃 |
+| [reverse-workbench-skill](resources/reverse-workbench-skill.md) | ⭐4 | This repository is an independently maintained, cross-agent reverse-engineering and security-analysis skill router — archive triage, reproducible Ghidra-headless exports, HTTP/service fingerprinting, and a domain skill matrix. It no longer tracks any upstream  | ✅ 活跃 |
 | [soya](resources/soya.md) | ⭐4 | 🐳 SOYA Personal Board — your private board of directors: 12 great minds from history for decisions, morning meetings & card vault. DeepSeek Harness preset + portable skills. 个人董事会：让古今智者组成你的私人智慧大脑。 | ✅ 活跃 |
 | [tool-repair-skill-for-hermes-and-opencode](resources/tool-repair-skill-for-hermes-and-opencode.md) | ⭐4 | Hermes Tool Repair Skill - deterministic tool call repair for LLM agents. Catches common JSON formatting mistakes open models make and fixes them before dispatch, with repair notes that teach the model to self-correct. | ✅ 活跃 |
 | [TsienHsueShen](resources/tsienhsueshen.md) | ⭐4 | 钱学森《工程控制论》全书蒸馏的 DeepSeek Harness 方法论技能插件 | A DeepSeek Harness skill plugin distilled from Qian Xuesen's Engineering Cybernetics | ✅ 活跃 |
@@ -259,6 +260,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-cron](resources/dsh-cron-1.md) | ⭐3 | Scheduled tasks (cron) for DeepSeek Harness: model- and human-callable scheduling that fires followup/inject into agent sessions | ✅ 活跃 |
 | [dsh-cron](resources/dsh-cron-3.md) | ⭐3 | Unattended scheduled jobs for the DeepSeek Harness (dsh): agent/command tasks on cron schedules | ✅ 活跃 |
 | [dsh-engineering-services](resources/dsh-engineering-services.md) | ⭐3 | LSP+DAP+TASK，但是只支持JS/TS、Python，其他没测 | ✅ 活跃 |
+| [dsh-engineering-skill-pack](resources/dsh-engineering-skill-pack.md) | ⭐3 | DeepSeek Harness 技能包：28 个工程 / 技术栈 / 界面设计 / 写作技能，dsh plugin add 一条命令装完（含上游署名与许可证） | ✅ 活跃 |
 | [dsh-find-skill](resources/dsh-find-skill.md) | ⭐3 | 桥接 vercel-labs/skills 生态：LLM 驱动技能搜索、安装与管理。 | ✅ 活跃 |
 | [dsh-generation](resources/dsh-generation.md) | ⭐3 | Fork agent presets and run tasks on the next generation. Make, not a compiler. | ✅ 活跃 |
 | [dsh-github-harness](resources/dsh-github-harness.md) | ⭐3 | Minimal single-agent GitHub task loop for DeepSeek Harness | ✅ 活跃 |
@@ -285,6 +287,7 @@ keywords: "deepseek harness, dsh, skills, plugin, awesome"
 | [dsh-ppt](resources/dsh-ppt.md) | ⭐3 | DSH 演示文稿技能 + 工具插件：一句话 / 一篇 Markdown → HTML 网页放映 + 可编辑 PPTX；5 套视觉主题、页间转场 + 要点入场动画（motion 可关）、金句/表格/演讲者备注，薄 SKILL.md + references 按需装载，零运行时依赖跨 harness。· Presentation skill & tools for DeepSeek Harness agents. 已验证兼容 DeepSeek Harness v0.1.2-alpha.5。 | ✅ 活跃 |
 | [dsh-preset-qa-mode](resources/dsh-preset-qa-mode.md) | ⭐3 | 「问答模式」以 DSH 内置的 standard（标准模式）预设为底版，**完整保留其全部能力**（文件编辑、Shell、文件与网页检索、网页抓取、Skills、计划模式、目标与 /goal 命令、子代理、工作流、交付物声明等），只改写了人设与行为规则（qa-mode.patch.yml 中 plugins 的 persona 行）。 | ✅ 活跃 |
 | [dsh-qwen-voice](resources/dsh-qwen-voice.md) | ⭐3 | Voice control and multi-session task dispatch for DeepSeek Harness, powered by Qwen Audio Agent | ✅ 活跃 |
+| [dsh-rsi](resources/dsh-rsi.md) | ⭐3 | 面向个人用户、安装在 dsh 中的 Chat Memory＋Skill 自动演化插件 | ✅ 活跃 |
 | [dsh-s1](resources/dsh-s1.md) | ⭐3 | Native s1 tools for the DeepSeek Harness (DSH): s1_search, s1_news, s1_crawl, s1_sitemap, s1_trending + bundled s1 skill | ✅ 活跃 |
 | [dsh-seismicx](resources/dsh-seismicx.md) | ⭐3 | DeepSeek Harness plugin for the SeismicX earthquake-catalog skill | ✅ 活跃 |
 | [dsh-shutdown-after-task](resources/dsh-shutdown-after-task.md) | ⭐3 | Shut down Windows after DeepSeek Harness tasks complete — button-armed, cancellable countdown. 任务完成后自动关机（按钮开启，倒计时可取消）。Zero-dependency DSH plugin. | ✅ 活跃 |
