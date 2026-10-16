@@ -1162,6 +1162,158 @@
     ]
   },
   {
+    "id": "dsh-coding-plugin",
+    "name": "dsh-coding-plugin",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Paimonshen/dsh-coding-plugin",
+    "description": "代码学习插件 — DSH 动态 Cordis 插件：悬浮窗代码编辑器/多语言执行/课程关卡评判/分析直投对话",
+    "description_zh": "代码学习插件 — DSH 动态 Cordis 插件：悬浮窗代码编辑器/多语言执行/课程关卡评判/分析直投对话",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-context-trim",
+    "name": "dsh-plugin-context-trim",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Pasumao/dsh-plugin-context-trim",
+    "description": "会话注入门控：按会话裁剪注入模型的 skill / tool / 提示词段落 · Per-session injection gate for DeepSeek Harness (dsh)",
+    "description_zh": "会话注入门控：按会话裁剪注入模型的 skill / tool / 提示词段落 · Per-session injection gate for DeepSeek Harness (dsh)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "agent-feedback-loop",
+    "name": "agent-feedback-loop",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/super3ben/agent-feedback-loop",
+    "description": "Local prompt-time feedback learning for",
+    "description_zh": "Local prompt-time feedback learning for",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-hermes-memory-1",
+    "name": "dsh-hermes-memory",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/mbj733/dsh-hermes-memory",
+    "description": "DSH (DeepSeek Harness) agent preset + plugin: Hermes-style cross-session memory & autonomous skill learning.",
+    "description_zh": "DSH (DeepSeek Harness) agent preset + plugin: Hermes-style cross-session memory & autonomous skill learning.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
+  },
+  {
+    "id": "dsh-red-alert",
+    "name": "dsh-red-alert",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/vibeinging/dsh-red-alert",
+    "description": "A real Red Alert 2 AI battlefield plugin for DeepSeek Harness with fog-safe control, live DSH Chat, and post-match learning.",
+    "description_zh": "A real Red Alert 2 AI battlefield plugin for DeepSeek Harness with fog-safe control, live DSH Chat, and post-match learning.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "GPL-3.0"
+  },
+  {
+    "id": "dsh-zhihu-tools",
+    "name": "dsh-zhihu-tools",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/leolee9086/dsh-zhihu-tools",
+    "description": "知乎数据开放平台 DSH 静态双面插件:17工具+精美卡片+串行化限流。QQ群1017854502 https://qm.qq.com/q/RAHJuyhQQ",
+    "description_zh": "知乎数据开放平台 DSH 静态双面插件:17工具+精美卡片+串行化限流。QQ群1017854502 https://qm.qq.com/q/RAHJuyhQQ",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2
+  },
+  {
+    "id": "dsh-memory-rollout",
+    "name": "dsh-memory_rollout",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Bionic-forest/dsh-memory_rollout",
+    "description": "DSH 的每个会话都从零开始。你开一个新会话，Agent 不知道上一轮定了什么、你偏好什么、踩过哪些坑。dsh-memory_rollout 给 Agent 一份有组织、只在必要时才写的持久记忆：事实、偏好、决策、项目笔记能跨会话活下来，并在需要时被想起、给出来源。",
+    "description_zh": "DSH 的每个会话都从零开始。你开一个新会话，Agent 不知道上一轮定了什么、你偏好什么、踩过哪些坑。dsh-memory_rollout 给 Agent 一份有组织、只在必要时才写的持久记忆：事实、偏好、决策、项目笔记能跨会话活下来，并在需要时被想起、给出来源。",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "ruvnet-ruflo",
+    "name": "ruvnet-ruflo",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Barricadetrecharm99/ruvnet-ruflo",
+    "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "description_zh": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
+    "id": "omni-learning-anything",
+    "name": "omni-learning-anything",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/ShawnRen57/omni-learning-anything",
+    "description": "Omni Learning Anything: portable Agent Skill for personalized learning plans and daily PDF lessons. 通用学习助手。",
+    "description_zh": "Omni Learning Anything: portable Agent Skill for personalized learning plans and daily PDF lessons. 通用学习助手。",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-preset-scaffold",
     "name": "dsh-preset-scaffold",
     "type": "tutorial",
@@ -1263,6 +1415,495 @@
       "learning",
       "rag"
     ]
+  },
+  {
+    "id": "dsh-plugin-devkit-1",
+    "name": "dsh-plugin-devkit",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/d-ouyang/dsh-plugin-devkit",
+    "description": "把\"从零到可发布 dsh 插件\"标准化的开发者工具包：脚手架生成 + schema 校验 + 发布条目生成。",
+    "description_zh": "把\"从零到可发布 dsh 插件\"标准化的开发者工具包：脚手架生成 + schema 校验 + 发布条目生成。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plugins-examples",
+    "name": "dsh-plugins-examples",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/tanzhangjia/dsh-plugins-examples",
+    "description": "DeepSeek Harness 本地插件开发示例 - 学习如何创建自定义 DSH 插件",
+    "description_zh": "DeepSeek Harness 本地插件开发示例 - 学习如何创建自定义 DSH 插件",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "learn-skill",
+    "name": "learn-skill",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/gtbwpkwjnb-alt/learn-skill",
+    "description": "学习+链接 → 全自动采集·AI总结·亮点·术语·评分·图谱·深度OCR·入库 | One link → AI analysis+highlights+glossary+rating+knowledge graph → KB import (v3.5)",
+    "description_zh": "学习+链接 → 全自动采集·AI总结·亮点·术语·评分·图谱·深度OCR·入库 | One link → AI analysis+highlights+glossary+rating+knowledge graph → KB import (v3.5)",
+    "capabilities": [
+      "coding",
+      "multimodal"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "malts",
+    "name": "MALTS",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/SssoGin/MALTS",
+    "description": "Multi-Agent Long-Task Scheduling and Growth System for AI coding agents, with file-based state, verification, handoff, and reusable learning.",
+    "description_zh": "Multi-Agent Long-Task Scheduling and Growth System for AI coding agents, with file-based state, verification, handoff, and reusable learning.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-illustrated-teaching",
+    "name": "dsh-illustrated-teaching",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Henryang777/dsh-illustrated-teaching",
+    "description": "图解教学：DeepSeek Harness 插件——把任何知识点自动渲染成精美图解画廊（8 套小红书科普风模板，专为本科学习设计）",
+    "description_zh": "图解教学：DeepSeek Harness 插件——把任何知识点自动渲染成精美图解画廊（8 套小红书科普风模板，专为本科学习设计）",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-nature-papers",
+    "name": "dsh-nature-papers",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/666489/dsh-nature-papers",
+    "description": "用于拉取nature中最新的论文（默认生化信息）。最初的想法来源于想要一个实时推送论文的应用来辅助我日常的学习，受deepseek harness“一切皆插件”理念的启发，我打算vibecoding出一个插件，顺便开源。",
+    "description_zh": "用于拉取nature中最新的论文（默认生化信息）。最初的想法来源于想要一个实时推送论文的应用来辅助我日常的学习，受deepseek harness“一切皆插件”理念的启发，我打算vibecoding出一个插件，顺便开源。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "learning-dsh",
+    "name": "learning-dsh",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/yangl326-Dylan/learning-dsh",
+    "description": "Just learning — versioned bilingual (EN/ZH) source-code learning pages for DeepSeek Harness (dsh), served as a dsh plugin at /learning",
+    "description_zh": "Just learning — versioned bilingual (EN/ZH) source-code learning pages for DeepSeek Harness (dsh), served as a dsh plugin at /learning",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "lazeword",
+    "name": "lazeword",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/xczhanjun/lazeword",
+    "description": "lazeword is a word-anchored bilingual learning system — learning as simulation, trajectory as log",
+    "description_zh": "lazeword is a word-anchored bilingual learning system — learning as simulation, trajectory as log",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-dev",
+    "name": "dsh-dev",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Qidianyan/dsh-dev",
+    "description": "DeepSeek Harness 扩展开发脚手架：dshdev CLI（agent preset / 插件 bundle / MCP 一键生成与校验）+ Claude Code 中文导航 Skill。Complements official tutorials, no restating.",
+    "description_zh": "DeepSeek Harness 扩展开发脚手架：dshdev CLI（agent preset / 插件 bundle / MCP 一键生成与校验）+ Claude Code 中文导航 Skill。Complements official tutorials, no restating.",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-workshop-1",
+    "name": "DSH-Workshop",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/AAA-STM32XinPianPiFaWangGe/DSH-Workshop",
+    "description": "为 DeepSeek Harness 打造的插件市场：复刻 Steam 创意工坊的浏览、筛选、订阅与安装体验，管理和分发 Harness 扩展功能（主题、效率工具、Agent 预设、教程等）。",
+    "description_zh": "为 DeepSeek Harness 打造的插件市场：复刻 Steam 创意工坊的浏览、筛选、订阅与安装体验，管理和分发 Harness 扩展功能（主题、效率工具、Agent 预设、教程等）。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-desk-pet-yami",
+    "name": "dsh-desk-pet-yami",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Retr67/dsh-desk-pet-yami",
+    "description": "DSH 桌面宠物插件 — 金色暗影 Yami（To Love-Ru）皮肤版。非营利，仅供学习交流，侵权请联系下架。",
+    "description_zh": "DSH 桌面宠物插件 — 金色暗影 Yami（To Love-Ru）皮肤版。非营利，仅供学习交流，侵权请联系下架。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-webroad",
+    "name": "dsh-Webroad",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/iTrimut/dsh-Webroad",
+    "description": "DeepSeek Harness 手机访问一体化插件：设置页内嵌「📱 手机访问」，扫码即用（局域网+公网+固定域名），8 位 PIN 认证、零配置信任围栏；含 Tailscale Funnel 手动教程。",
+    "description_zh": "DeepSeek Harness 手机访问一体化插件：设置页内嵌「📱 手机访问」，扫码即用（局域网+公网+固定域名），8 位 PIN 认证、零配置信任围栏；含 Tailscale Funnel 手动教程。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "deepseek-harness-plugins-5",
+    "name": "deepseek-harness-plugins",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/Xinyi21yf/deepseek-harness-plugins",
+    "description": "Personal DeepSeek Harness plugins, designs, and learning notes",
+    "description_zh": "Personal DeepSeek Harness plugins, designs, and learning notes",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-plugin-learning-path",
+    "name": "dsh-plugin-learning-path",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/zhaoxuejie/dsh-plugin-learning-path",
+    "description": "DeepSeek Harness 插件开发学习教程：15 节课程 + 4 个实战项目 + 发布课，交互式单页应用，纯 HTML/CSS/JS 零构建",
+    "description_zh": "DeepSeek Harness 插件开发学习教程：15 节课程 + 4 个实战项目 + 发布课，交互式单页应用，纯 HTML/CSS/JS 零构建",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-dual-auto",
+    "name": "dsh-dual-auto",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/lengquan88/dsh-dual-auto",
+    "description": "Dual-model auto-routing plugin for DeepSeek Harness: low-cost direct / high-cost upgrade + escape-learning closed loop",
+    "description_zh": "Dual-model auto-routing plugin for DeepSeek Harness: low-cost direct / high-cost upgrade + escape-learning closed loop",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-continue-2",
+    "name": "dsh-continue",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/JuwanXu/dsh-continue",
+    "description": "DeepSeek Harness plugin for fail-closed network recovery, recommended answers, decision learning, and unattended continuation.",
+    "description_zh": "DeepSeek Harness plugin for fail-closed network recovery, recommended answers, decision learning, and unattended continuation.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "think-zh",
+    "name": "think-zh",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/mtdx2001/think-zh",
+    "description": "让 AI 的英文推理流实时变中文：75,353 句 DeepSeek 精修库随包、本地 1.8B 实时 + 7B 空闲校正的三层质量、OpenAI 兼容端点一键接入，数据不出你的显卡。MIT，附 22 条踩坑实录的智能体自举手册。",
+    "description_zh": "让 AI 的英文推理流实时变中文：75,353 句 DeepSeek 精修库随包、本地 1.8B 实时 + 7B 空闲校正的三层质量、OpenAI 兼容端点一键接入，数据不出你的显卡。MIT，附 22 条踩坑实录的智能体自举手册。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-prompt-antivirus",
+    "name": "dsh-prompt-antivirus",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/QinpanWan/dsh-prompt-antivirus",
+    "description": "dsh 全局防提示注入/上下文病毒感染插件：扫描工具参数、结果、进模型前消息与出站流；quarantine/block/monitor 三模式 + 金丝雀 + 可演进签名库（学习/导入/导出）。纯 JS 零原生依赖。",
+    "description_zh": "dsh 全局防提示注入/上下文病毒感染插件：扫描工具参数、结果、进模型前消息与出站流；quarantine/block/monitor 三模式 + 金丝雀 + 可演进签名库（学习/导入/导出）。纯 JS 零原生依赖。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-memory-27",
+    "name": "dsh-memory",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/kovey/dsh-memory",
+    "description": "Layered memory plugin for DeepSeek Harness: strictly separated project/global memory, host-driven recall before tasks and continuous learning after them.",
+    "description_zh": "Layered memory plugin for DeepSeek Harness: strictly separated project/global memory, host-driven recall before tasks and continuous learning after them.",
+    "capabilities": [
+      "coding",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "project-learning-helper",
+    "name": "project-learning-helper",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/mingger77/project-learning-helper",
+    "description": "一个助力包括我在内的萌新进行项目式学习的dsh preset",
+    "description_zh": "一个助力包括我在内的萌新进行项目式学习的dsh preset",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-erp",
+    "name": "dsh-erp",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/GuoMonth/dsh-erp",
+    "description": "ERP learning and automation plugin targeting dsh 0.1.5 rc2, with evidence-backed knowledge and mandatory approval before ERP writes.",
+    "description_zh": "ERP learning and automation plugin targeting dsh 0.1.5 rc2, with evidence-backed knowledge and mandatory approval before ERP writes.",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-diagnostic-tutor",
+    "name": "dsh-diagnostic-tutor",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/SenmuuuuW/dsh-diagnostic-tutor",
+    "description": "Diagnosis-first AI learning runtime for DeepSeek Harness — map what you need, learn interactively, and move to the next best step.",
+    "description_zh": "Diagnosis-first AI learning runtime for DeepSeek Harness — map what you need, learn interactively, and move to the next best step.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "jiufeng-invest",
+    "name": "jiufeng-invest",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/haiting202-web/jiufeng-invest",
+    "description": "玖峰金融工作台 (Jiufeng FinBox) - 把散落的金融工具装进一个桌面端 | Finance workbench plugin set for DeepSeek Harness: 7 workflows, 101 skills, 21 zero-key A-share data tools",
+    "description_zh": "玖峰金融工作台 (Jiufeng FinBox) - 把散落的金融工具装进一个桌面端 | Finance workbench plugin set for DeepSeek Harness: 7 workflows, 101 skills, 21 zero-key A-share data tools",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-feiyufm",
+    "name": "dsh-feiyuFM",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/A7m0spHere/dsh-feiyuFM",
+    "description": "肥鱼电台 FishFM：面向 DeepSeek Harness（DSH）的社区音乐插件，支持网易云听歌、本地偏好学习、可选模型歌单与新歌筛选。开发预览。",
+    "description_zh": "肥鱼电台 FishFM：面向 DeepSeek Harness（DSH）的社区音乐插件，支持网易云听歌、本地偏好学习、可选模型歌单与新歌筛选。开发预览。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "deepseek-harness-leetcode",
+    "name": "deepseek-harness-leetcode",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/kapelame/deepseek-harness-leetcode",
+    "description": "LeetCode Hot 100 learning plugin for DeepSeek Harness (DSH): lessons, sandboxed judge, AI tutor, spaced review, and an AI agent that adds LeetCode problems from a plain description. 力扣热题 100 学习插件。",
+    "description_zh": "LeetCode Hot 100 learning plugin for DeepSeek Harness (DSH): lessons, sandboxed judge, AI tutor, spaced review, and an AI agent that adds LeetCode problems from a plain description. 力扣热题 100 学习插件。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "credence",
+    "name": "credence",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/MajidAsghariTabrizi/credence",
+    "description": "Evidence-first agent memory and durable mission runtime — UNKNOWN states, immutable belief history, governed learning, and missions that survive kill -9. Zero-dependency TypeScript kernel.",
+    "description_zh": "Evidence-first agent memory and durable mission runtime — UNKNOWN states, immutable belief history, governed learning, and missions that survive kill -9. Zero-dependency TypeScript kernel.",
+    "capabilities": [
+      "coding",
+      "memory",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-learn",
+    "name": "dsh-learn",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/xiex16070-jpg/dsh-learn",
+    "description": "Persistent learning for DeepSeek Harness: turn a session's corrections, failures and fixes into ordinary DSH skills. Zero extra model calls.",
+    "description_zh": "Persistent learning for DeepSeek Harness: turn a session's corrections, failures and fixes into ordinary DSH skills. Zero extra model calls.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-gui-handoff",
+    "name": "dsh-gui-handoff",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/xxszyh/dsh-gui-handoff",
+    "description": "A DeepSeek Harness skill: hand a command-line-verified operation over to the user's GUI — drive it once, verify with ground truth, hand back a self-contained illustrated tutorial.",
+    "description_zh": "A DeepSeek Harness skill: hand a command-line-verified operation over to the user's GUI — drive it once, verify with ground truth, hand back a self-contained illustrated tutorial.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-super-memory",
+    "name": "dsh-super-memory",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/kkwings/dsh-super-memory",
+    "description": "跨压缩记忆插件：在同一个超长会话里被上下文压缩过几次之后，你早先问过 / 定过的事，模型先看到它，再作为参考结合这次的新条件综合回答——不会当新问题从零重来。",
+    "description_zh": "跨压缩记忆插件：在同一个超长会话里被上下文压缩过几次之后，你早先问过 / 定过的事，模型先看到它，再作为参考结合这次的新条件综合回答——不会当新问题从零重来。",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pet-guardian-dragon",
+    "name": "dsh-pet-guardian-dragon",
+    "type": "tutorial",
+    "category": "learning",
+    "repository": "https://github.com/lucas07814-hub/dsh-pet-guardian-dragon",
+    "description": "An AI-agent-assisted DSH desktop pet plugin, built as a personal learning project for development, debugging, and open-source sharing.",
+    "description_zh": "An AI-agent-assisted DSH desktop pet plugin, built as a personal learning project for development, debugging, and open-source sharing.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
   },
   {
     "id": "deepseek-harness-brain",
