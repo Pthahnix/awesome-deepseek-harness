@@ -4052,6 +4052,22 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-plugin-market-22",
+    "name": "dsh-plugin-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/realguan/dsh-plugin-market",
+    "description": "DSH plugin market index generated from awesome-dsh-plugin, served over jsDelivr",
+    "description_zh": "DSH plugin market index generated from awesome-dsh-plugin, served over jsDelivr",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "awesome-dsh-plugin-wgd753-1",
     "name": "awesome-dsh-plugin",
     "type": "awesome-list",
@@ -7497,6 +7513,228 @@
     "repository": "https://github.com/duxingxiake3/dsh-plugin-market",
     "description": "Plugin Market for DeepSeek Harness: discover, vet and install DSH plugins from inside DSH.",
     "description_zh": "Plugin Market for DeepSeek Harness: discover, vet and install DSH plugins from inside DSH.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-skin-chatlab",
+    "name": "dsh-skin-chatlab",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/Liyuk/dsh-skin-chatlab",
+    "description": "Extensible chat-skin monorepo for the DeepSeek Harness Web GUI: a base registry + plug-in skin packages (Feishu-style chat bubbles), plug-and-play without touching chat logic.",
+    "description_zh": "Extensible chat-skin monorepo for the DeepSeek Harness Web GUI: a base registry + plug-in skin packages (Feishu-style chat bubbles), plug-and-play without touching chat logic.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-pro-max",
+    "name": "dsh-pro-max",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/sperictao/dsh-pro-max",
+    "description": "DeepSeek Harness desktop launcher — one-click local web UI, Tailscale-secured remote access, plugin marketplace & model configuration. Built with Tauri 2 + React + TypeScript.",
+    "description_zh": "DeepSeek Harness desktop launcher — one-click local web UI, Tailscale-secured remote access, plugin marketplace & model configuration. Built with Tauri 2 + React + TypeScript.",
+    "capabilities": [
+      "coding",
+      "desktop",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "pi-cordis",
+    "name": "pi-cordis",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/civaapple-alt/pi-cordis",
+    "description": "🥧 Developer-first terminal coding agent rebuilt on Cordis (v4.0.1) microkernel with an \"Everything is a plugin\" architecture. 100% Pi parity & marketplace compatible.",
+    "description_zh": "🥧 Developer-first terminal coding agent rebuilt on Cordis (v4.0.1) microkernel with an \"Everything is a plugin\" architecture. 100% Pi parity & marketplace compatible.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "terminal",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-file-undo",
+    "name": "dsh-file-undo",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/QinLuza/dsh-file-undo",
+    "description": "DSH plugin: undo file write/edit operations (snapshot before-state, restore with /undo)",
+    "description_zh": "DSH plugin: undo file write/edit operations (snapshot before-state, restore with /undo)",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-session-manager-9",
+    "name": "dsh-session-manager",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/ailiasdesu/dsh-session-manager",
+    "description": "DSH session migration plugin: drag-and-drop sessions between workspaces in the Web UI settings panel (auto backup/rollback, official workspaceRegistry sync)",
+    "description_zh": "DSH session migration plugin: drag-and-drop sessions between workspaces in the Web UI settings panel (auto backup/rollback, official workspaceRegistry sync)",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "BSD-3-Clause"
+  },
+  {
+    "id": "dsh-session-backup",
+    "name": "dsh-session-backup",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/overspread/dsh-session-backup",
+    "description": "DeepSeek Harness plugin: back up every session before deletion, batch-select sessions in the Web GUI, restore a backup in one click",
+    "description_zh": "DeepSeek Harness plugin: back up every session before deletion, batch-select sessions in the Web GUI, restore a backup in one click",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "qdrant-memory-mcp",
+    "name": "qdrant-memory-mcp",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/cnkang/qdrant-memory-mcp",
+    "description": "Metadata-only PyPI and MCP Registry distribution for the Qdrant Memory Runtime",
+    "description_zh": "Metadata-only PyPI and MCP Registry distribution for the Qdrant Memory Runtime",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "memory"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-market-sidebar",
+    "name": "dsh-market-sidebar",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/dingchenhui0618-arch/dsh-market-sidebar",
+    "description": "把 dshmarket 插件市场搬进 DSH 侧边栏 / Puts the dshmarket plugin market on the DSH sidebar",
+    "description_zh": "把 dshmarket 插件市场搬进 DSH 侧边栏 / Puts the dshmarket plugin market on the DSH sidebar",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-overall-mcp",
+    "name": "dsh-overall-mcp",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/YunzhouLi-hub/dsh-overall-mcp",
+    "description": "DSH plugin: host-wide MCP config scan + auto-import, plus a live MCP market (six catalogs, a local GitHub census, and install-command recovery)",
+    "description_zh": "DSH plugin: host-wide MCP config scan + auto-import, plus a live MCP market (six catalogs, a local GitHub census, and install-command recovery)",
+    "capabilities": [
+      "coding",
+      "git",
+      "mcp"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-bridge-market",
+    "name": "dsh-bridge-market",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/1575088/dsh-bridge-market",
+    "description": "桥接市场：给 DeepSeek Harness 的应用商店。49 个网站或 app 按卡片挑，点接入，agent 当场多出 mcp__<app>__* 工具；能一键接的一键接，接不上的给分步教程。",
+    "description_zh": "桥接市场：给 DeepSeek Harness 的应用商店。49 个网站或 app 按卡片挑，点接入，agent 当场多出 mcp__<app>__* 工具；能一键接的一键接，接不上的给分步教程。",
+    "capabilities": [
+      "coding",
+      "mcp",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "awesome-dsh-plugins-5",
+    "name": "awesome-dsh-plugins",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/zzylanmengqingchuan/awesome-dsh-plugins",
+    "description": "A curated, evidence-aware shortlist of useful DeepSeek Harness plugins",
+    "description_zh": "A curated, evidence-aware shortlist of useful DeepSeek Harness plugins",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-index-2",
+    "name": "dsh-plugin-index",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/polang233/dsh-plugin-index",
+    "description": "开放插件市场 / Open Plugin Market — Community plugins for DeepSeek Harness.",
+    "description_zh": "开放插件市场 / Open Plugin Market — Community plugins for DeepSeek Harness.",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-hub-9",
+    "name": "dsh-plugin-hub",
+    "type": "awesome-list",
+    "category": "registry",
+    "repository": "https://github.com/martinx/dsh-plugin-hub",
+    "description": "Landing page and plugin-market index for Martin's DeepSeek Harness plugins.",
+    "description_zh": "Landing page and plugin-market index for Martin's DeepSeek Harness plugins.",
     "capabilities": [
       "coding"
     ],

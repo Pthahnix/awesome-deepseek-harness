@@ -1,6 +1,6 @@
 ---
 title: "Awesome Lists & Registries"
-description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（405 条）。"
+description: "DeepSeek Harness (dsh) 精选 awesome lists & registries：🔥 Top 10 与完整列表（419 条）。"
 keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 ---
 # Awesome Lists & Registries
@@ -30,10 +30,10 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | 9 | [awesome-dsh-plugin](resources/awesome-dsh-plugin-anil-matcha-1.md) | ⭐966 | A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem | ✅ 活跃 |
 | 10 | [awesome-deepseek-coder](resources/awesome-deepseek-coder.md) | ⭐811 | 官方：DeepSeek 编码资源 | ✅ 活跃 |
 
-## 完整列表（405）
+## 完整列表（419）
 
 
-**注册表（405）**
+**注册表（419）**
 
 | 项目 | 星数 | 说明 | 状态 |
 |---|---|---|---|
@@ -220,6 +220,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-plugin-market](resources/dsh-plugin-market-6.md) | ⭐3 | A DeepSeek Harness plugin market: search and one-click install GitHub dsh-plugin plugins straight from the web GUI | ✅ 活跃 |
 | [dsh-plugin-market](resources/dsh-plugin-market-11.md) | ⭐3 | DSH 插件市场：在设置页浏览 mydsh.dev 插件大全（5596 候选 / 3656 有效），分类/AI 搜索、一键安装启用停用卸载、安全评估与自动重启。非官方社区 mydsh.dev 出品 | ✅ 活跃 |
 | [dsh-plugin-market](resources/dsh-plugin-market-12.md) | ⭐3 | 面向 DeepSeek Harness Web GUI 的持久化 Cordis 插件市场。它在“工作区”标题右侧、搜索/筛选/添加工作区之后放置一个 VS Code 风格的扩展图标，点击后从 GitHub 搜索 DSH 插件。 | ✅ 活跃 |
+| [dsh-plugin-market](resources/dsh-plugin-market-22.md) | ⭐3 | DSH plugin market index generated from awesome-dsh-plugin, served over jsDelivr | ✅ 活跃 |
 | [dsh-plugin-panel](resources/dsh-plugin-panel.md) | ⭐3 | DSH plugin marketplace panel with full catalog search, Chinese translation, semantic search, favorites, and lifecycle management. | ✅ 活跃 |
 | [dsh-plugin-publisher](resources/dsh-plugin-publisher.md) | ⭐3 | DSH 插件开发与 GitHub 发布工作流技能插件 (consent-gated) — develop, verify, publish & marketplace-visible DSH plugins | ✅ 活跃 |
 | [dsh-plugin-stars](resources/dsh-plugin-stars.md) | ⭐3 | DeepSeek Harness (DSH) plugin leaderboard & directory｜DeepSeek Harness（DSH）插件排行榜 / 插件目录，按 GitHub Stars 排序并自动更新。 | ✅ 活跃 |
@@ -311,6 +312,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [awesome-dsh-plugins](resources/awesome-dsh-plugins-oslook-1.md) | ⭐1 | DSH 插件精选列表 | ✅ 活跃 |
 | [awesome-dsh-plugins](resources/awesome-dsh-plugins-3.md) | ⭐1 | A curated, auto-updating list of plugins for DeepSeek Harness (dsh). Data-driven: YAML entries + scripts auto-generate bilingual README and a Vercel site; a daily GitHub Action crawler discovers new dsh plugins, classifies them, and writes back. | ✅ 活跃 |
 | [awesome-dsh-plugins](resources/awesome-dsh-plugins-4.md) | ⭐1 | Moved → github.com/awesome-dsh-plugin/awesome-dsh-plugin | ✅ 活跃 |
+| [awesome-dsh-plugins](resources/awesome-dsh-plugins-5.md) | ⭐1 | A curated, evidence-aware shortlist of useful DeepSeek Harness plugins | ✅ 活跃 |
 | [awesome-dsh-presets](resources/awesome-dsh-presets.md) | ⭐1 | DSH 预设目录 | ✅ 活跃 |
 | [awesome-ios-sim](resources/awesome-ios-sim.md) | ⭐1 | Simulator State as Code for iOS developers, CI, and AI agents—capture, diff, plan, and safely apply reproducible simulator profiles through a deterministic Swift CLI and MCP server. | ✅ 活跃 |
 | [Awesome-Physical-AI](resources/awesome-physical-ai.md) | ⭐1 | This repository provides a curated list of academic papers and resources on Physical AI — focusing on Foundation models, Vision-Language-Action (VLA) models, World models, Embodied AI and Resources of Relation Research and Application . | ✅ 活跃 |
@@ -332,6 +334,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-backup-sync](resources/dsh-backup-sync.md) | ⭐1 | DeepSeek Harness（DSH）备份/恢复 + 跨机同步插件：本地快照、WebDAV 推送/拉取、自动备份与失效归档清理。Snapshot backup, restore and cross-machine sync plugin for DeepSeek Harness: local snapshots, incremental WebDAV push/pull, auto-backup retention and stale archive sweep. | ✅ 活跃 |
 | [dsh-base-plugin](resources/dsh-base-plugin.md) | ⭐1 | Base plugin for DeepSeek Harness (DSH): plugin market, MCP, skills, usage, sessions, mobile access — zero harness source changes | ✅ 活跃 |
 | [dsh-boot-restore](resources/dsh-boot-restore.md) | ⭐1 | DSH plugin: auto-resume the last active (duty) session after service restart, so scheduled tasks run unattended | ✅ 活跃 |
+| [dsh-bridge-market](resources/dsh-bridge-market.md) | ⭐1 | 桥接市场：给 DeepSeek Harness 的应用商店。49 个网站或 app 按卡片挑，点接入，agent 当场多出 mcp__<app>__* 工具；能一键接的一键接，接不上的给分步教程。 | ✅ 活跃 |
 | [dsh-bull-bear](resources/dsh-bull-bear.md) | ⭐1 | Real-time stock market pet for DeepSeek Harness: the faster price rises the higher the bull raises its head, the faster it falls the deeper the bear lowers its head. Free Sina quotes. / 牛熊行情宠物插件。 | ✅ 活跃 |
 | [dsh-claude-marketplace](resources/dsh-claude-marketplace.md) | ⭐1 | Claude Code marketplace compatibility for DeepSeek Harness | ✅ 活跃 |
 | [dsh-cli-store](resources/dsh-cli-store.md) | ⭐1 | dsh-cli-store is a DeepSeek Harness plugin and a small command-line client for discovering, checking, and installing external CLI tools. | ✅ 活跃 |
@@ -343,6 +346,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-effort-memory](resources/dsh-effort-memory.md) | ⭐1 | Host-only DeepSeek Harness (DSH) bundle: remembers the reasoning effort last in effect per (provider, model) and restores it when a session switches back. | ✅ 活跃 |
 | [dsh-enhancement-suite](resources/dsh-enhancement-suite.md) | ⭐1 | Official enhancement suite for DeepSeek Harness — Vision, Soul/Persona, Long-term Memory & Plugin Marketplace. | ✅ 活跃 |
 | [dsh-fetch-third-party](resources/dsh-fetch-third-party.md) | ⭐1 | Safe third-party web fetch for DSH — delegates page crawling to user-configured services with no direct URL access (no SSRF), API keys in the managed credentials store, per-session budget, and an auto-managed local web scraping service stack. | ✅ 活跃 |
+| [dsh-file-undo](resources/dsh-file-undo.md) | ⭐1 | DSH plugin: undo file write/edit operations (snapshot before-state, restore with /undo) | ✅ 活跃 |
 | [dsh-firstrun](resources/dsh-firstrun.md) | ⭐1 | First-run health check for DeepSeek Harness (dsh): verifies Node/pnpm/dsh toolchain, profile, API key (names only), workspace and registry, then prints actionable next steps. Zero runtime deps, read-only. CLI + agent-callable quickstart tool. | ✅ 活跃 |
 | [dsh-github-sync](resources/dsh-github-sync-1.md) | ⭐1 | Publish a DeepSeek Harness workspace to GitHub: create the repo, initialize git, commit, and push — with the token held in the DSH credential store. | ✅ 活跃 |
 | [dsh-harmonyos-market](resources/dsh-harmonyos-market.md) | ⭐1 | HarmonyOS-exclusive plugin market for DeepSeek Harness — only plugins that actually run on HarmonyOS | ✅ 活跃 |
@@ -355,6 +359,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-market-desktop](resources/dsh-market-desktop.md) | ⭐1 | The plugin market inside DeepSeek Harness Desktop— browse, search, one-click install · DSH桌面端可视化插件市场 | ✅ 活跃 |
 | [dsh-market-gist-autosync](resources/dsh-market-gist-autosync.md) | ⭐1 | dsh-market-gist-autosync | ✅ 活跃 |
 | [dsh-market-quote](resources/dsh-market-quote.md) | ⭐1 | DSH tool plugin: realtime quotes and historical K-line for A-share / HK / US markets (Tencent public quote API) | ✅ 活跃 |
+| [dsh-market-sidebar](resources/dsh-market-sidebar.md) | ⭐1 | 把 dshmarket 插件市场搬进 DSH 侧边栏 / Puts the dshmarket plugin market on the DSH sidebar | ✅ 活跃 |
 | [dsh-market-skill](resources/dsh-market-skill.md) | ⭐1 | DSH Market 全局 skill：教 Agent 发现、评估、安装 DeepSeek Harness 插件/技能。Global skill teaching agents to use DSH Market (dsh.market) to discover, evaluate and install DSH plugins and skills. | ✅ 活跃 |
 | [dsh-mcp-console](resources/dsh-mcp-console.md) | ⭐1 | Manage the MCP servers of a DeepSeek Harness profile: status, switch, edit, export; add from the official MCP Registry, by hand, or with AI; find local software to connect | ✅ 活跃 |
 | [dsh-mcp-manager](resources/dsh-mcp-manager-8.md) | ⭐1 | DSH（DeepSeek Harness）的 MCP 总管理器：一个页面装好、找到、开关、改配所有 MCP 服务器 —— 活体 MCP Registry / npm 目录搜索、卡片式一键安装、自定义 stdio 与流式 HTTP 接入。 | ✅ 活跃 |
@@ -368,6 +373,7 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-nutstore-backup](resources/dsh-nutstore-backup.md) | ⭐1 | en: 'Backs up DeepSeek Harness sessions, plugin config and workspace memory to Nutstore (Jianguoyun) over WebDAV, with incremental upload, connection test and one-click restore on a new machine.'   zh: '把 DeepSeek Harness 的会话记录、插件配置与工作区记忆通过 WebDAV 增量备份到坚果云，支持连接测试与在新机器上一键恢复。' | ✅ 活跃 |
 | [dsh-oauth-login](resources/dsh-oauth-login.md) | ⭐1 | Pi-native multi-provider OAuth login for DeepSeek Harness. Independent store — never touches official CLI auth files. | ✅ 活跃 |
 | [dsh-okx-skill-hub](resources/dsh-okx-skill-hub.md) | ⭐1 | 📊OKX 官方行情技能库 for DeepSeek Harness (DSH)：将 OKX 官方 okx-cex-market 技能（价格/K线/资金费率/70+ 技术指标）零改动适配进 DSH 生态，支持纯技能目录与 dsh-plugin 插件双通道一键安装。 | ✅ 活跃 |
+| [dsh-overall-mcp](resources/dsh-overall-mcp.md) | ⭐1 | DSH plugin: host-wide MCP config scan + auto-import, plus a live MCP market (six catalogs, a local GitHub census, and install-command recovery) | ✅ 活跃 |
 | [dsh-pin-sessions](resources/dsh-pin-sessions.md) | ⭐1 | DSH (DeepSeek Harness) web plugin: pin sessions to the top of the sidebar for quick access to recurring workflows. Includes archive panel with batch delete, restore, and workspace grouping. | ✅ 活跃 |
 | [dsh-plgstore](resources/dsh-plgstore.md) | ⭐1 | 一款dsh的插件市场，点击链接一键直达： | ✅ 活跃 |
 | [dsh-plugin-archived-sessions](resources/dsh-plugin-archived-sessions.md) | ⭐1 | Manage archived DeepSeek Harness sessions: list, restore, and permanently delete with immediate sidebar synchronization. | ✅ 活跃 |
@@ -381,6 +387,8 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-plugin-hub](resources/dsh-plugin-hub-6.md) | ⭐1 | DSH 插件目录聚合与快照分发（cards-snapshot.json 每日构建） | ✅ 活跃 |
 | [dsh-plugin-hub](resources/dsh-plugin-hub-7.md) | ⭐1 | DeepSeek Harness tools for searching and ranking verified plugins from DSH Plugin Hub | ✅ 活跃 |
 | [DSH-Plugin-Hub](resources/dsh-plugin-hub-5.md) | ⭐1 | DSH Plugin Hub — 基于 GitHub REST Search API 构建的 dsh-plugin 主题仓库索引站。数据每 6 小时自动同步、完整性校验后发布为静态快照；前端基于 React + TypeScript (Vite)，支持中英双语、全文搜索、分类筛选与分页，浏览器零 API 调用、零追踪，即开即用。 | ✅ 活跃 |
+| [dsh-plugin-hub](resources/dsh-plugin-hub-9.md) | ⭐1 | Landing page and plugin-market index for Martin's DeepSeek Harness plugins. | ✅ 活跃 |
+| [dsh-plugin-index](resources/dsh-plugin-index-2.md) | ⭐1 | 开放插件市场 / Open Plugin Market — Community plugins for DeepSeek Harness. | ✅ 活跃 |
 | [dsh-plugin-kit](resources/dsh-plugin-kit-4.md) | ⭐1 | Shared zero-runtime-dependency toolkit for PerryLink DSH plugins: a pluggable Provider registry seam, fail-closed approval and adaptive session-event gates, mechanical verify scripts, shared sanitize/pricing/judge modules, and a new-plugin skeleton. | ✅ 活跃 |
 | [dsh-plugin-live-catalog](resources/dsh-plugin-live-catalog.md) | ⭐1 | DSH Web 设置中的只读插件目录。每次打开目录时读取当前 Loader 和插件包元数据，按“来源 → 模块类别”分组。 | ✅ 活跃 |
 | [dsh-plugin-manager](resources/dsh-plugin-manager-11.md) | ⭐1 | dsh pm — discover, install, update, and manage dsh plugins from the CLI: multi-source search (awesome list + GitHub + npm), doctor audit, per-profile state | ✅ 活跃 |
@@ -403,16 +411,20 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [dsh-plugins](resources/dsh-plugins-78.md) | ⭐1 | A collection of plugins for DeepSeek Harness. | ✅ 活跃 |
 | [dsh-plugins-CH3SH](resources/dsh-plugins-ch3sh.md) | ⭐1 | CH3SH 开发的 DeepSeek Harness (DSH) 插件目录：dsh-enter、dsh-auto | ✅ 活跃 |
 | [dsh-plugins-public](resources/dsh-plugins-public.md) | ⭐1 | Installable DeepSeek Harness plugin marketplace (Settings → Plugins) | ✅ 活跃 |
+| [dsh-pro-max](resources/dsh-pro-max.md) | ⭐1 | DeepSeek Harness desktop launcher — one-click local web UI, Tailscale-secured remote access, plugin marketplace & model configuration. Built with Tauri 2 + React + TypeScript. | ✅ 活跃 |
 | [dsh-prompt-optimization-master](resources/dsh-prompt-optimization-master.md) | ⭐1 | DSH 输入框一键提示词增强按钮 | One-click prompt enhancement for the DeepSeek Harness composer: rewrite the unsent draft into a clearer, more specific prompt, restore the original with one click. Ported from Tencent WorkBuddy's EnhancePrompt design; independent model call that never touches the session log. | ✅ 活跃 |
 | [dsh-restore-archived-sessions](resources/dsh-restore-archived-sessions.md) | ⭐1 | 查看并恢复 Harness 中已被归档的会话 | ✅ 活跃 |
+| [dsh-session-backup](resources/dsh-session-backup.md) | ⭐1 | DeepSeek Harness plugin: back up every session before deletion, batch-select sessions in the Web GUI, restore a backup in one click | ✅ 活跃 |
 | [dsh-session-delete](resources/dsh-session-delete-9.md) | ⭐1 | Session recycle bin and permanent delete for DeepSeek Harness. Sidebar delete, restore, batch purge, and active-session protection. | ✅ 活跃 |
 | [dsh-session-manager](resources/dsh-session-manager-4.md) | ⭐1 | Session manager for DeepSeek Harness: restore archived sessions, delete-all, inline content preview. | ✅ 活跃 |
 | [dsh-session-manager](resources/dsh-session-manager-8.md) | ⭐1 | DeepSeek Harness (DSH) plugin: manage archived sessions - list, restore, permanently delete; Settings page + red delete item in the session context menu | ✅ 活跃 |
+| [dsh-session-manager](resources/dsh-session-manager-9.md) | ⭐1 | DSH session migration plugin: drag-and-drop sessions between workspaces in the Web UI settings panel (auto backup/rollback, official workspaceRegistry sync) | ✅ 活跃 |
 | [dsh-session-trash](resources/dsh-session-trash-1.md) | ⭐1 | Session trash for DeepSeek Harness: move conversations to a trash, restore them, or delete them permanently after a second confirmation. | ✅ 活跃 |
 | [dsh-session-unarchive](resources/dsh-session-unarchive.md) | ⭐1 | Adds an archived-sessions view and a restore action to the dsh Web GUI — implemented as a pure Cordis plugin (host half + client half), with zero file patches. It survives dsh upgrades: nothing is written under the dsh install directory. | ✅ 活跃 |
 | [dsh-shop-assistant](resources/dsh-shop-assistant.md) | ⭐1 | DeepSeek Harness ecommerce plugin: CSV batch review replies, reproducible product scoring, Chinese skills, store-policy KB. | ✅ 活跃 |
 | [dsh-skill-market](resources/dsh-skill-market-1.md) | ⭐1 | Browse, search and install SkillHub skills inside DeepSeek Harness. / 在 DeepSeek Harness 内浏览、搜索并安装 SkillHub 技能。 | ✅ 活跃 |
 | [dsh-skill-store](resources/dsh-skill-store.md) | ⭐1 | DeepSeek Harness 社区技能商店：浏览、搜索并一键安装来自 SkillHub / ClawHub / GitHub 的 13 万+ Agent Skills，支持星标排序与中文分类 | ✅ 活跃 |
+| [dsh-skin-chatlab](resources/dsh-skin-chatlab.md) | ⭐1 | Extensible chat-skin monorepo for the DeepSeek Harness Web GUI: a base registry + plug-in skin packages (Feishu-style chat bubbles), plug-and-play without touching chat logic. | ✅ 活跃 |
 | [DSH-SmsWebhook](resources/dsh-smswebhook.md) | ⭐1 | SMS forwarding webhook for DeepSeek Harness: receive pushes from phone SMS Forwarder apps, store them, expose sms_recent / sms_search tools. | ✅ 活跃 |
 | [dsh-system-net](resources/dsh-system-net.md) | ⭐1 | Make DeepSeek Harness follow your system network settings - route through the OS proxy and trust its certificate store, so TLS-intercepting accelerators work without env vars or a restart. 让 DSH 走系统代理并信任系统证书库，免环境变量、免重启。 | ✅ 活跃 |
 | [dsh-tally](resources/dsh-tally.md) | ⭐1 | Personal bookkeeping for DeepSeek Harness: record expenses/income (single or batch), list, monthly/annual stats with trends, budgets with progress/over-limit alerts, soft-delete restore, CSV & self-contained HTML report. Zero deps, local JSON. 个人记账插件 | ✅ 活跃 |
@@ -430,6 +442,8 @@ keywords: "deepseek harness, dsh, awesome lists registries, plugin, awesome"
 | [market-watch](resources/market-watch.md) | ⭐1 | Financial market monitor for DeepSeek Harness (dsh bundle): real-time quotes, local watchlist, threshold alerts, periodic polling, ASCII/mermaid charts for A-share stocks, indices and crypto. | ✅ 活跃 |
 | [NewAgentUniverseByDeepSeek](resources/newagentuniversebydeepseek.md) | ⭐1 | NewAgentUniverseByDeepSeek V3.4.5 — a clean-room rewrite of the agent-universe swarm-agent design: DID identity, exact integer ledger, authenticated BFT-lite verification, agent marketplace, and an everything-is-a-plugin kernel with hot update. Ships a DeepSeek Harness plugin. Upstream: https://github.com/TwinsEarth/agent-universe (MIT). | ✅ 活跃 |
 | [omdsh-basemode](resources/omdsh-basemode.md) | ⭐1 | The session-mode system for the DeepSeek Harness web GUI: the segment registry every mode plugin registers into, the switch that renders them, and the sidebar dots that colour their conversations | ✅ 活跃 |
+| [pi-cordis](resources/pi-cordis.md) | ⭐1 | 🥧 Developer-first terminal coding agent rebuilt on Cordis (v4.0.1) microkernel with an "Everything is a plugin" architecture. 100% Pi parity & marketplace compatible. | ✅ 活跃 |
+| [qdrant-memory-mcp](resources/qdrant-memory-mcp.md) | ⭐1 | Metadata-only PyPI and MCP Registry distribution for the Qdrant Memory Runtime | ✅ 活跃 |
 | [Smart-DSH-Market](resources/smart-dsh-market.md) | ⭐1 | Smart DSH Suite v2.0: Dual-engine plugin marketplace (12k+ plugins) with project-stage-aware recommendations & 26px Nano HUD. | ✅ 活跃 |
 | [sparkles](resources/sparkles.md) | ⭐1 | Pi and DSH plugins for stock market | ✅ 活跃 |
 | [awesome-deepseek-harness](resources/awesome-deepseek-harness-rodert-1.md) | – | DeepSeek Harness 精选资源 | ✅ 活跃 |

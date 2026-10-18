@@ -3222,6 +3222,25 @@
     "license": "MIT"
   },
   {
+    "id": "dbk-skills",
+    "name": "dbk-skills",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/DBinK/dbk-skills",
+    "description": "面向代码质量、工程安全与人机权责边界的 Agent Skills 集合（涵盖协作守则、Git/PR 工作流、Python 与 Rust 门禁）。 | Agent Skills for code quality, human-in-the-loop safety, Git/PR workflows, and Python/Rust gates across any AI coding agent.",
+    "description_zh": "面向代码质量、工程安全与人机权责边界的 Agent Skills 集合（涵盖协作守则、Git/PR 工作流、Python 与 Rust 门禁）。 | Agent Skills for code quality, human-in-the-loop safety, Git/PR workflows, and Python/Rust gates across any AI coding agent.",
+    "capabilities": [
+      "coding",
+      "git",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 3,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-plugin-verified-search",
     "name": "dsh-plugin-verified-search",
     "type": "workflow",
@@ -7378,6 +7397,143 @@
     "capabilities": [
       "coding",
       "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-palm",
+    "name": "dsh-palm",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Eternalloveone/dsh-palm",
+    "description": "Standalone mobile surface for the dsh web GUI: scan-to-pair device trust, /m/ phone UI, realtime SSE mux, task plan & background jobs, offline outbox, PWA",
+    "description_zh": "Standalone mobile surface for the dsh web GUI: scan-to-pair device trust, /m/ phone UI, realtime SSE mux, task plan & background jobs, offline outbox, PWA",
+    "capabilities": [
+      "coding",
+      "ui",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "Apache-2.0"
+  },
+  {
+    "id": "dsh-sidebar-panel-buttons",
+    "name": "dsh-sidebar-panel-buttons",
+    "type": "workflow",
+    "category": "automation",
+    "repository": "https://github.com/ruanimal/dsh-sidebar-panel-buttons",
+    "description": "把 dsh Web 侧边栏顶部的全局面板菜单（插件 / 扩展管理 / 定时任务 / IM …）从「竖向文字列表」",
+    "description_zh": "把 dsh Web 侧边栏顶部的全局面板菜单（插件 / 扩展管理 / 定时任务 / IM …）从「竖向文字列表」",
+    "capabilities": [
+      "coding"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-dev-workflow",
+    "name": "dsh-dev-workflow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/Melosic/dsh-dev-workflow",
+    "description": "A development workflow for coding agents, packaged as a",
+    "description_zh": "A development workflow for coding agents, packaged as a",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-root-planner-preset",
+    "name": "dsh-root-planner-preset",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/XiaoOu2024/dsh-root-planner-preset",
+    "description": "Split reading from deciding: the root agent plans and owns every file mutation; subagents are structurally read-only and report findings as summaries.",
+    "description_zh": "Split reading from deciding: the root agent plans and owns every file mutation; subagents are structurally read-only and report findings as summaries.",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-connect-modelscope-token-plan",
+    "name": "dsh-connect-modelscope-token-plan",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/eghrhegpe/dsh-connect-modelscope-token-plan",
+    "description": "ModelScope (modelscope.cn) connect bundle for the DeepSeek Harness: a local-usage quota panel for the free API-Inference tier plus optional provider registration.",
+    "description_zh": "ModelScope (modelscope.cn) connect bundle for the DeepSeek Harness: a local-usage quota panel for the free API-Inference tier plus optional provider registration.",
+    "capabilities": [
+      "coding",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-advisor-flow",
+    "name": "dsh-advisor-flow",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/ccll/dsh-advisor-flow",
+    "description": "DeepSeek Harness plugin: on-demand executor/advisor workflow ported from pi-advisor-flow — ask_advisor, review gates, usage ledger, privacy tiers",
+    "description_zh": "DeepSeek Harness plugin: on-demand executor/advisor workflow ported from pi-advisor-flow — ask_advisor, review gates, usage ledger, privacy tiers",
+    "capabilities": [
+      "coding",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-bootstrap",
+    "name": "dsh-bootstrap",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/why-sir/dsh-bootstrap",
+    "description": "DSH onboarding plugin: domain-based plugin recommendations (GitHub stars + npm downloads), one-click install with a reviewable plan, and environment-code export/import to clone or switch a profile. ｜ DSH 新人引导插件",
+    "description_zh": "DSH onboarding plugin: domain-based plugin recommendations (GitHub stars + npm downloads), one-click install with a reviewable plan, and environment-code export/import to clone or switch a profile. ｜ DSH 新人引导插件",
+    "capabilities": [
+      "coding",
+      "git",
+      "workflow"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1
+  },
+  {
+    "id": "dsh-skill-writing-plans",
+    "name": "dsh-skill-writing-plans",
+    "type": "workflow",
+    "category": "workflow",
+    "repository": "https://github.com/linlin539/dsh-skill-writing-plans",
+    "description": "DeepSeek Harness skill plugin: writing-plans",
+    "description_zh": "DeepSeek Harness skill plugin: writing-plans",
+    "capabilities": [
+      "coding",
+      "workflow"
     ],
     "status": "active",
     "verified": false,

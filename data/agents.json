@@ -3208,6 +3208,23 @@
     "license": "MIT"
   },
   {
+    "id": "dsh-tower",
+    "name": "dsh-tower",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/louifinn/dsh-tower",
+    "description": "Tower plugin for DeepSeek Harness: multi-agent missions, worktree isolation, review-gated merges, human-owned Tower mode. Inspired by Kimi Code's Tower mode.",
+    "description_zh": "Tower plugin for DeepSeek Harness: multi-agent missions, worktree isolation, review-gated merges, human-owned Tower mode. Inspired by Kimi Code's Tower mode.",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 2,
+    "license": "MIT"
+  },
+  {
     "id": "dsh-supervisor",
     "name": "dsh-supervisor",
     "type": "agent",
@@ -4999,6 +5016,58 @@
     "status": "active",
     "verified": false,
     "stars": 1
+  },
+  {
+    "id": "dsh-code-review-6",
+    "name": "dsh-code-review",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/SipengXie2024/dsh-code-review",
+    "description": "Claude Code v2.1.x built-in /code-review skill ported to dsh (DeepSeek Harness): angle-based multi-agent review pipeline as a plain skill",
+    "description_zh": "Claude Code v2.1.x built-in /code-review skill ported to dsh (DeepSeek Harness): angle-based multi-agent review pipeline as a plain skill",
+    "capabilities": [
+      "coding",
+      "multi-agent",
+      "ui"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-plugin-subagent-roster",
+    "name": "dsh-plugin-subagent-roster",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/121212165/dsh-plugin-subagent-roster",
+    "description": "Constrained subagent roster for DeepSeek Harness: one tool per role, each pinning a child system prompt, a capability allow-list, and a model tier. Bulk work vs team work by tool shape. 子代理名册：按角色约束系统提示词/能力范围/模型档位。",
+    "description_zh": "Constrained subagent roster for DeepSeek Harness: one tool per role, each pinning a child system prompt, a capability allow-list, and a model tier. Bulk work vs team work by tool shape. 子代理名册：按角色约束系统提示词/能力范围/模型档位。",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
+  },
+  {
+    "id": "dsh-subagent-injection",
+    "name": "dsh-subagent-injection",
+    "type": "agent",
+    "category": "multi-agent",
+    "repository": "https://github.com/Minhyuin/dsh-subagent-injection",
+    "description": "DSH Web plugin: configure priority-ordered provider/model/reasoning-effort routes for subagent delegation, and gate subagent_fork",
+    "description_zh": "DSH Web plugin: configure priority-ordered provider/model/reasoning-effort routes for subagent delegation, and gate subagent_fork",
+    "capabilities": [
+      "coding",
+      "multi-agent"
+    ],
+    "status": "active",
+    "verified": false,
+    "stars": 1,
+    "license": "MIT"
   },
   {
     "id": "dsh-skill-evolve",
